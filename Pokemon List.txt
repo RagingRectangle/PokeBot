@@ -1,1218 +1,1090 @@
 FULL LIST OF SEARCHABLE POKEMON:
 
-“Abomasnow Female"
-“Abomasnow Mega"
-“Abomasnow"
-“Abra"
-“Absol Mega"
-“Absol"
-“Accelgor"
-“Aegislash Blade"
-“Aegislash"
-“Aerodactyl Mega"
-“Aerodactyl"
-“Aggron Mega"
-“Aggron"
-“Aipom Female"
-“Aipom"
-“Alakazam Mega"
-“Alakazam"
-“Alomomola"
-“Altaria Mega"
-“Altaria"
-“Amaura"
-“Ambipom Female"
-“Ambipom"
-“Amoonguss"
-“Ampharos Mega"
-“Ampharos"
-“Anorith"
-“Araquanid Totem"
-“Araquanid"
-“Arbok"
-“Arcanine"
-“Arceus Bug"
-“Arceus Dark"
-“Arceus Dragon"
-“Arceus Electric"
-“Arceus Fairy"
-“Arceus Fighting"
-“Arceus Fire"
-“Arceus Flying"
-“Arceus Ghost"
-“Arceus Grass"
-“Arceus Ground"
-“Arceus Ice"
-“Arceus Poison"
-“Arceus Psychic"
-“Arceus Rock"
-“Arceus Steel"
-“Arceus Water"
-“Arceus"
-“Archen"
-“Archeops"
-“Ariados"
-“Armaldo"
-“Aromatisse"
-“Aron"
-“Articuno"
-“Audino Mega"
-“Audino"
-“Aurorus"
-“Aurumoth"
-“Avalugg"
-“Axew"
-“Azelf"
-“Azumarill"
-“Azurill"
-“Back"
-“Bagon"
-“Baltoy"
-“Banette Mega"
-“Banette"
-“Barbaracle"
-“Barboach"
-“Barboarch"
-“Basculin Bluestriped"
-“Basculin"
-“Bastiodon"
-“Bayleef"
-“Beartic"
-“Beautifly Female"
-“Beautifly"
-“Beedrill Mega"
-“Beedrill"
-“Beheeyem"
-“Beldum"
-“Bellossom"
-“Bellsprout"
-“Bergmite"
-“Bewear"
-“Bibarel Female"
-“Bibarel"
-“Bidoof Female"
-“Bidoof"
-“Binacle"
-“Bisharp"
-“Blacephalon"
-“Blastoise Mega"
-“Blastoise"
-“Blaziken Female"
-“Blaziken Mega"
-“Blaziken"
-“Blissey"
-“Blitzle"
-“Boldore"
-“Bonsly"
-“Bouffalant"
-“Bounsweet"
-“Braixen"
-“Braviary"
-“Breloom"
-“Brionne"
-“Bronzong"
-“Bronzor"
-“Bruxish"
-“Budew"
-“Buizel Female"
-“Buizel"
-“Bulbasaur"
-“Buneary"
-“Bunnelby"
-“Burmy Sandy"
-“Burmy Trash"
-“Burmy"
-“Butterfree"
-“Buzzwole"
-“Cacnea"
-“Cacturne Female"
-“Cacturne"
-“Camerupt Female"
-“Camerupt Mega"
-“Camerupt"
-“Camperupt Mega"
-“Carbink"
-“Caribolt"
-“Carnivine"
-“Carracosta"
-“Carvanha"
-“Cascoon"
-“Castform Rainy"
-“Castform Snowy"
-“Castform Sunny"
-“Castform"
-“Caterpie"
-“Cawmodore"
-“Celebi"
-“Celesteela"
-“Chandelure"
-“Chansey"
-“Charizard Mega X"
-“Charizard Mega Y"
-“Charizard"
-“Charjabug"
-“Charmander"
-“Charmeleon"
-“Chatot"
-“Cherrim Sunshine"
-“Cherrim"
-“Cherrim Overcast"
-“Cherubi"
-“Chesnaught"
-“Chespin"
-“Chikorita"
-“Chimchar"
-“Chimecho"
-“Chinchou"
-“Chingling"
-“Cinccino"
-“Clamperl"
-“Clauncher"
-“Clawitzer"
-“Claydol"
-“Clefable"
-“Clefairy"
-“Cleffa"
-“Cloyster"
-“Cobalion"
-“Cofagrigus"
-“Combee Female"
-“Combee"
-“Combusken Female"
-“Combusken"
-“Comfey"
-“Conkeldurr"
-“Corphish"
-“Corsola"
-“Cosmoem"
-“Cosmog"
-“Cottonee"
-“Crabominable"
-“Crabrawler"
-“Cradily"
-“Cranidos"
-“Crawdaunt"
-“Cresselia"
-“Croagunk Female"
-“Croagunk"
-“Crobat"
-“Croconaw"
-“Crucibelle Mega"
-“Crucibelle"
-“Crustle"
-“Cryogonal"
-“Cubchoo"
-“Cubone"
-“Cutiefly"
-“Cyndaquil"
-“Darkrai"
-“Darmanitan Zen"
-“Darmanitan"
-“Dartrix"
-“Darumaka"
-“Decidueye"
-“Dedenne"
-“Deerling Autumn"
-“Deerling Summer"
-“Deerling Winter"
-“Deerling"
-“Deino"
-“Delcatty"
-“Delibird"
-“Delphox"
-“Deoxys Attack"
-“Deoxys Defense"
-“Deoxys Speed"
-“Deoxys"
-“Dewgong"
-“Dewott"
-“Dewpider"
-“Dhelmise"
-“Dialga"
-“Diancie Mega"
-“Diancie"
-“Diggersby"
-“Diglett Alola"
-“Diglett"
-“Ditto"
-“Dodrio"
-“Doduo"
-“Donphan Female"
-“Donphan"
-“Doublade"
-“Dragalge"
-“Dragonair"
-“Dragonite"
-“Drampa"
-“Drapion"
-“Dratini"
-“Drifblim"
-“Drifloon"
-“Drilbur"
-“Drowzee"
-“Druddigon"
-“Ducklett"
-“Dugtrio Alola"
-“Dugtrio"
-“Dunsparce"
-“Duosion"
-“Durant"
-“Dusclops"
-“Dusknoir"
-“Duskull"
-“Dustox Female"
-“Dustox"
-“Dwebble"
-“Eelektrik"
-“Eelektross"
-“Eevee"
-“Ekans"
-“Electabuzz"
-“Electivire"
-“Electrike"
-“Electrode"
-“Elekid"
-“Elgyem"
-“Emboar"
-“Emolga"
-“Empoleon"
-“Entei"
-“Escavalier"
-“Espeon"
-“Espurr"
-“Excadrill"
-“Exeggcute"
-“Exeggutor Alola"
-“Exeggutor"
-“Exploud"
-“Farfetchd"
-“Fearow"
-“Feebas"
-“Fennekin"
-“Feraligatr"
-“Ferroseed"
-“Ferrothorn"
-“Finneon Female"
-“Finneon"
-“Flaaffy"
-“Flabebe Blue"
-“Flabebe Orange"
-“Flabebe White"
-“Flabebe Yellow"
-“Flabebe"
-“Flareon"
-“Fletchinder"
-“Fletchling"
-“Floatzel Female"
-“Floatzel"
-“Floette Blue"
-“Floette Eternal"
-“Floette Orange"
-“Floette White"
-“Floette Yellow"
-“Floette"
-“Florges Blue"
-“Florges Orange"
-“Florges White"
-“Florges Yellow"
-“Florges"
-“Flygon"
-“Fomantis"
-“Foongus"
-“Forretress"
-“Fraxure"
-“Frillish Female"
-“Frillish"
-“Froakie"
-“Frogadier"
-“Froslass"
-“Furfrou Dandy"
-“Furfrou Debutante"
-“Furfrou Diamond"
-“Furfrou Heart"
-“Furfrou Kabuki"
-“Furfrou Lareine"
-“Furfrou Matron"
-“Furfrou Pharaoh"
-“Furfrou Star"
-“Furfrou"
-“Furret"
-“Gabite Female"
-“Gabite"
-“Gallade Mega"
-“Gallade"
-“Galvantula"
-“Garbodor"
-“Garchomp Female"
-“Garchomp Mega"
-“Garchomp"
-“Gardevoir Mega"
-“Gardevoir"
-“Gastly"
-“Gastrodon East"
-“Gastrodon"
-“Genesect Burn"
-“Genesect Chill"
-“Genesect Douse"
-“Genesect Shock"
-“Genesect"
-“Gengar Mega"
-“Gengar"
-“Geodude Alola"
-“Geodude"
-“Gible Female"
-“Gible"
-“Gigalith"
-“Girafarig Female"
-“Girafarig"
-“Giratina Origin"
-“Giratina"
-“Glaceon"
-“Glalie Mega"
-“Glalie"
-“Glameow"
-“Gligar Female"
-“Gligar"
-“Gliscor"
-“Gloom"
-“Gogoat"
-“Golbat Female"
-“Golbat"
-“Goldeen"
-“Golduck"
-“Golem Alola"
-“Golem"
-“Golett"
-“Golisopod"
-“Golurk"
-“Goodra"
-“Goomy"
-“Gorebyss"
-“Gothita"
-“Gothitelle"
-“Gothorita"
-“Gourgeist Large"
-“Gourgeist Small"
-“Gourgeist Super"
-“Gourgeist"
-“Granbull"
-“Graveler Alola"
-“Graveler"
-“Greninja Ash"
-“Greninja"
-“Grimer Alola"
-“Grimer"
-“Grotle"
-“Groudon Primal"
-“Groudon"
-“Grovyle"
-“Growlithe"
-“Grubbin"
-“Grumpig"
-“Gulpin Female"
-“Gulpin"
-“Gumshoos Totem"
-“Gumshoos"
-“Gurdurr"
-“Guzzlord"
-“Gyarados Mega"
-“Gyarados"
-“Hakamoo"
-“Happiny"
-“Hariyama"
-“Haunter"
-“Hawlucha"
-“Haxorus"
-“Heatmor"
-“Heatran"
-“Heliolisk"
-“Helioptile"
-“Heracross Female"
-“Heracross Mega"
-“Heracross"
-“Herdier"
-“Hippopotas Female"
-“Hippopotas"
-“Hippowdon Female"
-“Hippowdon"
-“Hitmonchan"
-“Hitmonlee"
-“Hitmontop"
-“Honchkrow"
-“Honedge"
-“Ho-oh"
-“Hoopa Mega"
-“Hoopa Unbound"
-“Hoopa"
-“Hoothoot"
-“Hoppip"
-“Horsea"
-“Houndoom Female"
-“Houndoom Mega"
-“Houndoom"
-“Houndour"
-“Huntail"
-“Hydreigon"
-“Hypno"
-“Igglybuff"
-“Illumise"
-“Image2"
-“Incineroar"
-“Infernape"
-“Inkay"
-“Ivysaur"
-“Jangmoo"
-“Jellicent Female"
-“Jellicent"
-“Jigglypuff"
-“Jirachi"
-“Jolteon"
-“Joltik"
-“Jumbao"
-“Jumpluff"
-“Jynx"
-“Kabuto"
-“Kabutops"
-“Kadabra"
-“Kakuna"
-“Kangaskhan Mega"
-“Kangaskhan"
-“Karrablast"
-“Kartana"
-“Kecleon"
-“Keldeo Resolute"
-“Keldeo"
-“Kingdra"
-“Kingler"
-“Kirlia"
-“Klang"
-“Klefki"
-“Klink"
-“Klinklang"
-“Koffing"
-“Komala"
-“Kommo O Totem"
-“Kommoo"
-“Krabby"
-“Kricketot Female"
-“Kricketot"
-“Kricketune Female"
-“Kricketune"
-“Krilowatt"
-“Krokorok"
-“Krookodile"
-“Kyogre Primal"
-“Kyogre"
-“Kyurem Black"
-“Kyurem White"
-“Kyurem"
-“Lairon"
-“Lampent"
-“Landorus Therian"
-“Landorus"
-“Lanturn"
-“Lapras"
-“Larvesta"
-“Larvitar"
-“Latias Mega"
-“Latias"
-“Latios Mega"
-“Latios"
-“Leafeon"
-“Leavanny"
-“Ledian Female"
-“Ledian"
-“Ledyba Female"
-“Ledyba"
-“Lickilicky"
-“Lickitung"
-“Liepard"
-“Lileep"
-“Lilligant"
-“Lillipup"
-“Linoone"
-“Litleo"
-“Litten"
-“Litwick"
-“Lombre"
-“Lopunny Mega"
-“Lopunny"
-“Lotad"
-“Loudred"
-“Lucario Mega"
-“Lucario"
-“Ludicolo Female"
-“Ludicolo"
-“Lugia"
-“Lumineon Female"
-“Lumineon"
-“Lunala"
-“Lunatone"
-“Lurantis Totem"
-“Lurantis"
-“Luvdisc"
-“Luxio Female"
-“Luxio"
-“Luxray Female"
-“Luxray"
-“Lycanroc Dusk"
-“Lycanroc Midnight"
-“Lycanroc"
-“Machamp"
-“Machoke"
-“Machop"
-“Magby"
-“Magcargo"
-“Magearna Original"
-“Magearna"
-“Magikarp Female"
-“Magikarp"
-“Magmar"
-“Magmortar"
-“Magnemite"
-“Magneton"
-“Magnezone"
-“Makuhita"
-“Malaconda"
-“Malamar"
-“Mamoswine Female"
-“Mamoswine"
-“Manaphy"
-“Mandibuzz"
-“Manectric Mega"
-“Manectric"
-“Mankey"
-“Mantine"
-“Mantyke"
-“Maractus"
-“Mareanie"
-“Mareep"
-“Marill"
-“Marowak Alola Totem"
-“Marowak Alola"
-“Marowak Totem"
-“Marowak"
-“Marshadow"
-“Marshtomp"
-“Masquerain"
-“Mawile Mega"
-“Mawile"
-“Medicham Female"
-“Medicham Mega"
-“Medicham"
-“Meditite Female"
-“Meditite"
-“Meganium Female"
-“Meganium"
-“Meloetta Pirouette"
-“Meloetta"
-“Meowstic Female"
-“Meowstic"
-“Meowth Alola"
-“Meowth"
-“Mesprit"
-“Metagross Mega"
-“Metagross"
-“Metang"
-“Metapod"
-“Mew"
-“Mewtwo Mega X"
-“Mewtwo Mega Y"
-“Mewtwo"
-“Mienfoo"
-“Mienshao"
-“Mightyena"
-“Milotic Female"
-“Milotic"
-“Miltank"
-“Mimejr"
-“Mimikyu Busted"
-“Mimikyu Totem Busted"
-“Mimikyu Totem"
-“Mimikyu"
-“Minccino"
-“Minior Blue"
-“Minior Green"
-“Minior Indigo"
-“Minior Meteor"
-“Minior Orange"
-“Minior Violet"
-“Minior Yellow"
-“Minior"
-“Minun"
-“Misdreavus"
-“Mismagius"
-“Mollux"
-“Moltres"
-“Monferno"
-“Morelull"
-“Mothim"
-“Mrmime"
-“Mr. Mime"
-“Mr Mime"
-“Mudbray"
-“Mudkip"
-“Mudsdale"
-“Muk Alola"
-“Muk"
-“Munchlax"
-“Munna"
-“Murkrow Female"
-“Murkrow"
-“Musharna"
-“Naganadel"
-“Natu"
-“Naviathan"
-“Necrozma Dawnwings"
-“Necrozma Duskmane"
-“Necrozma Ultra"
-“Necrozma"
-“Necturna"
-“Nidoking"
-“Nidoqueen"
-“Nidoran Female"
-“Nidoran"
-“Nidoran Male"
-“Nidoranf"
-“Nidoranm"
-“Nidorina"
-“Nidorino"
-“Nihilego"
-“Nincada"
-“Ninetales Alola"
-“Ninetales"
-“Ninjask"
-“Noctowl"
-“Noibat"
-“Noivern"
-“Nosepass"
-“Numel Female"
-“Numel"
-“Nuzleaf Female"
-“Nuzleaf"
-“Octillery Female"
-“Octillery"
-“Oddish"
-“Omanyte"
-“Omastar"
-“Onix"
-“Oranguru"
-“Oricorio Pau"
-“Oricorio Pompom"
-“Oricorio Sensu"
-“Oricorio"
-“Oshawott"
-“Pachirisu Female"
-“Pachirisu"
-“Pajantom"
-“Palkia"
-“Palossand"
-“Palpitoad"
-“Pancham"
-“Pangoro"
-“Panpour"
-“Pansage"
-“Pansear"
-“Paras"
-“Parasect"
-“Passimian"
-“Patrat"
-“Pawniard"
-“Pelipper"
-“Persian Alola"
-“Persian"
-“Petilil"
-“Phanpy"
-“Phantump"
-“Pheromosa"
-“Phione"
-“Pichu"
-“Pidgeot Mega"
-“Pidgeot"
-“Pidgeotto"
-“Pidgey"
-“Pidove"
-“Pignite"
-“Pikachu Alola"
-“Pikachu Belle"
-“Pikachu Cosplay"
-“Pikachu Female"
-“Pikachu Hoenn"
-“Pikachu Kalos"
-“Pikachu Libre"
-“Pikachu Original"
-“Pikachu Partner"
-“Pikachu Phd"
-“Pikachu Pop Star"
-“Pikachu Popstar"
-“Pikachu Rockstar"
-“Pikachu Sinnoh"
-“Pikachu Unova"
-“Pikachu"
-“Pikipek"
-“Piloswine Female"
-“Piloswine"
-“Pineco"
-“Pinsir Mega"
-“Pinsir"
-“Piplup"
-“Plasmanta"
-“Pluffle"
-“Plusle"
-“Poipole"
-“Pokestarblackbelt"
-“Pokestarblackdoor"
-“Pokestarbrycenman"
-“Pokestarf00"
-“Pokestarf002"
-“Pokestargiant"
-“Pokestarhumanoid"
-“Pokestarmonster"
-“Pokestarmt"
-“Pokestarmt2"
-“Pokestarsmeargle"
-“Pokestarspirit"
-“Pokestartransport"
-“Pokestarufo 2"
-“Pokestarufo"
-“Pokestarufo2"
-“Pokestarwhitedoor"
-“Politoed Female"
-“Politoed"
-“Poliwag"
-“Poliwhirl"
-“Poliwrath"
-“Ponyta"
-“Poochyena"
-“Popplio"
-“Porygon Z"
-“Porygon"
-“Porygon2"
-“Porygonz"
-“Primarina"
-“Primeape"
-“Prinplup"
-“Probopass"
-“Psyduck"
-“Pumpkaboo Large"
-“Pumpkaboo Small"
-“Pumpkaboo Super"
-“Pumpkaboo"
-“Pupitar"
-“Purrloin"
-“Purugly"
-“Pyroak"
-“Pyroar Female"
-“Pyroar"
-“Pyukumuku"
-“Quagsire Female"
-“Quagsire"
-“Quilava"
-“Quilladin"
-“Qwilfish"
-“Raichu Alola"
-“Raichu"
-“Raikou"
-“Ralts"
-“Rampardos"
-“Rapidash"
-“Raticate Alola Totem"
-“Raticate Alola"
-“Raticate Female"
-“Raticate Totem A"
-“Raticate"
-“Rattata Alola"
-“Rattata Female"
-“Rattata"
-“Rayquaza Mega"
-“Rayquaza"
-“Regice"
-“Regigigas"
-“Regirock"
-“Registeel"
-“Relicanth Female"
-“Relicanth"
-“Remoraid"
-“Reshiram"
-“Reuniclus"
-“Rhydon Female"
-“Rhydon"
-“Rhyhorn"
-“Rhyperior Female"
-“Rhyperior"
-“Ribombee"
-“Riolu"
-“Rockruff"
-“Roggenrola"
-“Roselia Female"
-“Roselia"
-“Roserade Female"
-“Roserade"
-“Rotom Fan"
-“Rotom Female"
-“Rotom Frost"
-“Rotom H"
-“Rotom Heat"
-“Rotom M"
-“Rotom Mow"
-“Rotom S"
-“Rotom W"
-“Rotom Wash"
-“Rotom"
-“Rowlet"
-“Rufflet"
-“Sableye Mega"
-“Sableye"
-“Salamence Mega"
-“Salamence"
-“Salandit"
-“Salazzle Totem"
-“Salazzle"
-“Samurott"
-“Sandile"
-“Sandshrew Alola"
-“Sandshrew"
-“Sandslash Alola"
-“Sandslash"
-“Sandygast"
-“Sawk"
-“Sawsbuck Autumn"
-“Sawsbuck Summer"
-“Sawsbuck Winter"
-“Sawsbuck"
-“Scatterbug"
-“Sceptile Mega"
-“Sceptile"
-“Scizor Female"
-“Scizor Mega"
-“Scizor"
-“Scolipede"
-“Scrafty"
-“Scraggy"
-“Scratchet"
-“Scyther Female"
-“Scyther"
-“Seadra"
-“Seaking"
-“Sealeo"
-“Seedot"
-“Seel"
-“Seismitoad"
-“Sentret"
-“Serperior"
-“Servine"
-“Seviper"
-“Sewaddle"
-“Shapedo Mega"
-“Sharpedo Mega"
-“Sharpedo"
-“Shaymin Sky"
-“Shaymin"
-“Shedinja"
-“Shelgon"
-“Shellder"
-“Shellos East"
-“Shellos"
-“Shelmet"
-“Shieldon"
-“Shiftry Female"
-“Shiftry"
-“Shiinotic"
-“Shinx Female"
-“Shinx"
-“Shroomish"
-“Shuckle"
-“Shuppet"
-“Sigilyph"
-“Silcoon"
-“Silvally Bug"
-“Silvally Dark"
-“Silvally Dragon"
-“Silvally Electric"
-“Silvally Fairy"
-“Silvally Fighting"
-“Silvally Fire"
-“Silvally Flying"
-“Silvally Ghost"
-“Silvally Grass"
-“Silvally Ground"
-“Silvally Ice"
-“Silvally Poison"
-“Silvally Psychic"
-“Silvally Rock"
-“Silvally Steel"
-“Silvally Water"
-“Silvally"
-“Simipour"
-“Simisage"
-“Simisear"
-“Skarmory"
-“Skiddo"
-“Skiploom"
-“Skitty"
-“Skorupi"
-“Skrelp"
-“Skuntank"
-“Slaking"
-“Slakoth"
-“Sliggoo"
-“Slowbro Mega"
-“Slowbro"
-“Slowking"
-“Slowpoke"
-“Slugma"
-“Slurpuff"
-“Smeargle"
-“Smokomodo"
-“Smoochum"
-“Snaelstrom"
-“Sneasel Female"
-“Sneasel"
-“Snivy"
-“Snorlax"
-“Snornut"
-“Snorunt"
-“Snover Female"
-“Snover"
-“Snubbull"
-“Solgaleo"
-“Solosis"
-“Solrock"
-“Spearow"
-“Spewpa"
-“Spheal"
-“Spinarak"
-“Spinda"
-“Spiritomb"
-“Spoink"
-“Spritzee"
-“Squirtle"
-“Stakataka"
-“Stantler"
-“Staraptor Female"
-“Staraptor"
-“Staravia Female"
-“Staravia"
-“Starly Female"
-“Starly"
-“Starmie"
-“Staryu"
-“Steelix Female"
-“Steelix Mega"
-“Steelix"
-“Steenee"
-“Stoutland"
-“Stratagem"
-“Stufful"
-“Stunfisk"
-“Stunky"
-“Substitute"
-“Sudowoodo Female"
-“Sudowoodo"
-“Suicune"
-“Sunflora"
-“Sunkern"
-“Surskit"
-“Swablu"
-“Swadloon"
-“Swalot Female"
-“Swalot"
-“Swampert Mega"
-“Swampert"
-“Swanna"
-“Swellow"
-“Swinub"
-“Swirlix"
-“Swoobat"
-“Sylveon"
-“Taillow"
-“Talonflame"
-“Tangela"
-“Tangrowth Female"
-“Tangrowth"
-“Tapubulu"
-“Tapufini"
-“Tapukoko"
-“Tapulele"
-“Tauros"
-“Teddiursa"
-“Tentacool"
-“Tentacruel"
-“Tepig"
-“Terrakion"
-“Throh"
-“Thundurus Therian"
-“Thundurus"
-“Timburr"
-“Tirtouga"
-“Togedemaru Totem"
-“Togedemaru"
-“Togekiss"
-“Togepi"
-“Togetic"
-“Tomohawk"
-“Torchic Female"
-“Torchic"
-“Torkoal"
-“Tornadus Therian"
-“Tornadus"
-“Torracat"
-“Torterra"
-“Totodile"
-“Toucannon"
-“Toxapex"
-“Toxicroak Female"
-“Toxicroak"
-“Tranquill"
-“Trapinch"
-“Treecko"
-“Trevenant"
-“Tropius"
-“Trubbish"
-“Trumbeak"
-“Tsareena"
-“Turtonator"
-“Turtwig"
-“Tympole"
-“Tynamo"
-“Typenull"
-“Typhlosion"
-“Tyranitar Mega"
-“Tyranitar"
-“Tyrantrum"
-“Tyrantum"
-“Tyrogue"
-“Tyrunt"
-“Umbreon"
-“Unfezant Female"
-“Unfezant"
-“Unown B"
-“Unown C"
-“Unown D"
-“Unown E"
-“Unown Exclamation"
-“Unown Female"
-“Unown G"
-“Unown H"
-“Unown I"
-“Unown J"
-“Unown K"
-“Unown L"
-“Unown M"
-“Unown N"
-“Unown O"
-“Unown P"
-“Unown Q"
-“Unown Question"
-“Unown R"
-“Unown S"
-“Unown T"
-“Unown U"
-“Unown V"
-“Unown W"
-“Unown X"
-“Unown Y"
-“Unown Z"
-“Unown"
-“Ursaring Female"
-“Ursaring"
-“Uxie"
-“Vanillish"
-“Vanillite"
-“Vanilluxe"
-“Vaporeon"
-“Venipede"
-“Venomoth"
-“Venonat"
-“Venusaur Mega"
-“Venusaur"
-“Vespiquen"
-“Vibrava"
-“Victini"
-“Victreebel"
-“Vigoroth"
-“Vikavolt Totem"
-“Vikavolt"
-“Vileplume"
-“Virizion"
-“Vivillon Archipelago"
-“Vivillon Continental"
-“Vivillon Elegant"
-“Vivillon Fancy"
-“Vivillon Garden"
-“Vivillon Highplains"
-“Vivillon Icysnow"
-“Vivillon Jungle"
-“Vivillon Marine"
-“Vivillon Modern"
-“Vivillon Monsoon"
-“Vivillon Ocean"
-“Vivillon Pokeball"
-“Vivillon Polar"
-“Vivillon River"
-“Vivillon Sandstorm"
-“Vivillon Savanna"
-“Vivillon Sun"
-“Vivillon Tundra"
-“Vivillon"
-“Volbeat"
-“Volcanion"
-“Volcarona"
-“Volkraken"
-“Voltorb"
-“Vullaby"
-“Vulpix Alola"
-“Vulpix"
-“Wailmer"
-“Wailord"
-“Walrein"
-“Wartortle"
-“Watchog"
-“Weavile Female"
-“Weavile"
-“Weedle"
-“Weepinbell"
-“Weezing"
-“Whimsicott"
-“Whirlipede"
-“Whiscash"
-“Whismur"
-“Wigglytuff"
-“Wimpod"
-“Wingull"
-“Wishiwashi School"
-“Wishiwashi"
-“Wobbuffet Female"
-“Wobbuffet"
-“Woobat"
-“Wooper Female"
-“Wooper"
-“Wormadam Sandy"
-“Wormadam Trash"
-“Wormadam"
-“Wormadam Plant"
-“Wurmple"
-“Wynaut"
-“Xatu Female"
-“Xatu"
-“Xerneas"
-“Xurkitree"
-“Yamask"
-“Yanma"
-“Yanmega"
-“Yungoos"
-“Yveltal"
-“Zangoose"
-“Zapdos"
-“Zebstrika"
-“Zekrom"
-“Zeraora"
-“Zigzagoon"
-“Zoroark"
-“Zorua"
-“Zubat Female"
-“Zubat"
-“Zweilous"
-“Zygarde 10"
-“Zygarde Complete"
-“Zygarde"
+â€œAbomasnowâ€,
+â€œAbomasnow Megaâ€,
+â€œAbraâ€,
+â€œAbsolâ€,
+â€œAbsol Megaâ€,
+â€œAccelgorâ€,
+â€œAegislashâ€,
+â€œAegislash Bladeâ€,
+â€œAerodactylâ€,
+â€œAerodactyl Megaâ€,
+â€œAggronâ€,
+â€œAggron Megaâ€,
+â€œAipomâ€,
+â€œAlakazamâ€,
+â€œAlakazam Megaâ€,
+â€œAlomomolaâ€,
+â€œAltariaâ€,
+â€œAltaria Megaâ€,
+â€œAmauraâ€,
+â€œAmbipomâ€,
+â€œAmoongussâ€,
+â€œAmpharosâ€,
+â€œAmpharos Megaâ€,
+â€œAnorithâ€,
+â€œAraquanidâ€,
+â€œAraquanid Totemâ€,
+â€œArbokâ€,
+â€œArcanineâ€,
+â€œArceusâ€,
+â€œArceus Bugâ€,
+â€œArceus Darkâ€,
+â€œArceus Dragonâ€,
+â€œArceus Electricâ€,
+â€œArceus Fairyâ€,
+â€œArceus Fightingâ€,
+â€œArceus Fireâ€,
+â€œArceus Flyingâ€,
+â€œArceus Ghostâ€,
+â€œArceus Grassâ€,
+â€œArceus Groundâ€,
+â€œArceus Iceâ€,
+â€œArceus Poisonâ€,
+â€œArceus Psychicâ€,
+â€œArceus Rockâ€,
+â€œArceus Steelâ€,
+â€œArceus Waterâ€,
+â€œArchenâ€,
+â€œArcheopsâ€,
+â€œAriadosâ€,
+â€œArmaldoâ€,
+â€œAromatisseâ€,
+â€œAronâ€,
+â€œArticunoâ€,
+â€œAudinoâ€,
+â€œAudino Megaâ€,
+â€œAurorusâ€,
+â€œAvaluggâ€,
+â€œAxewâ€,
+â€œAzelfâ€,
+â€œAzumarillâ€,
+â€œAzurillâ€,
+â€œBagonâ€,
+â€œBaltoyâ€,
+â€œBanetteâ€,
+â€œBanette Megaâ€,
+â€œBarbaracleâ€,
+â€œBarboachâ€,
+â€œBasculin Blueâ€,
+â€œBasculin Redâ€,
+â€œBastiodonâ€,
+â€œBayleefâ€,
+â€œBearticâ€,
+â€œBeautiflyâ€,
+â€œBeedrillâ€,
+â€œBeedrill Megaâ€,
+â€œBeheeyemâ€,
+â€œBeldumâ€,
+â€œBellossomâ€,
+â€œBellsproutâ€,
+â€œBergmiteâ€,
+â€œBewearâ€,
+â€œBibarelâ€,
+â€œBidoofâ€,
+â€œBinacleâ€,
+â€œBisharpâ€,
+â€œBlacephalonâ€,
+â€œBlastoiseâ€,
+â€œBlastoise Megaâ€,
+â€œBlazikenâ€,
+â€œBlaziken Megaâ€,
+â€œBlisseyâ€,
+â€œBlitzleâ€,
+â€œBoldoreâ€,
+â€œBonslyâ€,
+â€œBouffalantâ€,
+â€œBounsweetâ€,
+â€œBraixenâ€,
+â€œBraviaryâ€,
+â€œBreloomâ€,
+â€œBrionneâ€,
+â€œBronzongâ€,
+â€œBronzorâ€,
+â€œBruxishâ€,
+â€œBudewâ€,
+â€œBuizelâ€,
+â€œBulbasaurâ€,
+â€œBunearyâ€,
+â€œBunnelbyâ€,
+â€œBurmyâ€,
+â€œBurmy Plantâ€,
+â€œBurmy Sandyâ€,
+â€œBurmy Trashâ€,
+â€œButterfreeâ€,
+â€œBuzzwoleâ€,
+â€œCacneaâ€,
+â€œCacturneâ€,
+â€œCameruptâ€,
+â€œCamerupt Megaâ€,
+â€œCarbinkâ€,
+â€œCarnivineâ€,
+â€œCarracostaâ€,
+â€œCarvanhaâ€,
+â€œCascoonâ€,
+â€œCastformâ€,
+â€œCastform Rainyâ€,
+â€œCastform Snowyâ€,
+â€œCastform Sunnyâ€,
+â€œCaterpieâ€,
+â€œCelebiâ€,
+â€œCelesteelaâ€,
+â€œChandelureâ€,
+â€œChanseyâ€,
+â€œCharizardâ€,
+â€œCharizard Mega Xâ€,
+â€œCharizard Mega Yâ€,
+â€œCharjabugâ€,
+â€œCharmanderâ€,
+â€œCharmeleonâ€,
+â€œChatotâ€,
+â€œCherrimâ€,
+â€œCherrim Overcastâ€,
+â€œCherrim Sunnyâ€,
+â€œCherrim Sunshineâ€,
+â€œCherubiâ€,
+â€œChesnaughtâ€,
+â€œChespinâ€,
+â€œChikoritaâ€,
+â€œChimcharâ€,
+â€œChimechoâ€,
+â€œChinchouâ€,
+â€œChinglingâ€,
+â€œCinccinoâ€,
+â€œClamperlâ€,
+â€œClauncherâ€,
+â€œClawitzerâ€,
+â€œClaydolâ€,
+â€œClefableâ€,
+â€œClefairyâ€,
+â€œCleffaâ€,
+â€œCloysterâ€,
+â€œCobalionâ€,
+â€œCofagrigusâ€,
+â€œCombeeâ€,
+â€œCombuskenâ€,
+â€œComfeyâ€,
+â€œConkeldurrâ€,
+â€œCorphishâ€,
+â€œCorsolaâ€,
+â€œCosmoemâ€,
+â€œCosmogâ€,
+â€œCottoneeâ€,
+â€œCrabominableâ€,
+â€œCrabrawlerâ€,
+â€œCradilyâ€,
+â€œCranidosâ€,
+â€œCrawdauntâ€,
+â€œCresseliaâ€,
+â€œCroagunkâ€,
+â€œCrobatâ€,
+â€œCroconawâ€,
+â€œCrustleâ€,
+â€œCryogonalâ€,
+â€œCubchooâ€,
+â€œCuboneâ€,
+â€œCutieflyâ€,
+â€œCyndaquilâ€,
+â€œDarkraiâ€,
+â€œDarmanitanâ€,
+â€œDarmanitan Zenâ€,
+â€œDartrixâ€,
+â€œDarumakaâ€,
+â€œDecidueyeâ€,
+â€œDedenneâ€,
+â€œDeerling Autumnâ€,
+â€œDeerling Springâ€,
+â€œDeerling Summerâ€,
+â€œDeerling Winterâ€,
+â€œDeinoâ€,
+â€œDelcattyâ€,
+â€œDelibirdâ€,
+â€œDelphoxâ€,
+â€œDeoxysâ€,
+â€œDeoxys Attackâ€,
+â€œDeoxys Defenseâ€,
+â€œDeoxys Speedâ€,
+â€œDewgongâ€,
+â€œDewottâ€,
+â€œDewpiderâ€,
+â€œDhelmiseâ€,
+â€œDialgaâ€,
+â€œDiancieâ€,
+â€œDiancie Megaâ€,
+â€œDiggersbyâ€,
+â€œDiglettâ€,
+â€œDiglett Alolaâ€,
+â€œDittoâ€,
+â€œDodrioâ€,
+â€œDoduoâ€,
+â€œDonphanâ€,
+â€œDoubladeâ€,
+â€œDragalgeâ€,
+â€œDragonairâ€,
+â€œDragoniteâ€,
+â€œDrampaâ€,
+â€œDrapionâ€,
+â€œDratiniâ€,
+â€œDrifblimâ€,
+â€œDrifloonâ€,
+â€œDrilburâ€,
+â€œDrowzeeâ€,
+â€œDruddigonâ€,
+â€œDucklettâ€,
+â€œDugtrioâ€,
+â€œDugtrio Alolaâ€,
+â€œDunsparceâ€,
+â€œDuosionâ€,
+â€œDurantâ€,
+â€œDusclopsâ€,
+â€œDusknoirâ€,
+â€œDuskullâ€,
+â€œDustoxâ€,
+â€œDwebbleâ€,
+â€œEelektrikâ€,
+â€œEelektrossâ€,
+â€œEeveeâ€,
+â€œEkansâ€,
+â€œElectabuzzâ€,
+â€œElectivireâ€,
+â€œElectrikeâ€,
+â€œElectrodeâ€,
+â€œElekidâ€,
+â€œElgyemâ€,
+â€œEmboarâ€,
+â€œEmolgaâ€,
+â€œEmpoleonâ€,
+â€œEnteiâ€,
+â€œEscavalierâ€,
+â€œEspeonâ€,
+â€œEspurrâ€,
+â€œExcadrillâ€,
+â€œExeggcuteâ€,
+â€œExeggutorâ€,
+â€œExeggutor Alolaâ€,
+â€œExploudâ€,
+â€œFarfetchdâ€,
+â€œFearowâ€,
+â€œFeebasâ€,
+â€œFennekinâ€,
+â€œFeraligatrâ€,
+â€œFerroseedâ€,
+â€œFerrothornâ€,
+â€œFinneonâ€,
+â€œFlaaffyâ€,
+â€œFlabebeâ€,
+â€œFlabebe Blueâ€,
+â€œFlabebe Orangeâ€,
+â€œFlabebe Redâ€,
+â€œFlabebe Whiteâ€,
+â€œFlabebe Yellowâ€,
+â€œFlareonâ€,
+â€œFletchinderâ€,
+â€œFletchlingâ€,
+â€œFloatzelâ€,
+â€œFloetteâ€,
+â€œFloette Blueâ€,
+â€œFloette Orangeâ€,
+â€œFloette Redâ€,
+â€œFloette Whiteâ€,
+â€œFloette Yellowâ€,
+â€œFlorgesâ€,
+â€œFlorges Blueâ€,
+â€œFlorges Orangeâ€,
+â€œFlorges Redâ€,
+â€œFlorges Whiteâ€,
+â€œFlorges Yellowâ€,
+â€œFlygonâ€,
+â€œFomantisâ€,
+â€œFoongusâ€,
+â€œForretressâ€,
+â€œFraxureâ€,
+â€œFrillishâ€,
+â€œFrillish Femaleâ€,
+â€œFroakieâ€,
+â€œFrogadierâ€,
+â€œFroslassâ€,
+â€œFurfrouâ€,
+â€œFurfrou Dandyâ€,
+â€œFurfrou Debutanteâ€,
+â€œFurfrou Diamondâ€,
+â€œFurfrou Heartâ€,
+â€œFurfrou Kabukiâ€,
+â€œFurfrou Lareineâ€,
+â€œFurfrou Matronâ€,
+â€œFurfrou Pharaohâ€,
+â€œFurfrou Starâ€,
+â€œFurretâ€,
+â€œGabiteâ€,
+â€œGalladeâ€,
+â€œGallade Megaâ€,
+â€œGalvantulaâ€,
+â€œGarbodorâ€,
+â€œGarchompâ€,
+â€œGarchomp Megaâ€,
+â€œGardevoirâ€,
+â€œGardevoir Megaâ€,
+â€œGastlyâ€,
+â€œGastrodonâ€,
+â€œGastrodon East Seaâ€,
+â€œGastrodon West Seaâ€,
+â€œGenesectâ€,
+â€œGenesect Burnâ€,
+â€œGenesect Chillâ€,
+â€œGenesect Douseâ€,
+â€œGenesect Shockâ€,
+â€œGengarâ€,
+â€œGengar Megaâ€,
+â€œGeodudeâ€,
+â€œGeodude Alolaâ€,
+â€œGibleâ€,
+â€œGigalithâ€,
+â€œGirafarigâ€,
+â€œGiratinaâ€,
+â€œGiratina Alteredâ€,
+â€œGiratina Originâ€,
+â€œGlaceonâ€,
+â€œGlalieâ€,
+â€œGlalie Megaâ€,
+â€œGlameowâ€,
+â€œGligarâ€,
+â€œGliscorâ€,
+â€œGloomâ€,
+â€œGogoatâ€,
+â€œGolbatâ€,
+â€œGoldeenâ€,
+â€œGolduckâ€,
+â€œGolemâ€,
+â€œGolem Alolaâ€,
+â€œGolettâ€,
+â€œGolisopodâ€,
+â€œGolurkâ€,
+â€œGoodraâ€,
+â€œGoomyâ€,
+â€œGorebyssâ€,
+â€œGothitaâ€,
+â€œGothitelleâ€,
+â€œGothoritaâ€,
+â€œGourgeistâ€,
+â€œGourgeist Largeâ€,
+â€œGourgeist Smallâ€,
+â€œGourgeist Superâ€,
+â€œGranbullâ€,
+â€œGravelerâ€,
+â€œGraveler Alolaâ€,
+â€œGreninjaâ€,
+â€œGreninja Ashâ€,
+â€œGrimerâ€,
+â€œGrimer Alolaâ€,
+â€œGrotleâ€,
+â€œGroudonâ€,
+â€œGroudon Primalâ€,
+â€œGrovyleâ€,
+â€œGrowlitheâ€,
+â€œGrubbinâ€,
+â€œGrumpigâ€,
+â€œGulpinâ€,
+â€œGumshoosâ€,
+â€œGumshoos Totemâ€,
+â€œGurdurrâ€,
+â€œGuzzlordâ€,
+â€œGyaradosâ€,
+â€œGyarados Megaâ€,
+â€œHakamo-oâ€,
+â€œHappinyâ€,
+â€œHariyamaâ€,
+â€œHaunterâ€,
+â€œHawluchaâ€,
+â€œHaxorusâ€,
+â€œHeatmorâ€,
+â€œHeatranâ€,
+â€œHelioliskâ€,
+â€œHelioptileâ€,
+â€œHeracrossâ€,
+â€œHeracross Megaâ€,
+â€œHerdierâ€,
+â€œHippopotasâ€,
+â€œHippopotas Femaleâ€,
+â€œHippowdonâ€,
+â€œHippowdon Femaleâ€,
+â€œHitmonchanâ€,
+â€œHitmonleeâ€,
+â€œHitmontopâ€,
+â€œHonchkrowâ€,
+â€œHonedgeâ€,
+â€œHo-Ohâ€,
+â€œHoopaâ€,
+â€œHoopa Megaâ€,
+â€œHoopa Unboundâ€,
+â€œHoothootâ€,
+â€œHoppipâ€,
+â€œHorseaâ€,
+â€œHoundoomâ€,
+â€œHoundoom Megaâ€,
+â€œHoundourâ€,
+â€œHuntailâ€,
+â€œHydreigonâ€,
+â€œHypnoâ€,
+â€œIgglybuffâ€,
+â€œIllumiseâ€,
+â€œIncineroarâ€,
+â€œInfernapeâ€,
+â€œInkayâ€,
+â€œIvysaurâ€,
+â€œJangmo-oâ€,
+â€œJellicentâ€,
+â€œJellicent Femaleâ€,
+â€œJigglypuffâ€,
+â€œJirachiâ€,
+â€œJolteonâ€,
+â€œJoltikâ€,
+â€œJumpluffâ€,
+â€œJynxâ€,
+â€œKabutoâ€,
+â€œKabutopsâ€,
+â€œKadabraâ€,
+â€œKakunaâ€,
+â€œKangaskhanâ€,
+â€œKangaskhan Megaâ€,
+â€œKarrablastâ€,
+â€œKartanaâ€,
+â€œKecleonâ€,
+â€œKeldeoâ€,
+â€œKeldeo Resoluteâ€,
+â€œKingdraâ€,
+â€œKinglerâ€,
+â€œKirliaâ€,
+â€œKlangâ€,
+â€œKlefkiâ€,
+â€œKlinkâ€,
+â€œKlinklangâ€,
+â€œKoffingâ€,
+â€œKomalaâ€,
+â€œKommo-oâ€,
+â€œKrabbyâ€,
+â€œKricketotâ€,
+â€œKricketuneâ€,
+â€œKrokorokâ€,
+â€œKrookodileâ€,
+â€œKyogreâ€,
+â€œKyogre Primalâ€,
+â€œKyuremâ€,
+â€œKyurem Blackâ€,
+â€œKyurem Whiteâ€,
+â€œLaironâ€,
+â€œLampentâ€,
+â€œLandorusâ€,
+â€œLandorus Incarnateâ€,
+â€œLandorus Therianâ€,
+â€œLanturnâ€,
+â€œLaprasâ€,
+â€œLarvestaâ€,
+â€œLarvitarâ€,
+â€œLatiasâ€,
+â€œLatias Megaâ€,
+â€œLatiosâ€,
+â€œLatios Megaâ€,
+â€œLeafeonâ€,
+â€œLeavannyâ€,
+â€œLedianâ€,
+â€œLedybaâ€,
+â€œLickilickyâ€,
+â€œLickitungâ€,
+â€œLiepardâ€,
+â€œLileepâ€,
+â€œLilligantâ€,
+â€œLillipupâ€,
+â€œLinooneâ€,
+â€œLitleoâ€,
+â€œLittenâ€,
+â€œLitwickâ€,
+â€œLombreâ€,
+â€œLopunnyâ€,
+â€œLopunny Megaâ€,
+â€œLotadâ€,
+â€œLoudredâ€,
+â€œLucarioâ€,
+â€œLucario Megaâ€,
+â€œLudicoloâ€,
+â€œLugiaâ€,
+â€œLumineonâ€,
+â€œLunalaâ€,
+â€œLunatoneâ€,
+â€œLurantisâ€,
+â€œLurantis Totemâ€,
+â€œLuvdiscâ€,
+â€œLuxioâ€,
+â€œLuxrayâ€,
+â€œLycanrocâ€,
+â€œLycanroc Duskâ€,
+â€œLycanroc Midnightâ€,
+â€œMachampâ€,
+â€œMachokeâ€,
+â€œMachopâ€,
+â€œMagbyâ€,
+â€œMagcargoâ€,
+â€œMagearnaâ€,
+â€œMagearna Originalâ€,
+â€œMagikarpâ€,
+â€œMagmarâ€,
+â€œMagmortarâ€,
+â€œMagnemiteâ€,
+â€œMagnetonâ€,
+â€œMagnezoneâ€,
+â€œMakuhitaâ€,
+â€œMalamarâ€,
+â€œMamoswineâ€,
+â€œManaphyâ€,
+â€œMandibuzzâ€,
+â€œManectricâ€,
+â€œManectric Megaâ€,
+â€œMankeyâ€,
+â€œMantineâ€,
+â€œMantykeâ€,
+â€œMaractusâ€,
+â€œMareanieâ€,
+â€œMareepâ€,
+â€œMarillâ€,
+â€œMarowakâ€,
+â€œMarowak Alolaâ€,
+â€œMarshadowâ€,
+â€œMarshtompâ€,
+â€œMasquerainâ€,
+â€œMawileâ€,
+â€œMawile Megaâ€,
+â€œMedichamâ€,
+â€œMedicham Megaâ€,
+â€œMedititeâ€,
+â€œMeganiumâ€,
+â€œMelmetalâ€,
+â€œMeloettaâ€,
+â€œMeloetta Ariaâ€,
+â€œMeloetta Pirouetteâ€,
+â€œMeltanâ€,
+â€œMeowsticâ€,
+â€œMeowstic Femaleâ€,
+â€œMeowthâ€,
+â€œMeowth Alolaâ€,
+â€œMespritâ€,
+â€œMetagrossâ€,
+â€œMetagross Megaâ€,
+â€œMetangâ€,
+â€œMetapodâ€,
+â€œMewâ€,
+â€œMewtwoâ€,
+â€œMewtwo Mega Xâ€,
+â€œMewtwo Mega Yâ€,
+â€œMienfooâ€,
+â€œMienshaoâ€,
+â€œMightyenaâ€,
+â€œMiloticâ€,
+â€œMiltankâ€,
+â€œMime Jrâ€,
+â€œMimikyuâ€,
+â€œMimikyu Bustedâ€,
+â€œMimikyu Totemâ€,
+â€œMimikyu Totem Bustedâ€,
+â€œMinccinoâ€,
+â€œMiniorâ€,
+â€œMinior Blueâ€,
+â€œMinior Greenâ€,
+â€œMinior Indigoâ€,
+â€œMinior Meteorâ€,
+â€œMinior Orangeâ€,
+â€œMinior Violetâ€,
+â€œMinior Yellowâ€,
+â€œMinunâ€,
+â€œMisdreavusâ€,
+â€œMismagiusâ€,
+â€œMoltresâ€,
+â€œMonfernoâ€,
+â€œMorelullâ€,
+â€œMothimâ€,
+â€œMr. Mimeâ€,
+â€œMudbrayâ€,
+â€œMudkipâ€,
+â€œMudsdaleâ€,
+â€œMukâ€,
+â€œMuk Alolaâ€,
+â€œMunchlaxâ€,
+â€œMunnaâ€,
+â€œMurkrowâ€,
+â€œMusharnaâ€,
+â€œNaganadelâ€,
+â€œNatuâ€,
+â€œNecrozmaâ€,
+â€œNecrozma Dawnwingsâ€,
+â€œNecrozma Duskmaneâ€,
+â€œNecrozma Ultraâ€,
+â€œNidokingâ€,
+â€œNidoqueenâ€,
+â€œNidoranâ€,
+â€œNidoranâ€,
+â€œNidorinaâ€,
+â€œNidorinoâ€,
+â€œNihilegoâ€,
+â€œNincadaâ€,
+â€œNinetalesâ€,
+â€œNinetales Alolaâ€,
+â€œNinjaskâ€,
+â€œNoctowlâ€,
+â€œNoibatâ€,
+â€œNoivernâ€,
+â€œNosepassâ€,
+â€œNumelâ€,
+â€œNuzleafâ€,
+â€œOctilleryâ€,
+â€œOddishâ€,
+â€œOmanyteâ€,
+â€œOmastarâ€,
+â€œOnixâ€,
+â€œOranguruâ€,
+â€œOricorioâ€,
+â€œOricorio Pauâ€,
+â€œOricorio Pompomâ€,
+â€œOricorio Sensuâ€,
+â€œOshawottâ€,
+â€œPachirisuâ€,
+â€œPalkiaâ€,
+â€œPalossandâ€,
+â€œPalpitoadâ€,
+â€œPanchamâ€,
+â€œPangoroâ€,
+â€œPanpourâ€,
+â€œPansageâ€,
+â€œPansearâ€,
+â€œParasâ€,
+â€œParasectâ€,
+â€œPassimianâ€,
+â€œPatratâ€,
+â€œPawniardâ€,
+â€œPelipperâ€,
+â€œPersianâ€,
+â€œPersian Alolaâ€,
+â€œPetililâ€,
+â€œPhanpyâ€,
+â€œPhantumpâ€,
+â€œPheromosaâ€,
+â€œPhioneâ€,
+â€œPichuâ€,
+â€œPidgeotâ€,
+â€œPidgeot Megaâ€,
+â€œPidgeottoâ€,
+â€œPidgeyâ€,
+â€œPidoveâ€,
+â€œPigniteâ€,
+â€œPikachuâ€,
+â€œPikachu Belleâ€,
+â€œPikachu Cosplayâ€,
+â€œPikachu Hoennâ€,
+â€œPikachu Kalosâ€,
+â€œPikachu Libreâ€,
+â€œPikachu Partnerâ€,
+â€œPikachu Phdâ€,
+â€œPikachu Pop Starâ€,
+â€œPikachu Popstarâ€,
+â€œPikachu Rockstarâ€,
+â€œPikachu Sinnohâ€,
+â€œPikachu Unovaâ€,
+â€œPikipekâ€,
+â€œPiloswineâ€,
+â€œPinecoâ€,
+â€œPinsirâ€,
+â€œPinsir Megaâ€,
+â€œPiplupâ€,
+â€œPlusleâ€,
+â€œPoipoleâ€,
+â€œPolitoedâ€,
+â€œPoliwagâ€,
+â€œPoliwhirlâ€,
+â€œPoliwrathâ€,
+â€œPonytaâ€,
+â€œPoochyenaâ€,
+â€œPopplioâ€,
+â€œPorygonâ€,
+â€œPorygon Zâ€,
+â€œPorygon2â€,
+â€œPrimarinaâ€,
+â€œPrimeapeâ€,
+â€œPrinplupâ€,
+â€œProbopassâ€,
+â€œPsyduckâ€,
+â€œPumpkabooâ€,
+â€œPumpkaboo Largeâ€,
+â€œPumpkaboo Smallâ€,
+â€œPumpkaboo Superâ€,
+â€œPupitarâ€,
+â€œPurrloinâ€,
+â€œPuruglyâ€,
+â€œPyroarâ€,
+â€œPyroar Femaleâ€,
+â€œPyukumukuâ€,
+â€œQuagsireâ€,
+â€œQuilavaâ€,
+â€œQuilladinâ€,
+â€œQwilfishâ€,
+â€œRaichuâ€,
+â€œRaichu Alolaâ€,
+â€œRaikouâ€,
+â€œRaltsâ€,
+â€œRampardosâ€,
+â€œRapidashâ€,
+â€œRaticateâ€,
+â€œRaticate Alolaâ€,
+â€œRattataâ€,
+â€œRattata Alolaâ€,
+â€œRayquazaâ€,
+â€œRayquaza Megaâ€,
+â€œRegiceâ€,
+â€œRegigigasâ€,
+â€œRegirockâ€,
+â€œRegisteelâ€,
+â€œRelicanthâ€,
+â€œRemoraidâ€,
+â€œReshiramâ€,
+â€œReuniclusâ€,
+â€œRhydonâ€,
+â€œRhyhornâ€,
+â€œRhyperiorâ€,
+â€œRibombeeâ€,
+â€œRioluâ€,
+â€œRockruffâ€,
+â€œRoggenrolaâ€,
+â€œRoseliaâ€,
+â€œRoseradeâ€,
+â€œRotomâ€,
+â€œRotom Fanâ€,
+â€œRotom Frostâ€,
+â€œRotom Heatâ€,
+â€œRotom Mowâ€,
+â€œRotom Washâ€,
+â€œRowletâ€,
+â€œRuffletâ€,
+â€œSableyeâ€,
+â€œSableye Megaâ€,
+â€œSalamenceâ€,
+â€œSalamence Megaâ€,
+â€œSalanditâ€,
+â€œSalazzleâ€,
+â€œSalazzle Totemâ€,
+â€œSamurottâ€,
+â€œSandileâ€,
+â€œSandshrewâ€,
+â€œSandshrew Alolaâ€,
+â€œSandslashâ€,
+â€œSandslash Alolaâ€,
+â€œSandygastâ€,
+â€œSawkâ€,
+â€œSawsbuck Autumnâ€,
+â€œSawsbuck Springâ€,
+â€œSawsbuck Summerâ€,
+â€œSawsbuck Winterâ€,
+â€œScatterbugâ€,
+â€œSceptileâ€,
+â€œSceptile Megaâ€,
+â€œScizorâ€,
+â€œScizor Megaâ€,
+â€œScolipedeâ€,
+â€œScraftyâ€,
+â€œScraggyâ€,
+â€œScytherâ€,
+â€œSeadraâ€,
+â€œSeakingâ€,
+â€œSealeoâ€,
+â€œSeedotâ€,
+â€œSeelâ€,
+â€œSeismitoadâ€,
+â€œSentretâ€,
+â€œSerperiorâ€,
+â€œServineâ€,
+â€œSeviperâ€,
+â€œSewaddleâ€,
+â€œSharpedoâ€,
+â€œSharpedo Megaâ€,
+â€œShayminâ€,
+â€œShaymin Landâ€,
+â€œShaymin Skyâ€,
+â€œShedinjaâ€,
+â€œShelgonâ€,
+â€œShellderâ€,
+â€œShellosâ€,
+â€œShellos East Seaâ€,
+â€œShellos West Seaâ€,
+â€œShelmetâ€,
+â€œShieldonâ€,
+â€œShiftryâ€,
+â€œShiinoticâ€,
+â€œShinxâ€,
+â€œShroomishâ€,
+â€œShuckleâ€,
+â€œShuppetâ€,
+â€œSigilyphâ€,
+â€œSilcoonâ€,
+â€œSilvallyâ€,
+â€œSilvally Bugâ€,
+â€œSilvally Darkâ€,
+â€œSilvally Dragonâ€,
+â€œSilvally Electricâ€,
+â€œSilvally Fairyâ€,
+â€œSilvally Fightingâ€,
+â€œSilvally Fireâ€,
+â€œSilvally Flyingâ€,
+â€œSilvally Ghostâ€,
+â€œSilvally Grassâ€,
+â€œSilvally Groundâ€,
+â€œSilvally Iceâ€,
+â€œSilvally Poisonâ€,
+â€œSilvally Psychicâ€,
+â€œSilvally Rockâ€,
+â€œSilvally Steelâ€,
+â€œSilvally Waterâ€,
+â€œSimipourâ€,
+â€œSimisageâ€,
+â€œSimisearâ€,
+â€œSkarmoryâ€,
+â€œSkiddoâ€,
+â€œSkiploomâ€,
+â€œSkittyâ€,
+â€œSkorupiâ€,
+â€œSkrelpâ€,
+â€œSkuntankâ€,
+â€œSlakingâ€,
+â€œSlakothâ€,
+â€œSliggooâ€,
+â€œSlowbroâ€,
+â€œSlowbro Megaâ€,
+â€œSlowkingâ€,
+â€œSlowpokeâ€,
+â€œSlugmaâ€,
+â€œSlurpuffâ€,
+â€œSmeargleâ€,
+â€œSmoochumâ€,
+â€œSneaselâ€,
+â€œSnivyâ€,
+â€œSnorlaxâ€,
+â€œSnoruntâ€,
+â€œSnoverâ€,
+â€œSnubbullâ€,
+â€œSolgaleoâ€,
+â€œSolosisâ€,
+â€œSolrockâ€,
+â€œSpearowâ€,
+â€œSpewpaâ€,
+â€œSphealâ€,
+â€œSpinarakâ€,
+â€œSpindaâ€,
+â€œSpiritombâ€,
+â€œSpoinkâ€,
+â€œSpritzeeâ€,
+â€œSquirtleâ€,
+â€œStakatakaâ€,
+â€œStantlerâ€,
+â€œStaraptorâ€,
+â€œStaraviaâ€,
+â€œStarlyâ€,
+â€œStarmieâ€,
+â€œStaryuâ€,
+â€œSteelixâ€,
+â€œSteelix Megaâ€,
+â€œSteeneeâ€,
+â€œStoutlandâ€,
+â€œStuffulâ€,
+â€œStunfiskâ€,
+â€œStunkyâ€,
+â€œSudowoodoâ€,
+â€œSuicuneâ€,
+â€œSunfloraâ€,
+â€œSunkernâ€,
+â€œSurskitâ€,
+â€œSwabluâ€,
+â€œSwadloonâ€,
+â€œSwalotâ€,
+â€œSwampertâ€,
+â€œSwampert Megaâ€,
+â€œSwannaâ€,
+â€œSwellowâ€,
+â€œSwinubâ€,
+â€œSwirlixâ€,
+â€œSwoobatâ€,
+â€œSylveonâ€,
+â€œTaillowâ€,
+â€œTalonflameâ€,
+â€œTangelaâ€,
+â€œTangrowthâ€,
+â€œTapu Buluâ€,
+â€œTapu Finiâ€,
+â€œTapu Kokoâ€,
+â€œTapu Leleâ€,
+â€œTaurosâ€,
+â€œTeddiursaâ€,
+â€œTentacoolâ€,
+â€œTentacruelâ€,
+â€œTepigâ€,
+â€œTerrakionâ€,
+â€œThrohâ€,
+â€œThundurusâ€,
+â€œThundurus Incarnateâ€,
+â€œThundurus Therianâ€,
+â€œTimburrâ€,
+â€œTirtougaâ€,
+â€œTogedemaruâ€,
+â€œTogedemaru Totemâ€,
+â€œTogekissâ€,
+â€œTogepiâ€,
+â€œTogeticâ€,
+â€œTorchicâ€,
+â€œTorkoalâ€,
+â€œTornadusâ€,
+â€œTornadus Incarnateâ€,
+â€œTornadus Therianâ€,
+â€œTorracatâ€,
+â€œTorterraâ€,
+â€œTotodileâ€,
+â€œToucannonâ€,
+â€œToxapexâ€,
+â€œToxicroakâ€,
+â€œTranquillâ€,
+â€œTrapinchâ€,
+â€œTreeckoâ€,
+â€œTrevenantâ€,
+â€œTropiusâ€,
+â€œTrubbishâ€,
+â€œTrumbeakâ€,
+â€œTsareenaâ€,
+â€œTurtonatorâ€,
+â€œTurtwigâ€,
+â€œTympoleâ€,
+â€œTynamoâ€,
+â€œTyphlosionâ€,
+â€œTyranitarâ€,
+â€œTyranitar Megaâ€,
+â€œTyrantrumâ€,
+â€œTyrogueâ€,
+â€œTyruntâ€,
+â€œUmbreonâ€,
+â€œUnfezantâ€,
+â€œUnfezant Femaleâ€,
+â€œUnownâ€,
+â€œUnown Bâ€,
+â€œUnown Câ€,
+â€œUnown Dâ€,
+â€œUnown Eâ€,
+â€œUnown Exclamationâ€,
+â€œUnown Gâ€,
+â€œUnown Hâ€,
+â€œUnown Iâ€,
+â€œUnown Jâ€,
+â€œUnown Kâ€,
+â€œUnown Lâ€,
+â€œUnown Mâ€,
+â€œUnown Nâ€,
+â€œUnown Oâ€,
+â€œUnown Pâ€,
+â€œUnown Qâ€,
+â€œUnown Questionâ€,
+â€œUnown Râ€,
+â€œUnown Sâ€,
+â€œUnown Tâ€,
+â€œUnown Uâ€,
+â€œUnown Vâ€,
+â€œUnown Wâ€,
+â€œUnown Xâ€,
+â€œUnown Yâ€,
+â€œUnown Zâ€,
+â€œUrsaringâ€,
+â€œUxieâ€,
+â€œVanillishâ€,
+â€œVanilliteâ€,
+â€œVanilluxeâ€,
+â€œVaporeonâ€,
+â€œVenipedeâ€,
+â€œVenomothâ€,
+â€œVenonatâ€,
+â€œVenusaurâ€,
+â€œVenusaur Megaâ€,
+â€œVespiquenâ€,
+â€œVibravaâ€,
+â€œVictiniâ€,
+â€œVictreebelâ€,
+â€œVigorothâ€,
+â€œVikavoltâ€,
+â€œVikavolt Totemâ€,
+â€œVileplumeâ€,
+â€œVirizionâ€,
+â€œVivillonâ€,
+â€œVivillon Archipelagoâ€,
+â€œVivillon Continentalâ€,
+â€œVivillon Elegantâ€,
+â€œVivillon Fancyâ€,
+â€œVivillon Gardenâ€,
+â€œVivillon Highplainsâ€,
+â€œVivillon Icysnowâ€,
+â€œVivillon Jungleâ€,
+â€œVivillon Marineâ€,
+â€œVivillon Modernâ€,
+â€œVivillon Monsoonâ€,
+â€œVivillon Oceanâ€,
+â€œVivillon Pokeballâ€,
+â€œVivillon Polarâ€,
+â€œVivillon Riverâ€,
+â€œVivillon Sandstormâ€,
+â€œVivillon Savannaâ€,
+â€œVivillon Sunâ€,
+â€œVivillon Tundraâ€,
+â€œVolbeatâ€,
+â€œVolcanionâ€,
+â€œVolcaronaâ€,
+â€œVoltorbâ€,
+â€œVullabyâ€,
+â€œVulpixâ€,
+â€œVulpix Alolaâ€,
+â€œWailmerâ€,
+â€œWailordâ€,
+â€œWalreinâ€,
+â€œWartortleâ€,
+â€œWatchogâ€,
+â€œWeavileâ€,
+â€œWeedleâ€,
+â€œWeepinbellâ€,
+â€œWeezingâ€,
+â€œWhimsicottâ€,
+â€œWhirlipedeâ€,
+â€œWhiscashâ€,
+â€œWhismurâ€,
+â€œWigglytuffâ€,
+â€œWimpodâ€,
+â€œWingullâ€,
+â€œWishiwashiâ€,
+â€œWishiwashi Schoolâ€,
+â€œWobbuffetâ€,
+â€œWoobatâ€,
+â€œWooperâ€,
+â€œWormadamâ€,
+â€œWormadam Plantâ€,
+â€œWormadam Sandyâ€,
+â€œWormadam Trashâ€,
+â€œWurmpleâ€,
+â€œWynautâ€,
+â€œXatuâ€,
+â€œXerneasâ€,
+â€œXurkitreeâ€,
+â€œYamaskâ€,
+â€œYanmaâ€,
+â€œYanmegaâ€,
+â€œYungoosâ€,
+â€œYveltalâ€,
+â€œZangooseâ€,
+â€œZapdosâ€,
+â€œZebstrikaâ€,
+â€œZekromâ€,
+â€œZeraoraâ€,
+â€œZigzagoonâ€,
+â€œZoroarkâ€,
+â€œZoruaâ€,
+â€œZubatâ€,
+â€œZweilousâ€,
+â€œZygardeâ€,
+â€œZygarde 10â€,
+â€œZygarde 50â€,
+â€œZygarde Completeâ€
