@@ -50,6 +50,7 @@ FULL LIST OF SEARCHABLE POKEMON:
 “Archeops”,
 “Ariados”,
 “Armaldo”,
+“Armored Mewtwo”,
 “Aromatisse”,
 “Aron”,
 “Articuno”,
