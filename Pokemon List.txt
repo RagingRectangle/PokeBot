@@ -581,7 +581,7 @@ FULL LIST OF SEARCHABLE POKEMON:
 “Mightyena”,
 “Milotic”,
 “Miltank”,
-“Mime Jr”,
+“Mime Jr.”,
 “Mimikyu”,
 “Mimikyu Busted”,
 “Mimikyu Totem”,
