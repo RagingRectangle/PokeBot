@@ -1,1091 +1,1299 @@
 FULL LIST OF SEARCHABLE POKEMON:
 
-“Abomasnow”,
-“Abomasnow Mega”,
-“Abra”,
-“Absol”,
-“Absol Mega”,
-“Accelgor”,
-“Aegislash”,
-“Aegislash Blade”,
-“Aerodactyl”,
-“Aerodactyl Mega”,
-“Aggron”,
-“Aggron Mega”,
-“Aipom”,
-“Alakazam”,
-“Alakazam Mega”,
-“Alomomola”,
-“Altaria”,
-“Altaria Mega”,
-“Amaura”,
-“Ambipom”,
-“Amoonguss”,
-“Ampharos”,
-“Ampharos Mega”,
-“Anorith”,
-“Araquanid”,
-“Araquanid Totem”,
-“Arbok”,
-“Arcanine”,
-“Arceus”,
-“Arceus Bug”,
-“Arceus Dark”,
-“Arceus Dragon”,
-“Arceus Electric”,
-“Arceus Fairy”,
-“Arceus Fighting”,
-“Arceus Fire”,
-“Arceus Flying”,
-“Arceus Ghost”,
-“Arceus Grass”,
-“Arceus Ground”,
-“Arceus Ice”,
-“Arceus Poison”,
-“Arceus Psychic”,
-“Arceus Rock”,
-“Arceus Steel”,
-“Arceus Water”,
-“Archen”,
-“Archeops”,
-“Ariados”,
-“Armaldo”,
-“Armored Mewtwo”,
-“Aromatisse”,
-“Aron”,
-“Articuno”,
-“Audino”,
-“Audino Mega”,
-“Aurorus”,
-“Avalugg”,
-“Axew”,
-“Azelf”,
-“Azumarill”,
-“Azurill”,
-“Bagon”,
-“Baltoy”,
-“Banette”,
-“Banette Mega”,
-“Barbaracle”,
-“Barboach”,
-“Basculin Blue”,
-“Basculin Red”,
-“Bastiodon”,
-“Bayleef”,
-“Beartic”,
-“Beautifly”,
-“Beedrill”,
-“Beedrill Mega”,
-“Beheeyem”,
-“Beldum”,
-“Bellossom”,
-“Bellsprout”,
-“Bergmite”,
-“Bewear”,
-“Bibarel”,
-“Bidoof”,
-“Binacle”,
-“Bisharp”,
-“Blacephalon”,
-“Blastoise”,
-“Blastoise Mega”,
-“Blaziken”,
-“Blaziken Mega”,
-“Blissey”,
-“Blitzle”,
-“Boldore”,
-“Bonsly”,
-“Bouffalant”,
-“Bounsweet”,
-“Braixen”,
-“Braviary”,
-“Breloom”,
-“Brionne”,
-“Bronzong”,
-“Bronzor”,
-“Bruxish”,
-“Budew”,
-“Buizel”,
-“Bulbasaur”,
-“Buneary”,
-“Bunnelby”,
-“Burmy”,
-“Burmy Plant”,
-“Burmy Sandy”,
-“Burmy Trash”,
-“Butterfree”,
-“Buzzwole”,
-“Cacnea”,
-“Cacturne”,
-“Camerupt”,
-“Camerupt Mega”,
-“Carbink”,
-“Carnivine”,
-“Carracosta”,
-“Carvanha”,
-“Cascoon”,
-“Castform”,
-“Castform Rainy”,
-“Castform Snowy”,
-“Castform Sunny”,
-“Caterpie”,
-“Celebi”,
-“Celesteela”,
-“Chandelure”,
-“Chansey”,
-“Charizard”,
-“Charizard Mega X”,
-“Charizard Mega Y”,
-“Charjabug”,
-“Charmander”,
-“Charmeleon”,
-“Chatot”,
-“Cherrim”,
-“Cherrim Overcast”,
-“Cherrim Sunny”,
-“Cherrim Sunshine”,
-“Cherubi”,
-“Chesnaught”,
-“Chespin”,
-“Chikorita”,
-“Chimchar”,
-“Chimecho”,
-“Chinchou”,
-“Chingling”,
-“Cinccino”,
-“Clamperl”,
-“Clauncher”,
-“Clawitzer”,
-“Claydol”,
-“Clefable”,
-“Clefairy”,
-“Cleffa”,
-“Cloyster”,
-“Cobalion”,
-“Cofagrigus”,
-“Combee”,
-“Combusken”,
-“Comfey”,
-“Conkeldurr”,
-“Corphish”,
-“Corsola”,
-“Cosmoem”,
-“Cosmog”,
-“Cottonee”,
-“Crabominable”,
-“Crabrawler”,
-“Cradily”,
-“Cranidos”,
-“Crawdaunt”,
-“Cresselia”,
-“Croagunk”,
-“Crobat”,
-“Croconaw”,
-“Crustle”,
-“Cryogonal”,
-“Cubchoo”,
-“Cubone”,
-“Cutiefly”,
-“Cyndaquil”,
-“Darkrai”,
-“Darmanitan”,
-“Darmanitan Zen”,
-“Dartrix”,
-“Darumaka”,
-“Decidueye”,
-“Dedenne”,
-“Deerling Autumn”,
-“Deerling Spring”,
-“Deerling Summer”,
-“Deerling Winter”,
-“Deino”,
-“Delcatty”,
-“Delibird”,
-“Delphox”,
-“Deoxys”,
-“Deoxys Attack”,
-“Deoxys Defense”,
-“Deoxys Speed”,
-“Dewgong”,
-“Dewott”,
-“Dewpider”,
-“Dhelmise”,
-“Dialga”,
-“Diancie”,
-“Diancie Mega”,
-“Diggersby”,
-“Diglett”,
-“Diglett Alola”,
-“Ditto”,
-“Dodrio”,
-“Doduo”,
-“Donphan”,
-“Doublade”,
-“Dragalge”,
-“Dragonair”,
-“Dragonite”,
-“Drampa”,
-“Drapion”,
-“Dratini”,
-“Drifblim”,
-“Drifloon”,
-“Drilbur”,
-“Drowzee”,
-“Druddigon”,
-“Ducklett”,
-“Dugtrio”,
-“Dugtrio Alola”,
-“Dunsparce”,
-“Duosion”,
-“Durant”,
-“Dusclops”,
-“Dusknoir”,
-“Duskull”,
-“Dustox”,
-“Dwebble”,
-“Eelektrik”,
-“Eelektross”,
-“Eevee”,
-“Ekans”,
-“Electabuzz”,
-“Electivire”,
-“Electrike”,
-“Electrode”,
-“Elekid”,
-“Elgyem”,
-“Emboar”,
-“Emolga”,
-“Empoleon”,
-“Entei”,
-“Escavalier”,
-“Espeon”,
-“Espurr”,
-“Excadrill”,
-“Exeggcute”,
-“Exeggutor”,
-“Exeggutor Alola”,
-“Exploud”,
-“Farfetchd”,
-“Fearow”,
-“Feebas”,
-“Fennekin”,
-“Feraligatr”,
-“Ferroseed”,
-“Ferrothorn”,
-“Finneon”,
-“Flaaffy”,
-“Flabebe”,
-“Flabebe Blue”,
-“Flabebe Orange”,
-“Flabebe Red”,
-“Flabebe White”,
-“Flabebe Yellow”,
-“Flareon”,
-“Fletchinder”,
-“Fletchling”,
-“Floatzel”,
-“Floette”,
-“Floette Blue”,
-“Floette Orange”,
-“Floette Red”,
-“Floette White”,
-“Floette Yellow”,
-“Florges”,
-“Florges Blue”,
-“Florges Orange”,
-“Florges Red”,
-“Florges White”,
-“Florges Yellow”,
-“Flygon”,
-“Fomantis”,
-“Foongus”,
-“Forretress”,
-“Fraxure”,
-“Frillish”,
-“Frillish Female”,
-“Froakie”,
-“Frogadier”,
-“Froslass”,
-“Furfrou”,
-“Furfrou Dandy”,
-“Furfrou Debutante”,
-“Furfrou Diamond”,
-“Furfrou Heart”,
-“Furfrou Kabuki”,
-“Furfrou Lareine”,
-“Furfrou Matron”,
-“Furfrou Pharaoh”,
-“Furfrou Star”,
-“Furret”,
-“Gabite”,
-“Gallade”,
-“Gallade Mega”,
-“Galvantula”,
-“Garbodor”,
-“Garchomp”,
-“Garchomp Mega”,
-“Gardevoir”,
-“Gardevoir Mega”,
-“Gastly”,
-“Gastrodon”,
-“Gastrodon East Sea”,
-“Gastrodon West Sea”,
-“Genesect”,
-“Genesect Burn”,
-“Genesect Chill”,
-“Genesect Douse”,
-“Genesect Shock”,
-“Gengar”,
-“Gengar Mega”,
-“Geodude”,
-“Geodude Alola”,
-“Gible”,
-“Gigalith”,
-“Girafarig”,
-“Giratina”,
-“Giratina Altered”,
-“Giratina Origin”,
-“Glaceon”,
-“Glalie”,
-“Glalie Mega”,
-“Glameow”,
-“Gligar”,
-“Gliscor”,
-“Gloom”,
-“Gogoat”,
-“Golbat”,
-“Goldeen”,
-“Golduck”,
-“Golem”,
-“Golem Alola”,
-“Golett”,
-“Golisopod”,
-“Golurk”,
-“Goodra”,
-“Goomy”,
-“Gorebyss”,
-“Gothita”,
-“Gothitelle”,
-“Gothorita”,
-“Gourgeist”,
-“Gourgeist Large”,
-“Gourgeist Small”,
-“Gourgeist Super”,
-“Granbull”,
-“Graveler”,
-“Graveler Alola”,
-“Greninja”,
-“Greninja Ash”,
-“Grimer”,
-“Grimer Alola”,
-“Grotle”,
-“Groudon”,
-“Groudon Primal”,
-“Grovyle”,
-“Growlithe”,
-“Grubbin”,
-“Grumpig”,
-“Gulpin”,
-“Gumshoos”,
-“Gumshoos Totem”,
-“Gurdurr”,
-“Guzzlord”,
-“Gyarados”,
-“Gyarados Mega”,
-“Hakamo-o”,
-“Happiny”,
-“Hariyama”,
-“Haunter”,
-“Hawlucha”,
-“Haxorus”,
-“Heatmor”,
-“Heatran”,
-“Heliolisk”,
-“Helioptile”,
-“Heracross”,
-“Heracross Mega”,
-“Herdier”,
-“Hippopotas”,
-“Hippopotas Female”,
-“Hippowdon”,
-“Hippowdon Female”,
-“Hitmonchan”,
-“Hitmonlee”,
-“Hitmontop”,
-“Honchkrow”,
-“Honedge”,
-“Ho-Oh”,
-“Hoopa”,
-“Hoopa Mega”,
-“Hoopa Unbound”,
-“Hoothoot”,
-“Hoppip”,
-“Horsea”,
-“Houndoom”,
-“Houndoom Mega”,
-“Houndour”,
-“Huntail”,
-“Hydreigon”,
-“Hypno”,
-“Igglybuff”,
-“Illumise”,
-“Incineroar”,
-“Infernape”,
-“Inkay”,
-“Ivysaur”,
-“Jangmo-o”,
-“Jellicent”,
-“Jellicent Female”,
-“Jigglypuff”,
-“Jirachi”,
-“Jolteon”,
-“Joltik”,
-“Jumpluff”,
-“Jynx”,
-“Kabuto”,
-“Kabutops”,
-“Kadabra”,
-“Kakuna”,
-“Kangaskhan”,
-“Kangaskhan Mega”,
-“Karrablast”,
-“Kartana”,
-“Kecleon”,
-“Keldeo”,
-“Keldeo Resolute”,
-“Kingdra”,
-“Kingler”,
-“Kirlia”,
-“Klang”,
-“Klefki”,
-“Klink”,
-“Klinklang”,
-“Koffing”,
-“Komala”,
-“Kommo-o”,
-“Krabby”,
-“Kricketot”,
-“Kricketune”,
-“Krokorok”,
-“Krookodile”,
-“Kyogre”,
-“Kyogre Primal”,
-“Kyurem”,
-“Kyurem Black”,
-“Kyurem White”,
-“Lairon”,
-“Lampent”,
-“Landorus”,
-“Landorus Incarnate”,
-“Landorus Therian”,
-“Lanturn”,
-“Lapras”,
-“Larvesta”,
-“Larvitar”,
-“Latias”,
-“Latias Mega”,
-“Latios”,
-“Latios Mega”,
-“Leafeon”,
-“Leavanny”,
-“Ledian”,
-“Ledyba”,
-“Lickilicky”,
-“Lickitung”,
-“Liepard”,
-“Lileep”,
-“Lilligant”,
-“Lillipup”,
-“Linoone”,
-“Litleo”,
-“Litten”,
-“Litwick”,
-“Lombre”,
-“Lopunny”,
-“Lopunny Mega”,
-“Lotad”,
-“Loudred”,
-“Lucario”,
-“Lucario Mega”,
-“Ludicolo”,
-“Lugia”,
-“Lumineon”,
-“Lunala”,
-“Lunatone”,
-“Lurantis”,
-“Lurantis Totem”,
-“Luvdisc”,
-“Luxio”,
-“Luxray”,
-“Lycanroc”,
-“Lycanroc Dusk”,
-“Lycanroc Midnight”,
-“Machamp”,
-“Machoke”,
-“Machop”,
-“Magby”,
-“Magcargo”,
-“Magearna”,
-“Magearna Original”,
-“Magikarp”,
-“Magmar”,
-“Magmortar”,
-“Magnemite”,
-“Magneton”,
-“Magnezone”,
-“Makuhita”,
-“Malamar”,
-“Mamoswine”,
-“Manaphy”,
-“Mandibuzz”,
-“Manectric”,
-“Manectric Mega”,
-“Mankey”,
-“Mantine”,
-“Mantyke”,
-“Maractus”,
-“Mareanie”,
-“Mareep”,
-“Marill”,
-“Marowak”,
-“Marowak Alola”,
-“Marshadow”,
-“Marshtomp”,
-“Masquerain”,
-“Mawile”,
-“Mawile Mega”,
-“Medicham”,
-“Medicham Mega”,
-“Meditite”,
-“Meganium”,
-“Melmetal”,
-“Meloetta”,
-“Meloetta Aria”,
-“Meloetta Pirouette”,
-“Meltan”,
-“Meowstic”,
-“Meowstic Female”,
-“Meowth”,
-“Meowth Alola”,
-“Mesprit”,
-“Metagross”,
-“Metagross Mega”,
-“Metang”,
-“Metapod”,
-“Mew”,
-“Mewtwo”,
-“Mewtwo Mega X”,
-“Mewtwo Mega Y”,
-“Mienfoo”,
-“Mienshao”,
-“Mightyena”,
-“Milotic”,
-“Miltank”,
-“Mime Jr.”,
-“Mimikyu”,
-“Mimikyu Busted”,
-“Mimikyu Totem”,
-“Mimikyu Totem Busted”,
-“Minccino”,
-“Minior”,
-“Minior Blue”,
-“Minior Green”,
-“Minior Indigo”,
-“Minior Meteor”,
-“Minior Orange”,
-“Minior Violet”,
-“Minior Yellow”,
-“Minun”,
-“Misdreavus”,
-“Mismagius”,
-“Moltres”,
-“Monferno”,
-“Morelull”,
-“Mothim”,
-“Mr. Mime”,
-“Mudbray”,
-“Mudkip”,
-“Mudsdale”,
-“Muk”,
-“Muk Alola”,
-“Munchlax”,
-“Munna”,
-“Murkrow”,
-“Musharna”,
-“Naganadel”,
-“Natu”,
-“Necrozma”,
-“Necrozma Dawnwings”,
-“Necrozma Duskmane”,
-“Necrozma Ultra”,
-“Nidoking”,
-“Nidoqueen”,
-“Nidoran”,
-“Nidoran”,
-“Nidorina”,
-“Nidorino”,
-“Nihilego”,
-“Nincada”,
-“Ninetales”,
-“Ninetales Alola”,
-“Ninjask”,
-“Noctowl”,
-“Noibat”,
-“Noivern”,
-“Nosepass”,
-“Numel”,
-“Nuzleaf”,
-“Octillery”,
-“Oddish”,
-“Omanyte”,
-“Omastar”,
-“Onix”,
-“Oranguru”,
-“Oricorio”,
-“Oricorio Pau”,
-“Oricorio Pompom”,
-“Oricorio Sensu”,
-“Oshawott”,
-“Pachirisu”,
-“Palkia”,
-“Palossand”,
-“Palpitoad”,
-“Pancham”,
-“Pangoro”,
-“Panpour”,
-“Pansage”,
-“Pansear”,
-“Paras”,
-“Parasect”,
-“Passimian”,
-“Patrat”,
-“Pawniard”,
-“Pelipper”,
-“Persian”,
-“Persian Alola”,
-“Petilil”,
-“Phanpy”,
-“Phantump”,
-“Pheromosa”,
-“Phione”,
-“Pichu”,
-“Pidgeot”,
-“Pidgeot Mega”,
-“Pidgeotto”,
-“Pidgey”,
-“Pidove”,
-“Pignite”,
-“Pikachu”,
-“Pikachu Belle”,
-“Pikachu Cosplay”,
-“Pikachu Hoenn”,
-“Pikachu Kalos”,
-“Pikachu Libre”,
-“Pikachu Partner”,
-“Pikachu Phd”,
-“Pikachu Pop Star”,
-“Pikachu Popstar”,
-“Pikachu Rockstar”,
-“Pikachu Sinnoh”,
-“Pikachu Unova”,
-“Pikipek”,
-“Piloswine”,
-“Pineco”,
-“Pinsir”,
-“Pinsir Mega”,
-“Piplup”,
-“Plusle”,
-“Poipole”,
-“Politoed”,
-“Poliwag”,
-“Poliwhirl”,
-“Poliwrath”,
-“Ponyta”,
-“Poochyena”,
-“Popplio”,
-“Porygon”,
-“Porygon Z”,
-“Porygon2”,
-“Primarina”,
-“Primeape”,
-“Prinplup”,
-“Probopass”,
-“Psyduck”,
-“Pumpkaboo”,
-“Pumpkaboo Large”,
-“Pumpkaboo Small”,
-“Pumpkaboo Super”,
-“Pupitar”,
-“Purrloin”,
-“Purugly”,
-“Pyroar”,
-“Pyroar Female”,
-“Pyukumuku”,
-“Quagsire”,
-“Quilava”,
-“Quilladin”,
-“Qwilfish”,
-“Raichu”,
-“Raichu Alola”,
-“Raikou”,
-“Ralts”,
-“Rampardos”,
-“Rapidash”,
-“Raticate”,
-“Raticate Alola”,
-“Rattata”,
-“Rattata Alola”,
-“Rayquaza”,
-“Rayquaza Mega”,
-“Regice”,
-“Regigigas”,
-“Regirock”,
-“Registeel”,
-“Relicanth”,
-“Remoraid”,
-“Reshiram”,
-“Reuniclus”,
-“Rhydon”,
-“Rhyhorn”,
-“Rhyperior”,
-“Ribombee”,
-“Riolu”,
-“Rockruff”,
-“Roggenrola”,
-“Roselia”,
-“Roserade”,
-“Rotom”,
-“Rotom Fan”,
-“Rotom Frost”,
-“Rotom Heat”,
-“Rotom Mow”,
-“Rotom Wash”,
-“Rowlet”,
-“Rufflet”,
-“Sableye”,
-“Sableye Mega”,
-“Salamence”,
-“Salamence Mega”,
-“Salandit”,
-“Salazzle”,
-“Salazzle Totem”,
-“Samurott”,
-“Sandile”,
-“Sandshrew”,
-“Sandshrew Alola”,
-“Sandslash”,
-“Sandslash Alola”,
-“Sandygast”,
-“Sawk”,
-“Sawsbuck Autumn”,
-“Sawsbuck Spring”,
-“Sawsbuck Summer”,
-“Sawsbuck Winter”,
-“Scatterbug”,
-“Sceptile”,
-“Sceptile Mega”,
-“Scizor”,
-“Scizor Mega”,
-“Scolipede”,
-“Scrafty”,
-“Scraggy”,
-“Scyther”,
-“Seadra”,
-“Seaking”,
-“Sealeo”,
-“Seedot”,
-“Seel”,
-“Seismitoad”,
-“Sentret”,
-“Serperior”,
-“Servine”,
-“Seviper”,
-“Sewaddle”,
-“Sharpedo”,
-“Sharpedo Mega”,
-“Shaymin”,
-“Shaymin Land”,
-“Shaymin Sky”,
-“Shedinja”,
-“Shelgon”,
-“Shellder”,
-“Shellos”,
-“Shellos East Sea”,
-“Shellos West Sea”,
-“Shelmet”,
-“Shieldon”,
-“Shiftry”,
-“Shiinotic”,
-“Shinx”,
-“Shroomish”,
-“Shuckle”,
-“Shuppet”,
-“Sigilyph”,
-“Silcoon”,
-“Silvally”,
-“Silvally Bug”,
-“Silvally Dark”,
-“Silvally Dragon”,
-“Silvally Electric”,
-“Silvally Fairy”,
-“Silvally Fighting”,
-“Silvally Fire”,
-“Silvally Flying”,
-“Silvally Ghost”,
-“Silvally Grass”,
-“Silvally Ground”,
-“Silvally Ice”,
-“Silvally Poison”,
-“Silvally Psychic”,
-“Silvally Rock”,
-“Silvally Steel”,
-“Silvally Water”,
-“Simipour”,
-“Simisage”,
-“Simisear”,
-“Skarmory”,
-“Skiddo”,
-“Skiploom”,
-“Skitty”,
-“Skorupi”,
-“Skrelp”,
-“Skuntank”,
-“Slaking”,
-“Slakoth”,
-“Sliggoo”,
-“Slowbro”,
-“Slowbro Mega”,
-“Slowking”,
-“Slowpoke”,
-“Slugma”,
-“Slurpuff”,
-“Smeargle”,
-“Smoochum”,
-“Sneasel”,
-“Snivy”,
-“Snorlax”,
-“Snorunt”,
-“Snover”,
-“Snubbull”,
-“Solgaleo”,
-“Solosis”,
-“Solrock”,
-“Spearow”,
-“Spewpa”,
-“Spheal”,
-“Spinarak”,
-“Spinda”,
-“Spiritomb”,
-“Spoink”,
-“Spritzee”,
-“Squirtle”,
-“Stakataka”,
-“Stantler”,
-“Staraptor”,
-“Staravia”,
-“Starly”,
-“Starmie”,
-“Staryu”,
-“Steelix”,
-“Steelix Mega”,
-“Steenee”,
-“Stoutland”,
-“Stufful”,
-“Stunfisk”,
-“Stunky”,
-“Sudowoodo”,
-“Suicune”,
-“Sunflora”,
-“Sunkern”,
-“Surskit”,
-“Swablu”,
-“Swadloon”,
-“Swalot”,
-“Swampert”,
-“Swampert Mega”,
-“Swanna”,
-“Swellow”,
-“Swinub”,
-“Swirlix”,
-“Swoobat”,
-“Sylveon”,
-“Taillow”,
-“Talonflame”,
-“Tangela”,
-“Tangrowth”,
-“Tapu Bulu”,
-“Tapu Fini”,
-“Tapu Koko”,
-“Tapu Lele”,
-“Tauros”,
-“Teddiursa”,
-“Tentacool”,
-“Tentacruel”,
-“Tepig”,
-“Terrakion”,
-“Throh”,
-“Thundurus”,
-“Thundurus Incarnate”,
-“Thundurus Therian”,
-“Timburr”,
-“Tirtouga”,
-“Togedemaru”,
-“Togedemaru Totem”,
-“Togekiss”,
-“Togepi”,
-“Togetic”,
-“Torchic”,
-“Torkoal”,
-“Tornadus”,
-“Tornadus Incarnate”,
-“Tornadus Therian”,
-“Torracat”,
-“Torterra”,
-“Totodile”,
-“Toucannon”,
-“Toxapex”,
-“Toxicroak”,
-“Tranquill”,
-“Trapinch”,
-“Treecko”,
-“Trevenant”,
-“Tropius”,
-“Trubbish”,
-“Trumbeak”,
-“Tsareena”,
-“Turtonator”,
-“Turtwig”,
-“Tympole”,
-“Tynamo”,
-“Typhlosion”,
-“Tyranitar”,
-“Tyranitar Mega”,
-“Tyrantrum”,
-“Tyrogue”,
-“Tyrunt”,
-“Umbreon”,
-“Unfezant”,
-“Unfezant Female”,
-“Unown”,
-“Unown B”,
-“Unown C”,
-“Unown D”,
-“Unown E”,
-“Unown Exclamation”,
-“Unown G”,
-“Unown H”,
-“Unown I”,
-“Unown J”,
-“Unown K”,
-“Unown L”,
-“Unown M”,
-“Unown N”,
-“Unown O”,
-“Unown P”,
-“Unown Q”,
-“Unown Question”,
-“Unown R”,
-“Unown S”,
-“Unown T”,
-“Unown U”,
-“Unown V”,
-“Unown W”,
-“Unown X”,
-“Unown Y”,
-“Unown Z”,
-“Ursaring”,
-“Uxie”,
-“Vanillish”,
-“Vanillite”,
-“Vanilluxe”,
-“Vaporeon”,
-“Venipede”,
-“Venomoth”,
-“Venonat”,
-“Venusaur”,
-“Venusaur Mega”,
-“Vespiquen”,
-“Vibrava”,
-“Victini”,
-“Victreebel”,
-“Vigoroth”,
-“Vikavolt”,
-“Vikavolt Totem”,
-“Vileplume”,
-“Virizion”,
-“Vivillon”,
-“Vivillon Archipelago”,
-“Vivillon Continental”,
-“Vivillon Elegant”,
-“Vivillon Fancy”,
-“Vivillon Garden”,
-“Vivillon Highplains”,
-“Vivillon Icysnow”,
-“Vivillon Jungle”,
-“Vivillon Marine”,
-“Vivillon Modern”,
-“Vivillon Monsoon”,
-“Vivillon Ocean”,
-“Vivillon Pokeball”,
-“Vivillon Polar”,
-“Vivillon River”,
-“Vivillon Sandstorm”,
-“Vivillon Savanna”,
-“Vivillon Sun”,
-“Vivillon Tundra”,
-“Volbeat”,
-“Volcanion”,
-“Volcarona”,
-“Voltorb”,
-“Vullaby”,
-“Vulpix”,
-“Vulpix Alola”,
-“Wailmer”,
-“Wailord”,
-“Walrein”,
-“Wartortle”,
-“Watchog”,
-“Weavile”,
-“Weedle”,
-“Weepinbell”,
-“Weezing”,
-“Whimsicott”,
-“Whirlipede”,
-“Whiscash”,
-“Whismur”,
-“Wigglytuff”,
-“Wimpod”,
-“Wingull”,
-“Wishiwashi”,
-“Wishiwashi School”,
-“Wobbuffet”,
-“Woobat”,
-“Wooper”,
-“Wormadam”,
-“Wormadam Plant”,
-“Wormadam Sandy”,
-“Wormadam Trash”,
-“Wurmple”,
-“Wynaut”,
-“Xatu”,
-“Xerneas”,
-“Xurkitree”,
-“Yamask”,
-“Yanma”,
-“Yanmega”,
-“Yungoos”,
-“Yveltal”,
-“Zangoose”,
-“Zapdos”,
-“Zebstrika”,
-“Zekrom”,
-“Zeraora”,
-“Zigzagoon”,
-“Zoroark”,
-“Zorua”,
-“Zubat”,
-“Zweilous”,
-“Zygarde”,
-“Zygarde 10”,
-“Zygarde 50”,
-“Zygarde Complete”
+abomasnow mega
+abomasnow
+abra
+absol mega
+absol
+accelgor
+aegislash blade
+aegislash
+aerodactyl mega
+aerodactyl
+aggron mega
+aggron
+aipom
+alakazam mega
+alakazam
+alcremie gigantamax
+alcremie
+alomomola
+altaria mega
+altaria
+amaura
+ambipom
+amoonguss
+ampharos mega
+ampharos
+anorith
+appletun gigantamax
+appletun
+applin
+araquanid totem
+araquanid
+arbok
+arcanine
+arceus bug
+arceus dark
+arceus dragon
+arceus electric
+arceus fairy
+arceus fighting
+arceus fire
+arceus flying
+arceus ghost
+arceus grass
+arceus ground
+arceus ice
+arceus poison
+arceus psychic
+arceus rock
+arceus steel
+arceus water
+arceus
+archen
+archeops
+arctovish
+arctozolt
+ariados
+armaldo
+armored mewtwo
+aromatisse
+aron
+arrokuda
+articuno
+audino mega
+audino
+aurorus
+aurumoth
+avalugg
+axew
+azelf
+azumarill
+azurill
+back
+bagon
+baltoy
+banette mega
+banette
+barbaracle
+barboach
+barboarch
+barraskewda
+basculin blue striped
+basculin blue
+basculin red striped
+basculin red
+bastiodon
+bayleef
+beartic
+beautifly
+beedrill mega
+beedrill
+beheeyem
+beldum
+bellossom
+bellsprout
+bergmite
+bewear
+bibarel
+bidoof
+binacle
+bisharp
+blacephalon
+blank
+blastoise mega
+blastoise
+blaziken mega
+blaziken
+blipbug
+blissey
+blitzle
+boldore
+boltund
+bonsly
+bouffalant
+bounsweet
+braixen
+braviary
+breloom
+brionne
+bronzong
+bronzor
+bruxish
+budew
+buizel
+bulbasaur
+buneary
+bunnelby
+burmy plant
+burmy sandy
+burmy trash
+burmy
+butterfree gigantamax
+butterfree
+buzzwole
+cacnea
+cacturne
+camerupt mega
+camerupt
+camperupt mega
+carbink
+caribolt
+carkol
+carnivine
+carracosta
+carvanha
+cascoon
+castform rainy
+castform snowy
+castform sunny
+castform
+caterpie
+cawmodore
+celebi
+celesteela
+centiskorch gigantamax
+centiskorch
+chandelure
+chansey
+charizard gigantamax
+charizard mega x
+charizard mega y
+charizard
+charjabug
+charmander
+charmeleon
+chatot
+cherrim overcast
+cherrim sunshine
+cherrim
+cherubi
+chesnaught
+chespin
+chewtle
+chikorita
+chimchar
+chimecho
+chinchou
+chingling
+cinccino
+cinderace
+clamperl
+clauncher
+clawitzer
+claydol
+clefable
+clefairy
+cleffa
+clobbopus
+cloyster
+coalossal gigantamax
+coalossal
+cobalion
+cofagrigus
+combee
+combusken
+comfey
+conkeldurr
+copperajah gigantamax
+copperajah
+corphish
+corsola galar
+corsola galarian
+corsola
+corviknight gigantamax
+corviknight
+corvisquire
+cosmoem
+cosmog
+cottonee
+crabominable
+crabrawler
+cradily
+cramorant gorging
+cramorant gulping
+cramorant
+cranidos
+crawdaunt
+cresselia
+croagunk
+crobat
+croconaw
+crucibelle mega
+crucibelle
+crustle
+cryogonal
+cubchoo
+cubone
+cufant
+cursola
+cutiefly
+cyndaquil
+darkrai
+darmanitan galar
+darmanitan galarian
+darmanitan zen galar
+darmanitan zen galarian
+darmanitan zen
+darmanitan
+dartrix
+darumaka galar
+darumaka galarian
+darumaka
+decidueye
+dedenne
+deerling autumn
+deerling spring
+deerling summer
+deerling winter
+deino
+delcatty
+delibird
+delphox
+deoxys attack
+deoxys defense
+deoxys speed
+deoxys
+dewgong
+dewott
+dewpider
+dhelmise
+dialga
+diancie mega
+diancie
+diggersby
+diglett alola
+diglett
+ditto
+dodrio
+doduo
+donphan
+dottler
+doublade
+dracovish
+dracozolt
+dragalge
+dragapult
+dragonair
+dragonite
+drakloak
+drampa
+drapion
+dratini
+drednaw gigantamax
+drednaw
+dreepy
+drifblim
+drifloon
+drilbur
+drizzile
+drowzee
+druddigon
+dubwool
+ducklett
+dugtrio alola
+dugtrio
+dunsparce
+duosion
+duraludon gigantamax
+duraludon
+durant
+dusclops
+dusknoir
+duskull
+dustox
+dwebble
+eelektrik
+eelektross
+eevee gigantamax
+eevee
+eiscue noice face
+eiscue
+ekans
+eldegoss
+electabuzz
+electivire
+electrike
+electrode
+elekid
+elgyem
+emboar
+emolga
+empoleon
+entei
+escavalier
+espeon
+espurr
+eternatus eternamax
+eternatus
+excadrill
+exeggcute
+exeggutor alola
+exeggutor
+exploud
+falinks
+farfetch'd
+farfetchd galar
+farfetchd galarian
+farfetchd
+fearow
+feebas
+fennekin
+feraligatr
+ferroseed
+ferrothorn
+finneon
+flaaffy
+flabebe blue
+flabebe orange
+flabebe red
+flabebe white
+flabebe yellow
+flabebe
+flapple gigantamax
+flapple
+flareon
+fletchinder
+fletchling
+floatzel
+floette blue
+floette eternal
+floette orange
+floette red
+floette white
+floette yellow
+floette
+florges blue
+florges orange
+florges red
+florges white
+florges yellow
+florges
+flygon
+fomantis
+foongus
+forretress
+fraxure
+frillish
+froakie
+frogadier
+froslass
+frosmoth
+furfrou dandy
+furfrou debutante
+furfrou diamond
+furfrou heart
+furfrou kabuki
+furfrou lareine
+furfrou matron
+furfrou pharaoh
+furfrou star
+furfrou
+furret
+gabite
+gallade mega
+gallade
+galvantula
+garbodor gigantamax
+garbodor
+garchomp mega
+garchomp
+gardevoir mega
+gardevoir
+gastly
+gastrodon east sea
+gastrodon east
+gastrodon west sea
+gastrodon
+genesect burn
+genesect chill
+genesect douse
+genesect shock
+genesect
+gengar gigantamax
+gengar mega
+gengar
+geodude alola
+geodude
+gible
+gigalith
+girafarig
+giratina origin
+giratina
+glaceon
+glalie mega
+glalie
+glameow
+gligar
+gliscor
+gloom
+gogoat
+golbat
+goldeen
+golduck
+golem alola
+golem
+golett
+golisopod
+golurk
+goodra
+goomy
+gorebyss
+gossifleur
+gothita
+gothitelle
+gothorita
+gourgeist large
+gourgeist small
+gourgeist super
+gourgeist
+granbull
+grapploct
+graveler alola
+graveler
+greedent
+greninja ash
+greninja
+grimer alola
+grimer
+grimmsnarl gigantamax
+grimmsnarl
+grookey
+grotle
+groudon primal
+groudon
+grovyle
+growlithe
+grubbin
+grumpig
+gulpin
+gumshoos totem
+gumshoos
+gurdurr
+guzzlord
+gyarados mega
+gyarados
+hakamo-o
+happiny
+hariyama
+hatenna
+hatterene gigantamax
+hatterene
+hattrem
+haunter
+hawlucha
+haxorus
+heatmor
+heatran
+heliolisk
+helioptile
+heracross mega
+heracross
+herdier
+hippopotas female
+hippopotas
+hippowdon female
+hippowdon
+hitmonchan
+hitmonlee
+hitmontop
+ho-oh
+honchkrow
+honedge
+hoopa mega
+hoopa unbound
+hoopa
+hoothoot
+hoppip
+horsea
+houndoom mega
+houndoom
+houndour
+huntail
+hydreigon
+hypno
+igglybuff
+illumise
+image2
+impidimp
+incineroar
+indeedee
+infernape
+inkay
+inteleon
+ivysaur
+jangmo-o
+jellicent
+jigglypuff
+jirachi
+jolteon
+joltik
+jumbao
+jumpluff
+jynx
+kabuto
+kabutops
+kadabra
+kakuna
+kangaskhan mega
+kangaskhan
+karrablast
+kartana
+kecleon
+keldeo resolute
+keldeo
+kingdra
+kingler gigantamax
+kingler
+kirlia
+klang
+klefki
+klink
+klinklang
+koffing
+komala
+kommo-o
+krabby
+kricketot
+kricketune
+krilowatt
+krokorok
+krookodile
+kyogre primal
+kyogre
+kyurem black
+kyurem white
+kyurem
+lairon
+lampent
+landorus incarnate
+landorus therian
+landorus
+lanturn
+lapras gigantamax
+lapras
+larvesta
+larvitar
+latias mega
+latias
+latios mega
+latios
+leafeon
+leavanny
+ledian
+ledyba
+lickilicky
+lickitung
+liepard
+lileep
+lilligant
+lillipup
+linoone galar
+linoone galarian
+linoone
+litleo
+litten
+litwick
+lombre
+lopunny mega
+lopunny
+lotad
+loudred
+lucario mega
+lucario
+ludicolo
+lugia
+lumineon
+lunala
+lunatone
+lurantis totem
+lurantis
+luvdisc
+luxio
+luxray
+lycanroc dusk
+lycanroc midnight
+lycanroc
+machamp gigantamax
+machamp
+machoke
+machop
+magby
+magcargo
+magearna original
+magearna
+magikarp
+magmar
+magmortar
+magnemite
+magneton
+magnezone
+makuhita
+malaconda
+malamar
+mamoswine
+manaphy
+mandibuzz
+manectric mega
+manectric
+mankey
+mantine
+mantyke
+maractus
+mareanie
+mareep
+marill
+marowak alola totem
+marowak alola
+marowak totem
+marowak
+marshadow
+marshtomp
+masquerain
+mawile mega
+mawile
+medicham mega
+medicham
+meditite
+meganium
+melmetal gigantamax
+melmetal
+meloetta aria
+meloetta pirouette
+meloetta
+meltan
+meowstic
+meowth alola
+meowth galar
+meowth galarian
+meowth gigantamax
+meowth
+mesprit
+metagross mega
+metagross
+metang
+metapod
+mew
+mewtwo mega x
+mewtwo mega y
+mewtwo
+mienfoo
+mienshao
+mightyena
+milcery
+milotic
+miltank
+mime jr.
+mime jr
+mimikyu busted
+mimikyu totem busted
+mimikyu totem
+mimikyu
+minccino
+minior blue
+minior green
+minior indigo
+minior meteor
+minior orange
+minior violet
+minior yellow
+minior
+minun
+misdreavus
+mismagius
+mollux
+moltres
+monferno
+morelull
+morgrem
+morpeko hangry
+morpeko
+mothim
+mr mime galar
+mr mime galarian
+mr mime
+mr rime
+mr. mime
+mrmime
+mudbray
+mudkip
+mudsdale
+muk alola
+muk
+munchlax
+munna
+murkrow
+musharna
+naganadel
+natu
+naviathan
+necrozma dawnwings
+necrozma duskmane
+necrozma ultra
+necrozma
+necturna
+nickit
+nidoking
+nidoqueen
+nidoran female
+nidoran male
+nidoran
+nidoranf
+nidoranm
+nidorina
+nidorino
+nihilego
+nincada
+ninetales alola
+ninetales
+ninjask
+noctowl
+noibat
+noivern
+nosepass
+numel
+nuzleaf
+obstagoon
+octillery
+oddish
+omanyte
+omastar
+onix
+oranguru
+orbeetle gigantamax
+orbeetle
+oricorio pau
+oricorio pompom
+oricorio sensu
+oricorio
+oshawott
+pachirisu
+pajantom
+palkia
+palossand
+palpitoad
+pancham
+pangoro
+panpour
+pansage
+pansear
+paras
+parasect
+passimian
+patrat
+pawniard
+pelipper
+perrserker
+persian alola
+persian
+petilil
+phanpy
+phantump
+pheromosa
+phione
+pichu
+pidgeot mega
+pidgeot
+pidgeotto
+pidgey
+pidove
+pignite
+pikachu alola
+pikachu belle
+pikachu cosplay
+pikachu gigantamax
+pikachu hoenn
+pikachu kalos
+pikachu libre
+pikachu original
+pikachu partner
+pikachu phd
+pikachu pop star
+pikachu popstar
+pikachu rockstar
+pikachu sinnoh
+pikachu unova
+pikachu
+pikipek
+piloswine
+pincurchin
+pineco
+pinsir mega
+pinsir
+piplup
+plasmanta
+pluffle
+plusle
+poipole
+pokestarblackbelt
+pokestarblackdoor
+pokestarbrycenman
+pokestarf00
+pokestarf002
+pokestargiant
+pokestarhumanoid
+pokestarmonster
+pokestarmt
+pokestarmt2
+pokestarsmeargle
+pokestarspirit
+pokestartransport
+pokestarufo 2
+pokestarufo
+pokestarufo2
+pokestarwhitedoor
+politoed
+poliwag
+poliwhirl
+poliwrath
+polteageist
+ponyta galar
+ponyta galarian
+ponyta
+poochyena
+popplio
+porygon z
+porygon
+porygon2
+porygonz
+primarina
+primeape
+prinplup
+probopass
+psyduck
+pumpkaboo large
+pumpkaboo small
+pumpkaboo super
+pumpkaboo
+pupitar
+purrloin
+purugly
+pyroak
+pyroar
+pyukumuku
+quagsire
+quilava
+quilladin
+qwilfish
+raboot
+raichu alola
+raichu
+raikou
+ralts
+rampardos
+rapidash galar
+rapidash galarian
+rapidash
+raticate alola totem
+raticate alola
+raticate totem a
+raticate
+rattata alola
+rattata
+rayquaza mega
+rayquaza
+regice
+regigigas
+regirock
+registeel
+relicanth
+remoraid
+reshiram
+reuniclus
+rhydon
+rhyhorn
+rhyperior
+ribombee
+rillaboom
+riolu
+rockruff
+roggenrola
+rolycoly
+rookidee
+roselia
+roserade
+rotom fan
+rotom frost
+rotom h
+rotom heat
+rotom m
+rotom mow
+rotom s
+rotom w
+rotom wash
+rotom
+rowlet
+rufflet
+runerigus
+sableye mega
+sableye
+salamence mega
+salamence
+salandit
+salazzle totem
+salazzle
+samurott
+sandaconda gigantamax
+sandaconda
+sandile
+sandshrew alola
+sandshrew
+sandslash alola
+sandslash
+sandygast
+sawk
+sawsbuck autumn
+sawsbuck spring
+sawsbuck summer
+sawsbuck winter
+scatterbug
+sceptile mega
+sceptile
+scizor mega
+scizor
+scolipede
+scorbunny
+scrafty
+scraggy
+scratchet
+scyther
+seadra
+seaking
+sealeo
+seedot
+seel
+seismitoad
+sentret
+serperior
+servine
+seviper
+sewaddle
+sharpedo mega
+sharpedo
+shaymin sky
+shaymin
+shedinja
+shelgon
+shellder
+shellos east sea
+shellos east
+shellos west sea
+shellos
+shelmet
+shieldon
+shiftry
+shiinotic
+shinx
+shroomish
+shuckle
+shuppet
+sigilyph
+silcoon
+silicobra
+silvally bug
+silvally dark
+silvally dragon
+silvally electric
+silvally fairy
+silvally fighting
+silvally fire
+silvally flying
+silvally ghost
+silvally grass
+silvally ground
+silvally ice
+silvally poison
+silvally psychic
+silvally rock
+silvally steel
+silvally water
+silvally
+simipour
+simisage
+simisear
+sinistea
+sirfetchd
+sizzlipede
+skarmory
+skiddo
+skiploom
+skitty
+skorupi
+skrelp
+skuntank
+skwovet
+slaking
+slakoth
+sliggoo
+slowbro mega
+slowbro
+slowking
+slowpoke
+slugma
+slurpuff
+smeargle
+smokomodo
+smoochum
+snaelstrom
+sneasel
+snivy
+snom
+snorlax gigantamax
+snorlax
+snornut
+snorunt
+snover
+snubbull
+sobble
+solgaleo
+solosis
+solrock
+spearow
+spewpa
+spheal
+spinarak
+spinda
+spiritomb
+spoink
+spritzee
+squirtle
+stakataka
+stantler
+staraptor
+staravia
+starly
+starmie
+staryu
+steelix mega
+steelix
+steenee
+stonjourner
+stoutland
+stratagem
+stufful
+stunfisk galar
+stunfisk galarian
+stunfisk
+stunky
+substitute
+sudowoodo
+suicune
+sunflora
+sunkern
+surskit
+swablu
+swadloon
+swalot
+swampert mega
+swampert
+swanna
+swellow
+swinub
+swirlix
+swoobat
+sylveon
+taillow
+talonflame
+tangela
+tangrowth
+tapu bulu
+tapu fini
+tapu koko
+tapu lele
+tauros
+teddiursa
+tentacool
+tentacruel
+tepig
+terrakion
+thievul
+throh
+thundurus incarnate
+thundurus therian
+thundurus
+thwackey
+timburr
+tirtouga
+togedemaru totem
+togedemaru
+togekiss
+togepi
+togetic
+tomohawk
+torchic
+torkoal
+tornadus incarnate
+tornadus therian
+tornadus
+torracat
+torterra
+totodile
+toucannon
+toxapex
+toxel
+toxicroak
+toxtricity gigantamax
+toxtricity low key
+toxtricity
+tranquill
+trapinch
+treecko
+trevenant
+tropius
+trubbish
+trumbeak
+tsareena
+turtonator
+turtwig
+tympole
+tynamo
+type null
+typenull
+typhlosion
+tyranitar mega
+tyranitar
+tyrantrum
+tyrantum
+tyrogue
+tyrunt
+umbreon
+unfezant
+unown a
+unown b
+unown c
+unown d
+unown e
+unown exclamation
+unown f
+unown g
+unown h
+unown i
+unown j
+unown k
+unown l
+unown m
+unown n
+unown o
+unown p
+unown q
+unown question
+unown r
+unown s
+unown t
+unown u
+unown v
+unown w
+unown x
+unown y
+unown z
+unown
+ursaring
+uxie
+vanillish
+vanillite
+vanilluxe
+vaporeon
+venipede
+venomoth
+venonat
+venusaur mega
+venusaur
+vespiquen
+vibrava
+victini
+victreebel
+vigoroth
+vikavolt totem
+vikavolt
+vileplume
+virizion
+vivillon archipelago
+vivillon continental
+vivillon elegant
+vivillon fancy
+vivillon garden
+vivillon highplains
+vivillon icysnow
+vivillon jungle
+vivillon marine
+vivillon modern
+vivillon monsoon
+vivillon ocean
+vivillon pokeball
+vivillon polar
+vivillon river
+vivillon sandstorm
+vivillon savanna
+vivillon sun
+vivillon tundra
+vivillon
+volbeat
+volcanion
+volcarona
+volkraken
+voltorb
+vullaby
+vulpix alola
+vulpix
+wailmer
+wailord
+walrein
+wartortle
+watchog
+weavile
+weedle
+weepinbell
+weezing galar
+weezing galarian
+weezing
+whimsicott
+whirlipede
+whiscash
+whismur
+wigglytuff
+wimpod
+wingull
+wishiwashi school
+wishiwashi
+wobbuffet
+woobat
+wooloo
+wooper
+wormadam plant
+wormadam sandy
+wormadam trash
+wormadam
+wurmple
+wynaut
+xatu
+xerneas
+xurkitree
+yamask galar
+yamask galarian
+yamask
+yamper
+yanma
+yanmega
+yungoos
+yveltal
+zacian crowned sword
+zacian
+zamazenta crowned shield
+zamazenta
+zangoose
+zapdos
+zebstrika
+zekrom
+zeraora
+zigzagoon galar
+zigzagoon galarian
+zigzagoon
+zoroark
+zorua
+zubat
+zweilous
+zygarde 10
+zygarde 50
+zygarde complete
+zygarde
