@@ -38,16 +38,16 @@
     "description": "Faster leveling\n-Attack bonus\n-Increased raid XP\n-Open more gifts"
   },
   {
-    "event_name": "Season 1",
+    "event_name": "Season of Celebration",
     "start_day": "1",
     "start_month": "December",
     "start_year": "2020",
     "end_day": "1",
-    "end_month": "January",
+    "end_month": "March",
     "end_year": "2021",
     "start_time": "8:00",
     "end_time": "8:00",
-    "range_text": "Starts Dec 1st at 8am",
+    "range_text": "Dec 1-Mar 1",
     "description": "<https://pokemongolive.com/post/gobeyond-seasons>"
   },
   {
@@ -114,6 +114,32 @@
     "end_time": "19:00",
     "range_text": "Dec 8: Swinub + 2x catch Stardust",
     "description": "Dec 15: Adventure hat Pikachu + 2x catch Candy\n-Dec 22: Snorunt + 2x transfer Candy\n-Dec 29: Snover + 2x evolve XP"
+  },
+  {
+    "event_name": "Community Days",
+    "start_day": "12",
+    "start_month": "December",
+    "start_year": "2020",
+    "end_day": "13",
+    "end_month": "December",
+    "end_year": "2020",
+    "start_time": "11:00",
+    "end_time": "17:00",
+    "range_text": "Dec 12th and 13th",
+    "description": "2019/2020 CD Pokemon in wild"
+  },
+  {
+    "event_name": "",
+    "start_day": "",
+    "start_month": "",
+    "start_year": "",
+    "end_day": "",
+    "end_month": "",
+    "end_year": "",
+    "start_time": "",
+    "end_time": "",
+    "range_text": "",
+    "description": ""
   },
   {
     "event_name": "",
