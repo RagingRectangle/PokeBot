@@ -1,55 +1,4 @@
-[{
-    "event_name": "Research Breakthrough",
-    "start_day": "1",
-    "start_month": "November",
-    "start_year": "2020",
-    "end_day": "1",
-    "end_month": "December",
-    "end_year": "2020",
-    "start_time": "15:00",
-    "end_time": "15:00",
-    "range_text": "Nov 1-Dec 1",
-    "description": "Togetic <a:togetic:768945866903126068>"
-  },
-  {
-    "event_name": "Lake Legends Event",
-    "start_day": "24",
-    "start_month": "November",
-    "start_year": "2020",
-    "end_day": "30",
-    "end_month": "November",
-    "end_year": "2020",
-    "start_time": "8:00",
-    "end_time": "22:00",
-    "range_text": "Nov 24-30",
-    "description": "Azelf <a:azelf:580927008272547860> appearing in T5 Raids\n-Shiny Goldeen released <a:goldeenS:778369640145354792><a:seakingS:778369663549177907>"
-  },
-  {
-    "event_name": "Friendship Event",
-    "start_day": "18",
-    "start_month": "November",
-    "start_year": "2020",
-    "end_day": "30",
-    "end_month": "November",
-    "end_year": "2020",
-    "start_time": "13:00",
-    "end_time": "13:00",
-    "range_text": "Nov 18-30",
-    "description": "Faster leveling\n-Attack bonus\n-Increased raid XP\n-Open more gifts"
-  },
-  {
-    "event_name": "Season of Celebration",
-    "start_day": "1",
-    "start_month": "December",
-    "start_year": "2020",
-    "end_day": "1",
-    "end_month": "March",
-    "end_year": "2021",
-    "start_time": "8:00",
-    "end_time": "8:00",
-    "range_text": "Dec 1-Mar 1",
-    "description": "<https://pokemongolive.com/post/gobeyond-seasons>"
-  },
+[
   {
     "event_name": "Kalos Event",
     "start_day": "2",
@@ -90,21 +39,21 @@
     "description": "Kyurem <a:kyurem:713203354142244884>\n-Mega Abomasnow released <a:abomasnow_mega:582455858819104768><a:abomasnowMS:781201595584872528>"
   },
    {
-    "event_name": "Seel <a:seel:782503732491452467><a:seelS:782503759803580446> Spotlight Hour",
-    "start_day": "1",
+    "event_name": "Swinub <a:swinub:783958138205765662><a:swinubS:783958186557308939> Spotlight Hour",
+    "start_day": "8",
     "start_month": "December",
     "start_year": "2020",
-    "end_day": "1",
+    "end_day": "8",
     "end_month": "December",
     "end_year": "2020",
     "start_time": "18:00",
     "end_time": "19:00",
-    "range_text": "Dec 1st 6-7pm",
-    "description": "2x evolve XP"
+    "range_text": "Dec 8th 6-7pm",
+    "description": "2x catch Stardust"
   },
   {
     "event_name": "Spotlight Hours",
-    "start_day": "8",
+    "start_day": "15",
     "start_month": "December",
     "start_year": "2020",
     "end_day": "29",
@@ -112,8 +61,8 @@
     "end_year": "2020",
     "start_time": "18:00",
     "end_time": "19:00",
-    "range_text": "Dec 8: Swinub + 2x catch Stardust",
-    "description": "Dec 15: Adventure hat Pikachu + 2x catch Candy\n-Dec 22: Snorunt + 2x transfer Candy\n-Dec 29: Snover + 2x evolve XP"
+    "range_text": "Dec 15: Adventure hat Pikachu + 2x catch Candy",
+    "description": "Dec 22: Snorunt + 2x transfer Candy\n-Dec 29: Snover + 2x evolve XP"
   },
   {
     "event_name": "Community Days",
