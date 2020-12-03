@@ -52,6 +52,19 @@
     "description": "2x catch Stardust"
   },
   {
+    "event_name": "Special Research",
+    "start_day": "14",
+    "start_month": "December",
+    "start_year": "2020",
+    "end_day": "31",
+    "end_month": "December",
+    "end_year": "2020",
+    "start_time": "8:00",
+    "end_time": "22:00",
+    "range_text": "Dec 14-?",
+    "description": "Shiny Celebi released <a:celebiS:784196504901517312>\n-Until 21st: Explorer Pikachu + Rocket snapshots\n-Until 25th: Meowth balloons"
+  },
+  {
     "event_name": "Spotlight Hours",
     "start_day": "15",
     "start_month": "December",
@@ -63,6 +76,19 @@
     "end_time": "19:00",
     "range_text": "Dec 15: Adventure hat Pikachu + 2x catch Candy",
     "description": "Dec 22: Snorunt + 2x transfer Candy\n-Dec 29: Snover + 2x evolve XP"
+  },
+  {
+    "event_name": "Secrets of the Jungle",
+    "start_day": "14",
+    "start_month": "December",
+    "start_year": "2020",
+    "end_day": "17",
+    "end_month": "December",
+    "end_year": "2020",
+    "start_time": "8:00",
+    "end_time": "22:00",
+    "range_text": "Dec 14-17",
+    "description": "Stuff in wild\n-Stuff in raids\n-Shiny Rufflet released <a:ruffletS:784196518596706335><a:braviaryS:784196529690378251>"
   },
   {
     "event_name": "Community Days",
