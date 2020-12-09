@@ -52,7 +52,7 @@
     "description": "2x catch Candy"
   },
   {
-    "event_name": "Snorunt Spotlight",
+    "event_name": "Snorunt <a:snoruntS:786349916695429160> Spotlight",
     "start_day": "22",
     "start_month": "December",
     "start_year": "2020",
@@ -101,7 +101,7 @@
     "start_time": "9:00",
     "end_time": "21:00",
     "range_text": "Feb 20th 9am-9pm",
-    "description": "All Kantos available\n-Shiny Mew Research\n-New Shiny: Spearow/Fearow, Paras/Parasect, Hitmonlee/chan, Ditto, Snorlax"
+    "description": "All Kantos available\n-Shiny Mew Research\n-New Shinies:\n--Spearow <a:spearowS:756314089390735440><a:fearowS:786348505286311957>\n--Paras <a:parasS:786348547737649172><a:parasectS:786348573728964648>\n--Hitmons <a:leeS:786348607908741150><a:chanS:786348591680716881>\n--Ditto <a:dittoS:786348632420384820>\n--Snorlax <a:snorlaxS:786348646081101864>"
   },
   {
     "event_name": "",
