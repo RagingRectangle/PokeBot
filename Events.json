@@ -23,7 +23,7 @@
     "start_time": "15:00",
     "end_time": "15:00",
     "range_text": "Dec 1-Jan 1",
-    "description": "Kyurem <a:kyurem:713203354142244884>\n-Mega Abomasnow released <a:abomasnow_mega:582455858819104768><a:abomasnowMS:781201595584872528>"
+    "description": "Kyurem <a:kyurem:713203354142244884>\n-Mega Abomasnow <a:abomasnow_mega:582455858819104768><a:abomasnowMS:781201595584872528>"
   },
   {
     "event_name": "Special Research",
@@ -36,7 +36,7 @@
     "start_time": "8:00",
     "end_time": "22:00",
     "range_text": "Dec 14-?",
-    "description": "Shiny Celebi released <a:celebiS:784196504901517312>\n-Until 21st: Explorer Pikachu + Rocket snapshots\n-Until 25th: Meowth balloons"
+    "description": "Shiny Celebi <a:celebiS:784196504901517312>\n-Until 21st: Explorer Pikachu + Rocket snapshots\n-Until 25th: Meowth balloons"
   },
   {
     "event_name": "Adventure Pikachu Spotlight",
@@ -75,7 +75,7 @@
     "start_time": "8:00",
     "end_time": "22:00",
     "range_text": "Dec 14-17",
-    "description": "Stuff in wild\n-Stuff in raids\n-Shiny Rufflet released <a:ruffletS:784196518596706335><a:braviaryS:784196529690378251>"
+    "description": "Stuff in wild/raids\n-Shiny Rufflet <a:ruffletS:784196518596706335><a:braviaryS:784196529690378251>"
   },
   {
     "event_name": "Community Days",
@@ -88,7 +88,7 @@
     "start_time": "11:00",
     "end_time": "17:00",
     "range_text": "Dec 12th and 13th",
-    "description": "2019: Totodile, Swinub, Treecko, Bagon, Torchic, Slakoth, Mudkip, Ralts, Turtwig, Trapinch, Chimchar\n-2020: Piplup, Rhyhorn, Abra, Seedot, Weedle, Gastly, Magikarp, Porygon, Charmander, Electabuzz, Magmar"
+    "description": "Increased spawns of 2019/2020 CD Pokemon"
   },
   {
     "event_name": "Kanto Tour: $11.99",
