@@ -52,7 +52,7 @@
     "description": "2x catch Candy"
   },
   {
-    "event_name": "Snorunt <a:snoruntS:786349916695429160> Spotlight",
+    "event_name": "Snorunt Spotlight",
     "start_day": "22",
     "start_month": "December",
     "start_year": "2020",
@@ -75,7 +75,7 @@
     "start_time": "8:00",
     "end_time": "22:00",
     "range_text": "Dec 14-17",
-    "description": "Stuff in wild/raids\n-Shiny Rufflet <a:ruffletS:784196518596706335><a:braviaryS:784196529690378251>"
+    "description": "Shiny Rufflet <a:ruffletS:784196518596706335><a:braviaryS:784196529690378251>"
   },
   {
     "event_name": "Community Days",
@@ -130,30 +130,30 @@
     "description": "Dec 19-20: Registeel\n-Dec 26-27: Regice"
   },
   {
-    "event_name": "",
-    "start_day": "",
-    "start_month": "",
-    "start_year": "",
-    "end_day": "",
-    "end_month": "",
-    "end_year": "",
-    "start_time": "",
-    "end_time": "",
-    "range_text": "",
-    "description": ""
+    "event_name": "Cold Weekend",
+    "start_day": "18",
+    "start_month": "December",
+    "start_year": "2020",
+    "end_day": "21",
+    "end_month": "2020",
+    "end_year": "2020",
+    "start_time": "10:00",
+    "end_time": "20:00",
+    "range_text": "Dec 18-21",
+    "description": "Increase in ice spawns\n-Shiny Cubchoo <a:cubchooS:787018895604580363>"
   },
   {
-    "event_name": "",
-    "start_day": "",
-    "start_month": "",
-    "start_year": "",
-    "end_day": "",
-    "end_month": "",
-    "end_year": "",
-    "start_time": "",
-    "end_time": "",
-    "range_text": "",
-    "description": ""
+    "event_name": "Special Research: $7.99",
+    "start_day": "19",
+    "start_month": "December",
+    "start_year": "2020",
+    "end_day": "20",
+    "end_month": "2020",
+    "end_year": "December",
+    "start_time": "10:00",
+    "end_time": "20:00",
+    "range_text": "Dec 19-20",
+    "description": "Galarian Mr. Mime\n-Special Pokemon/item rewards"
   },
   {
     "event_name": "",
