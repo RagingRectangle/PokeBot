@@ -104,6 +104,45 @@
     "description": "All Kantos available\n-Shiny Mew Research\n-New Shinies:\n--Spearow <a:spearowS:756314089390735440><a:fearowS:786348505286311957>\n--Paras <a:parasS:786348547737649172><a:parasectS:786348573728964648>\n--Hitmons <a:leeS:786348607908741150><a:chanS:786348591680716881>\n--Ditto <a:dittoS:786348632420384820>\n--Snorlax <a:snorlaxS:786348646081101864>"
   },
   {
+    "event_name": "Game Awards",
+    "start_day": "10",
+    "start_month": "December",
+    "start_year": "2020",
+    "end_day": "11",
+    "end_month": "December",
+    "end_year": "2020",
+    "start_time": "18:00",
+    "end_time": "18:00",
+    "range_text": "Dec 10-11",
+    "description": "Forget Frustration\n-More effective Incense\n-Extra catch Stardust\n-Shiny Wooper <a:wooperS:786779120587505665><a:quagsireshiny:786779138236481566>"
+  },
+  {
+    "event_name": "",
+    "start_day": "",
+    "start_month": "",
+    "start_year": "",
+    "end_day": "",
+    "end_month": "",
+    "end_year": "",
+    "start_time": "",
+    "end_time": "",
+    "range_text": "",
+    "description": ""
+  },
+  {
+    "event_name": "",
+    "start_day": "",
+    "start_month": "",
+    "start_year": "",
+    "end_day": "",
+    "end_month": "",
+    "end_year": "",
+    "start_time": "",
+    "end_time": "",
+    "range_text": "",
+    "description": ""
+  },
+  {
     "event_name": "",
     "start_day": "",
     "start_month": "",
