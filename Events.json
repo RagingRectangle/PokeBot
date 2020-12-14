@@ -130,6 +130,45 @@
     "description": "Galarian Mr. Mime\n-Special Pokemon/item rewards"
   },
   {
+    "event_name": "Holidays 2020",
+    "start_day": "22",
+    "start_month": "December",
+    "start_year": "2020",
+    "end_day": "31",
+    "end_month": "December",
+    "end_year": "2020",
+    "start_time": "8:00",
+    "end_time": "22:00",
+    "range_text": "Dec 22-31",
+    "description": "Increased Ice Pokemon\n-Pikachu/Delibird/Cubchoo costumes\n-Field Research for Vanillite/Cryogonal\n-Open 45/Carry 40 gifts\n-22/23: 2x raid xp\n-24/25: 2x catch Candy\n-26/27: 2x Star Piece duration\n-28/29: 2x Egg duration\n-30/31: 2x catch Stardust"
+  },
+  {
+    "event_name": "",
+    "start_day": "",
+    "start_month": "",
+    "start_year": "",
+    "end_day": "",
+    "end_month": "",
+    "end_year": "",
+    "start_time": "",
+    "end_time": "",
+    "range_text": "",
+    "description": ""
+  },
+  {
+    "event_name": "",
+    "start_day": "",
+    "start_month": "",
+    "start_year": "",
+    "end_day": "",
+    "end_month": "",
+    "end_year": "",
+    "start_time": "",
+    "end_time": "",
+    "range_text": "",
+    "description": ""
+  },
+  {
     "event_name": "",
     "start_day": "",
     "start_month": "",
