@@ -118,7 +118,7 @@
   },
   {
     "event_name": "Special Research: $7.99",
-    "start_day": "19",
+    "start_day": "18",
     "start_month": "December",
     "start_year": "2020",
     "end_day": "20",
@@ -126,7 +126,7 @@
     "end_year": "December",
     "start_time": "10:00",
     "end_time": "20:00",
-    "range_text": "Dec 19-20",
+    "range_text": "Dec 18-20",
     "description": "Galarian Mr. Mime\n-Special Pokemon/item rewards"
   },
   {
