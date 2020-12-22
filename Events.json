@@ -92,7 +92,7 @@
   },
   {
     "event_name": "Regi Weekends",
-    "start_day": "19",
+    "start_day": "26",
     "start_month": "December",
     "start_year": "2020",
     "end_day": "27",
@@ -100,8 +100,8 @@
     "end_year": "2020",
     "start_time": "6:00",
     "end_time": "22:00",
-    "range_text": "Dec 19-20: Registeel",
-    "description": "Dec 26-27: Regice"
+    "range_text": "Dec 26-27",
+    "description": "Regice"
   },
   {
     "event_name": "Cold Weekend",
