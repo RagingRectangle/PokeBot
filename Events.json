@@ -26,19 +26,6 @@
     "description": "Kyurem <a:kyurem:713203354142244884>\n-Mega Abomasnow <a:abomasnow_mega:582455858819104768><a:abomasnowMS:781201595584872528>"
   },
   {
-    "event_name": "Special Research",
-    "start_day": "14",
-    "start_month": "December",
-    "start_year": "2020",
-    "end_day": "31",
-    "end_month": "December",
-    "end_year": "2020",
-    "start_time": "8:00",
-    "end_time": "22:00",
-    "range_text": "Dec 14-?",
-    "description": "Shiny Celebi <a:celebiS:784196504901517312>\n-Until 21st: Explorer Pikachu + Rocket snapshots\n-Until 25th: Meowth balloons"
-  },
-  {
     "event_name": "Snorunt <a:snorunt:789762360088854528><a:snoruntS:786349916695429160> Spotlight",
     "start_day": "22",
     "start_month": "December",
@@ -156,6 +143,32 @@
     "description": "Machop <a:machop:790644021361770526><a:machop_shiny:670509267589136394>\n-Move: Payback\n-3x catch Stardust + 3 hour Incense"
   },
   {
+    "event_name": "New Years 2021",
+    "start_day": "31",
+    "start_month": "December",
+    "start_year": "2020",
+    "end_day": "4",
+    "end_month": "January",
+    "end_year": "2021",
+    "start_time": "22:00",
+    "end_time": "22:00",
+    "range_text": "Dec 31-Jan 4",
+    "description": "2x Hatch Candy, 2x Hatch Stardust, 1/2 eggs\n<https://bit.ly/38tvXdo>"
+  },
+    {
+    "event_name": "Ring in 2021",
+    "start_day": "1",
+    "start_month": "January",
+    "start_year": "2021",
+    "end_day": "1",
+    "end_month": "February",
+    "end_year": "2021",
+    "start_time": "15:00",
+    "end_time": "15:00",
+    "range_text": "Jan 1-Feb 1",
+    "description": "Research Breakthrough: Chansey\n-Different Legendary Raid each week\n-Spotlight Hours: Lillipup, Drifloon, Shroomish, Phanpy\n-<https://bit.ly/3mHvh9h>"
+  },
+    {
     "event_name": "",
     "start_day": "",
     "start_month": "",
