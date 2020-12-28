@@ -52,19 +52,6 @@
     "description": "All Kantos available\n-Shiny Mew Research\n-New Shinies: Spearow, Paras, Hitmons, Snorlax\n-<https://bit.ly/38x6P5p>"
   },
   {
-    "event_name": "Regi Weekends",
-    "start_day": "26",
-    "start_month": "December",
-    "start_year": "2020",
-    "end_day": "27",
-    "end_month": "December",
-    "end_year": "2020",
-    "start_time": "6:00",
-    "end_time": "22:00",
-    "range_text": "Dec 26-27",
-    "description": "Regice"
-  },
-  {
     "event_name": "Holidays 2020",
     "start_day": "22",
     "start_month": "December",
@@ -75,7 +62,7 @@
     "start_time": "8:00",
     "end_time": "22:00",
     "range_text": "Dec 22-31",
-    "description": "Increased Ice Pokemon\n-Pikachu/Delibird/Cubchoo costumes\n-Field Research for Vanillite/Cryogonal\n-Open 45/Carry 40 gifts\n-28/29: 2x Egg duration\n-30/31: 2x catch Stardust"
+    "description": "Increased Ice Pokemon\n-Open 45/Carry 40 gifts\n-28/29: 2x Egg duration\n-30/31: 2x catch Stardust"
   },
   {
     "event_name": "January CD",
