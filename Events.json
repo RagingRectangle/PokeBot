@@ -127,7 +127,46 @@
     "start_time": "10:00",
     "end_time": "20:00",
     "range_text": "Jan 5-10",
-    "description": "Shiny Snivy <a:snivyS:791417776136388648><a:servineS:791417776107159617><a:serperiorS:791417776434708510>\n-Genesect Burn <a:genBurn:791418150679216169>\n-<https://bit.ly/3hhTr9s>"
+    "description": "Shiny Snivy <a:snivyS:791417776136388648><a:servineS:791417776107159617><a:serperiorS:791417776434708510>\n-<https://bit.ly/3hhTr9s>"
+  },
+  {
+    "event_name": "T5 Raids",
+    "start_day": "1",
+    "start_month": "January",
+    "start_year": "2021",
+    "end_day": "2",
+    "end_month": "February",
+    "end_year": "2",
+    "start_time": "15:00",
+    "end_time": "22:00",
+    "range_text": "Jan 1-5: Ho-Oh",
+    "description": "Jan 5-12: Genesect Burn\n-Jan 12-19: Heatran\n-Jan 19-26: Kyogre/Groudon\n-Jan 26-?: 🤷"
+  },
+  {
+    "event_name": "",
+    "start_day": "",
+    "start_month": "",
+    "start_year": "",
+    "end_day": "",
+    "end_month": "",
+    "end_year": "",
+    "start_time": "",
+    "end_time": "",
+    "range_text": "",
+    "description": ""
+  },
+  {
+    "event_name": "",
+    "start_day": "",
+    "start_month": "",
+    "start_year": "",
+    "end_day": "",
+    "end_month": "",
+    "end_year": "",
+    "start_time": "",
+    "end_time": "",
+    "range_text": "",
+    "description": ""
   },
   {
     "event_name": "",
