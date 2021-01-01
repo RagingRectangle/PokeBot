@@ -9,6 +9,7 @@
     "end_year": "2021",
     "start_time": "15:00",
     "end_time": "15:00",
+    "type": "global",
     "range_text": "Dec 1-Jan 1",
     "description": "Lapras <a:lapras:661343933548199976> or Darumaka <a:darumaka:669287582546526208>"
   },
@@ -22,21 +23,9 @@
     "end_year": "2021",
     "start_time": "15:00",
     "end_time": "15:00",
+    "type": "global",
     "range_text": "Dec 1-Jan 1",
     "description": "Kyurem <a:kyurem:713203354142244884>\n-Mega Abomasnow <a:abomasnow_mega:582455858819104768><a:abomasnowMS:781201595584872528>"
-  },
-   {
-    "event_name": "Snover <a:snover:789762360327012352><a:snover_shiny:655153895412203521> Spotlight",
-    "start_day": "29",
-    "start_month": "December",
-    "start_year": "2020",
-    "end_day": "29",
-    "end_month": "December",
-    "end_year": "2020",
-    "start_time": "18:00",
-    "end_time": "19:00",
-    "range_text": "Dec 29th 6-7pm",
-    "description": "2x evolve xp"
   },
   {
     "event_name": "Kanto Tour: $11.99",
@@ -48,21 +37,9 @@
     "end_year": "2021",
     "start_time": "9:00",
     "end_time": "21:00",
+    "type": "local",
     "range_text": "Feb 20th 9am-9pm",
     "description": "All Kantos available\n-Shiny Mew Research\n-New Shinies: Spearow, Paras, Hitmons, Snorlax\n-<https://bit.ly/38x6P5p>"
-  },
-  {
-    "event_name": "Holidays 2020",
-    "start_day": "22",
-    "start_month": "December",
-    "start_year": "2020",
-    "end_day": "31",
-    "end_month": "December",
-    "end_year": "2020",
-    "start_time": "8:00",
-    "end_time": "22:00",
-    "range_text": "Dec 22-31",
-    "description": "Increased Ice Pokemon\n-Open 45/Carry 40 gifts\n-28/29: 2x Egg duration\n-30/31: 2x catch Stardust"
   },
   {
     "event_name": "January CD",
@@ -74,6 +51,7 @@
     "end_year": "2021",
     "start_time": "11:00",
     "end_time": "17:00",
+    "type": "local",
     "range_text": "Jan 16th 11-5pm",
     "description": "Machop <a:machop:790644021361770526><a:machop_shiny:670509267589136394>\n-Move: Payback\n-3x catch Stardust + 3 hour Incense"
   },
@@ -87,6 +65,7 @@
     "end_year": "2021",
     "start_time": "22:00",
     "end_time": "22:00",
+    "type": "local",
     "range_text": "Dec 31-Jan 4",
     "description": "2x Hatch Candy, 2x Hatch Stardust, 1/2 eggs\n-<https://bit.ly/38tvXdo>"
   },
@@ -100,6 +79,7 @@
     "end_year": "2021",
     "start_time": "15:00",
     "end_time": "15:00",
+    "type": "global",
     "range_text": "Jan 1-Feb 1",
     "description": "Research Breakthrough: Chansey\n-Different Legendary Raid each week\n-Spotlight Hours: Lillipup, Drifloon, Shroomish, Phanpy\n-<https://bit.ly/3mHvh9h>"
   },
@@ -113,6 +93,7 @@
     "end_year": "2021",
     "start_time": "10:00",
     "end_time": "20:00",
+    "type": "local",
     "range_text": "Jan 5-10",
     "description": "Shiny Snivy <a:snivyS:791417776136388648><a:servineS:791417776107159617><a:serperiorS:791417776434708510>\n-<https://bit.ly/3hhTr9s>"
   },
@@ -126,6 +107,7 @@
     "end_year": "2021",
     "start_time": "15:00",
     "end_time": "22:00",
+    "type": "global",
     "range_text": "Jan 1-5: Ho-Oh",
     "description": "Jan 5-12: Genesect Burn\n-Jan 12-19: Heatran\n-Jan 19-26: Kyogre/Groudon + new Mega🤷\n-Jan 26-?: 🤷"
   },
@@ -139,6 +121,7 @@
     "end_year": "",
     "start_time": "",
     "end_time": "",
+    "type": "",
     "range_text": "",
     "description": ""
   },
@@ -152,6 +135,7 @@
     "end_year": "",
     "start_time": "",
     "end_time": "",
+    "type": "",
     "range_text": "",
     "description": ""
   },
@@ -165,6 +149,7 @@
     "end_year": "",
     "start_time": "",
     "end_time": "",
+    "type": "",
     "range_text": "",
     "description": ""
   }
