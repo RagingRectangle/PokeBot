@@ -1,33 +1,5 @@
 [
   {
-    "event_name": "Research Breakthrough",
-    "start_day": "1",
-    "start_month": "December",
-    "start_year": "2020",
-    "end_day": "1",
-    "end_month": "January",
-    "end_year": "2021",
-    "start_time": "15:00",
-    "end_time": "15:00",
-    "type": "global",
-    "range_text": "Dec 1-Jan 1",
-    "description": "Lapras <a:lapras:661343933548199976> or Darumaka <a:darumaka:669287582546526208>"
-  },
-  {
-    "event_name": "December Raids",
-    "start_day": "1",
-    "start_month": "December",
-    "start_year": "2020",
-    "end_day": "1",
-    "end_month": "January",
-    "end_year": "2021",
-    "start_time": "15:00",
-    "end_time": "15:00",
-    "type": "global",
-    "range_text": "Dec 1-Jan 1",
-    "description": "Kyurem <a:kyurem:713203354142244884>\n-Mega Abomasnow <a:abomasnow_mega:582455858819104768><a:abomasnowMS:781201595584872528>"
-  },
-  {
     "event_name": "Kanto Tour: $11.99",
     "start_day": "20",
     "start_month": "February",
