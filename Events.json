@@ -42,7 +42,7 @@
     "description": "2x Hatch Candy, 2x Hatch Stardust, 1/2 eggs\n-<https://bit.ly/38tvXdo>"
   },
     {
-    "event_name": "Ring in 2021",
+    "event_name": "Research Breakthrough",
     "start_day": "1",
     "start_month": "January",
     "start_year": "2021",
@@ -53,7 +53,7 @@
     "end_time": "15:00",
     "type": "global",
     "range_text": "Jan 1-Feb 1",
-    "description": "Research Breakthrough: Chansey\n-Different Legendary Raid each week\n-Spotlight Hours: Lillipup, Drifloon, Shroomish, Phanpy\n-<https://bit.ly/3mHvh9h>"
+    "description": "Chansey <a:chansey:673078287534260227><a:chansey_shiny:673078444384321538>\n-<https://bit.ly/3mHvh9h>"
   },
     {
     "event_name": "Unova Event",
@@ -69,6 +69,62 @@
     "range_text": "Jan 5-10",
     "description": "Shiny Snivy <a:snivyS:791417776136388648><a:servineS:791417776107159617><a:serperiorS:791417776434708510>\n-<https://bit.ly/3hhTr9s>"
   },
+    {
+    "event_name": "Lillipup Spotlight <a:lillipup:795100378084802560><a:lillipup_shiny:613597042819727371>",
+    "start_day": "5",
+    "start_month": "January",
+    "start_year": "2021",
+    "end_day": "5",
+    "end_month": "January",
+    "end_year": "2021",
+    "start_time": "18:00",
+    "end_time": "19:00",
+    "type": "local",
+    "range_text": "Jan 5th 6-7pm",
+    "description": "2x catch Stardust"
+  },
+    {
+    "event_name": "Drifloon Spotlight <a:drifloon:766397496695455755><a:drifloonS:766397541154947083>",
+    "start_day": "12",
+    "start_month": "January",
+    "start_year": "2021",
+    "end_day": "12",
+    "end_month": "January",
+    "end_year": "2021",
+    "start_time": "18:00",
+    "end_time": "19:00",
+    "type": "local",
+    "range_text": "Jan 12th 6-7pm",
+    "description": "2x catch XP"
+  },
+    {
+    "event_name": "Shroomish Spotlight <a:shroomish:795101282314354710>",
+    "start_day": "19",
+    "start_month": "January",
+    "start_year": "2021",
+    "end_day": "19",
+    "end_month": "January",
+    "end_year": "2021",
+    "start_time": "18:00",
+    "end_time": "19:00",
+    "type": "local",
+    "range_text": "Jan 19th 6-7pm",
+    "description": "2x catch Candy"
+  },
+    {
+    "event_name": "Phanpy Spotlight <a:phanpy:795101497553321996>",
+    "start_day": "26",
+    "start_month": "January",
+    "start_year": "2021",
+    "end_day": "26",
+    "end_month": "January",
+    "end_year": "2021",
+    "start_time": "18:00",
+    "end_time": "19:00",
+    "type": "local",
+    "range_text": "Jan 26th 6-7pm",
+    "description": "2x transfer Candy"
+  },
   {
     "event_name": "T5 Raids",
     "start_day": "1",
@@ -80,8 +136,8 @@
     "start_time": "15:00",
     "end_time": "22:00",
     "type": "global",
-    "range_text": "Jan 1-5: Ho-Oh",
-    "description": "Jan 5-12: Genesect Burn\n-Jan 12-19: Heatran\n-Jan 19-26: Kyogre/Groudon + new Mega🤷\n-Jan 26-?: 🤷"
+    "range_text": "Jan 1-5: Ho-Oh <a:hooh:584216760933285889><a:hooh_shiny:584217215872794634>",
+    "description": "Jan 5-12: Genesect Burn <a:gen_burn:795101953230503966>\n-Jan 12-19: Heatran <a:heatran:661343046461423617><a:heatran_shiny:661343073183334438>\n-Jan 19-26: Kyogre <a:kyogre:591758895199027200><a:kyogre_shiny:584611649751744522>/Groudon <a:groudon:584612127940149249><a:groudon_shiny:584611742345199616> + new Mega🤷\n-Jan 26-?: 🤷"
   },
   {
     "event_name": "",
