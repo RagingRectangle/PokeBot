@@ -27,20 +27,6 @@
     "range_text": "Jan 16th 11-5pm",
     "description": "Machop <a:machop:790644021361770526><a:machop_shiny:670509267589136394>\n-Move: Payback\n-3x catch Stardust + 3 hour Incense"
   },
-  {
-    "event_name": "New Years 2021",
-    "start_day": "31",
-    "start_month": "December",
-    "start_year": "2020",
-    "end_day": "4",
-    "end_month": "January",
-    "end_year": "2021",
-    "start_time": "22:00",
-    "end_time": "22:00",
-    "type": "local",
-    "range_text": "Dec 31-Jan 4",
-    "description": "2x Hatch Candy, 2x Hatch Stardust, 1/2 eggs\n-<https://bit.ly/38tvXdo>"
-  },
     {
     "event_name": "Research Breakthrough",
     "start_day": "1",
@@ -68,20 +54,6 @@
     "type": "local",
     "range_text": "Jan 5-10",
     "description": "Shiny Snivy <a:snivyS:791417776136388648><a:servineS:791417776107159617><a:serperiorS:791417776434708510>\n-<https://bit.ly/3hhTr9s>"
-  },
-    {
-    "event_name": "Lillipup <a:lillipup:795100378084802560><a:lillipup_shiny:613597042819727371> Spotlight",
-    "start_day": "5",
-    "start_month": "January",
-    "start_year": "2021",
-    "end_day": "5",
-    "end_month": "January",
-    "end_year": "2021",
-    "start_time": "18:00",
-    "end_time": "19:00",
-    "type": "local",
-    "range_text": "Jan 5th 6-7pm",
-    "description": "2x catch Stardust"
   },
     {
     "event_name": "Drifloon <a:drifloon:766397496695455755><a:drifloonS:766397541154947083> Spotlight",
