@@ -140,6 +140,34 @@
     "description": "🤷"
   },
   {
+    "event_name": "February CD",
+    "start_day": "7",
+    "start_month": "February",
+    "start_year": "2021",
+    "end_day": "7",
+    "end_month": "February",
+    "end_year": "2021",
+    "start_time": "11:00",
+    "end_time": "17:00",
+    "type": "local",
+    "range_text": "Feb 7th 11-5pm",
+    "description": "Roselia <a:roseliaS:798982250829578251><a:roseradeS:798982251009409055>\n-Fast move: Bullet Seed\n-Charge move: Weather Ball\n-Timed Research for Sinnoh Stones\n-1/4 hatch distance + 3h Incense"
+  },
+  {
+    "event_name": "",
+    "start_day": "",
+    "start_month": "",
+    "start_year": "",
+    "end_day": "",
+    "end_month": "",
+    "end_year": "",
+    "start_time": "",
+    "end_time": "",
+    "type": "",
+    "range_text": "",
+    "description": ""
+  },
+  {
     "event_name": "",
     "start_day": "",
     "start_month": "",
