@@ -28,20 +28,6 @@
     "description": "Chansey <a:chansey:673078287534260227><a:chansey_shiny:673078444384321538>\n-<https://bit.ly/3mHvh9h>"
   },
     {
-    "event_name": "Drifloon <a:drifloon:766397496695455755><a:drifloonS:766397541154947083> Spotlight",
-    "start_day": "12",
-    "start_month": "January",
-    "start_year": "2021",
-    "end_day": "12",
-    "end_month": "January",
-    "end_year": "2021",
-    "start_time": "18:00",
-    "end_time": "19:00",
-    "type": "local",
-    "range_text": "Jan 12th 6-7pm",
-    "description": "2x catch XP"
-  },
-    {
     "event_name": "Shroomish <a:shroomish:795101282314354710> Spotlight",
     "start_day": "19",
     "start_month": "January",
@@ -81,7 +67,7 @@
     "end_time": "22:00",
     "type": "global",
     "range_text": "Jan 12-19: Heatran <a:heatran:661343046461423617><a:heatran_shiny:661343073183334438>",
-    "description": "Jan 19-26: Kyogre <a:kyogre:591758895199027200><a:kyogre_shiny:584611649751744522>/Groudon <a:groudon:584612127940149249><a:groudon_shiny:584611742345199616> + new Mega🤷\n-Jan 26-?: 🤷"
+    "description": "Jan 19-26: Kyogre <a:kyogre:591758895199027200><a:kyogre_shiny:584611649751744522>/Groudon <a:groudon:584612127940149249><a:groudon_shiny:584611742345199616> + Ampharos Mega <a:ampharos_mega:582455857145446411><a:amp_mega_s:800890314670735403>\n-Jan 26-?: 🤷"
   },
   {
     "event_name": "Sinnoh Event",
