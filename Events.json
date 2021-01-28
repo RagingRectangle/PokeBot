@@ -24,7 +24,7 @@
     "start_time": "15:00",
     "end_time": "15:00",
     "type": "global",
-    "range_text": "Jan 1-Feb 1: Chansey <a:chansey:673078287534260227><a:chansey_shiny:673078444384321538>",
+    "range_text": "Jan 1-Feb 1: Chansey",
     "description": "Feb 1-Mar 1: Snorlax <a:snorlax:804164810635870238>"
   },
   {
@@ -124,20 +124,6 @@
     "type": "local",
     "range_text": "Feb 2: Ekans",
     "description": "Feb 9: Miltank\n-Feb 16: Luvdisc\n-Feb 23: Pikachu"
-  },
-  {
-    "event_name": "",
-    "start_day": "",
-    "start_month": "",
-    "start_year": "",
-    "end_day": "",
-    "end_month": "",
-    "end_year": "",
-    "start_time": "",
-    "end_time": "",
-    "type": "",
-    "range_text": "",
-    "description": ""
   },
   {
     "event_name": "",
