@@ -126,6 +126,48 @@
     "description": "Feb 9: Miltank\n-Feb 16: Luvdisc\n-Feb 23: Pikachu"
   },
   {
+    "event_name": "Lunar New Year",
+    "start_day": "9",
+    "start_month": "February",
+    "start_year": "2021",
+    "end_day": "14",
+    "end_month": "February",
+    "end_year": "2021",
+    "start_time": "15:00",
+    "end_time": "15:00",
+    "type": "global",
+    "range_text": "Feb 9-14",
+    "description": "Red Pokemon + new Mega Raid"
+  },
+  {
+    "event_name": "V-Day Event",
+    "start_day": "14",
+    "start_month": "February",
+    "start_year": "2021",
+    "end_day": "18",
+    "end_month": "February",
+    "end_year": "2021",
+    "start_time": "13:00",
+    "end_time": "20:00",
+    "type": "local",
+    "range_text": "Feb 14-18",
+    "description": "TBA"
+  },
+  {
+    "event_name": "",
+    "start_day": "",
+    "start_month": "",
+    "start_year": "",
+    "end_day": "",
+    "end_month": "",
+    "end_year": "",
+    "start_time": "",
+    "end_time": "",
+    "type": "",
+    "range_text": "",
+    "description": ""
+  },
+  {
     "event_name": "",
     "start_day": "",
     "start_month": "",
