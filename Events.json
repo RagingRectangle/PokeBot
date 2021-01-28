@@ -25,7 +25,7 @@
     "end_time": "15:00",
     "type": "global",
     "range_text": "Jan 1-Feb 1: Chansey <a:chansey:673078287534260227><a:chansey_shiny:673078444384321538>",
-    "description": "Feb 1-Mar 1: Snorlax"
+    "description": "Feb 1-Mar 1: Snorlax <a:snorlax:804164810635870238>"
   },
   {
     "event_name": "T5 Raids",
@@ -39,7 +39,7 @@
     "end_time": "22:00",
     "type": "global",
     "range_text": "Jan 26-31: Entei <a:entei:801279108830855248><a:entei_shiny:597635697712824320>",
-    "description": "Jan 31-Feb 4: Raikou <a:raikou:801279738961330176><a:raikou_shiny:590314527573147683>\n-Feb 4-9: Suicune <a:suicune:801279884647071806><a:suicune_shiny:609802756005298179>"
+    "description": "Jan 31-Feb 4: Raikou <a:raikou:801279738961330176><a:raikou_shiny:590314527573147683>\n-Feb 4-9: Suicune <a:suicune:801279884647071806><a:suicune_shiny:609802756005298179>\n-Feb 9-20: Latias <a:latias:584216820412579871><a:latias_shiny:584217263247196180> + Latios <a:latios:584216794030407690><a:latios_shiny:584217240975704069>\n-Feb 20-Mar 1: Articuno, Zapdos, Moltres, and Mewtwo"
   },
   {
     "event_name": "February CD",
@@ -112,18 +112,18 @@
     "description": "New Grunt teams\n-Increased balloons + 1/2 Egg distance\n-<https://bit.ly/2YldsTH>"
   },
     {
-    "event_name": "",
-    "start_day": "",
-    "start_month": "",
-    "start_year": "",
-    "end_day": "",
-    "end_month": "",
-    "end_year": "",
-    "start_time": "",
-    "end_time": "",
-    "type": "",
-    "range_text": "",
-    "description": ""
+    "event_name": "Spotlight Hours",
+    "start_day": "2",
+    "start_month": "February",
+    "start_year": "2021",
+    "end_day": "23",
+    "end_month": "February",
+    "end_year": "2021",
+    "start_time": "18:00",
+    "end_time": "19:00",
+    "type": "local",
+    "range_text": "Feb 2: Ekans",
+    "description": "Feb 9: Miltank\n-Feb 16: Luvdisc\n-Feb 23: Pikachu"
   },
   {
     "event_name": "",
