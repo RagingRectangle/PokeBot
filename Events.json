@@ -53,7 +53,7 @@
     "end_time": "17:00",
     "type": "local",
     "range_text": "Feb 7th 11-5pm",
-    "description": "Roselia <a:roseliaS:798982250829578251><a:roseradeS:798982251009409055>\n-Fast move: Bullet Seed\n-Charge move: Weather Ball\n-Timed Research for Sinnoh Stones\n-1/4 hatch distance + 3h Incense"
+    "description": "Roselia <a:roseliaS:798982250829578251><a:roseradeS:798982251009409055>\n-Fast : Bullet Seed\n-Charge: Weather Ball"
   },
     {
     "event_name": "Johto Event",
@@ -81,7 +81,7 @@
     "end_time": "22:00",
     "type": "local",
     "range_text": "Jan 30th 8am-10pm",
-    "description": "They went with Sneasel <a:sneasel:803405683944194058><a:sneaselS:803405719386193930> for some reason"
+    "description": "They went with Sneasel 🤷"
   },
     {
     "event_name": "Timed Research",
@@ -95,7 +95,7 @@
     "end_time": "20:00",
     "type": "local",
     "range_text": "Jan 26-Feb 7",
-    "description": "Team Rocket themed research\n-Reward: Ho-Oh w/ Earthquake <a:hooh:584216760933285889><a:hooh_shiny:584217215872794634>"
+    "description": "Team Rocket research\n-Ho-Oh w/ Earthquake <a:hooh:584216760933285889><a:hooh_shiny:584217215872794634>"
   },
   {
     "event_name": "Rocket Celebration",
@@ -109,7 +109,7 @@
     "end_time": "20:00",
     "type": "local",
     "range_text": "Feb 2-7",
-    "description": "New Grunt teams\n-Increased balloons + 1/2 Egg distance\n-<https://bit.ly/2YldsTH>"
+    "description": "New Grunt teams\n-Increased balloons + 1/2 Eggs\n-<https://bit.ly/2YldsTH>"
   },
     {
     "event_name": "Spotlight Hours",
