@@ -16,7 +16,7 @@
     {
     "event_name": "Research Breakthrough",
     "start_day": "1",
-    "start_month": "January",
+    "start_month": "February",
     "start_year": "2021",
     "end_day": "1",
     "end_month": "March",
@@ -24,8 +24,8 @@
     "start_time": "15:00",
     "end_time": "15:00",
     "type": "global",
-    "range_text": "Jan 1-Feb 1: Chansey",
-    "description": "Feb 1-Mar 1: Snorlax <a:snorlax:804164810635870238>"
+    "range_text": "Snorlax <a:snorlax:804164810635870238>",
+    "description": ""
   },
   {
     "event_name": "T5 Raids",
