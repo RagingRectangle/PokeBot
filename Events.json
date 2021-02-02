@@ -32,8 +32,8 @@
     "start_day": "1",
     "start_month": "January",
     "start_year": "2021",
-    "end_day": "2",
-    "end_month": "February",
+    "end_day": "1",
+    "end_month": "March",
     "end_year": "2021",
     "start_time": "15:00",
     "end_time": "22:00",
@@ -109,7 +109,7 @@
     "end_time": "15:00",
     "type": "global",
     "range_text": "Feb 9-14",
-    "description": "Red Pokemon + new Mega Raid"
+    "description": "Red Pokemon + Mega Gyarados"
   },
   {
     "event_name": "V-Day Event",
