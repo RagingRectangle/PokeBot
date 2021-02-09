@@ -105,9 +105,9 @@
     "end_day": "14",
     "end_month": "February",
     "end_year": "2021",
-    "start_time": "15:00",
-    "end_time": "15:00",
-    "type": "global",
+    "start_time": "10:00",
+    "end_time": "13:00",
+    "type": "local",
     "range_text": "Feb 9-14",
     "description": "Red Pokemon + Mega Gyarados"
   },
