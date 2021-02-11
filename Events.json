@@ -42,48 +42,6 @@
     "description": "Feb 4-9: Suicune <a:suicune:801279884647071806><a:suicune_shiny:609802756005298179>\n-Feb 9-20: Latias <a:latias:584216820412579871><a:latias_shiny:584217263247196180> + Latios <a:latios:584216794030407690><a:latios_shiny:584217240975704069>\n-Feb 20-Mar 1: Articuno, Zapdos, Moltres, and Mewtwo"
   },
   {
-    "event_name": "February CD",
-    "start_day": "7",
-    "start_month": "February",
-    "start_year": "2021",
-    "end_day": "7",
-    "end_month": "February",
-    "end_year": "2021",
-    "start_time": "11:00",
-    "end_time": "17:00",
-    "type": "local",
-    "range_text": "Feb 7th 11-5pm",
-    "description": "Roselia <a:roseliaS:798982250829578251><a:roseradeS:798982251009409055>\n-Fast : Bullet Seed\n-Charge: Weather Ball"
-  },
-    {
-    "event_name": "Timed Research",
-    "start_day": "26",
-    "start_month": "January",
-    "start_year": "2021",
-    "end_day": "7",
-    "end_month": "February",
-    "end_year": "2021",
-    "start_time": "10:00",
-    "end_time": "20:00",
-    "type": "local",
-    "range_text": "Jan 26-Feb 7",
-    "description": "Team Rocket research\n-Ho-Oh w/ Earthquake <a:hooh:584216760933285889><a:hooh_shiny:584217215872794634>"
-  },
-  {
-    "event_name": "Rocket Celebration",
-    "start_day": "2",
-    "start_month": "February",
-    "start_year": "2021",
-    "end_day": "7",
-    "end_month": "February",
-    "end_year": "2021",
-    "start_time": "10:00",
-    "end_time": "20:00",
-    "type": "local",
-    "range_text": "Feb 2-7",
-    "description": "New Grunt teams\n-Increased balloons + 1/2 Eggs\n-<https://bit.ly/2YldsTH>"
-  },
-    {
     "event_name": "Spotlight Hours",
     "start_day": "2",
     "start_month": "February",
