@@ -126,6 +126,34 @@
     "description": "Munna released <a:munna:808463883869224961><a:musharna:808463883906973767>\n-Other stuff\n-<https://bit.ly/3aJG4ff>"
   },
   {
+    "event_name": "Kanto Event 🥱",
+    "start_day": "21",
+    "start_month": "February",
+    "start_year": "2021",
+    "end_day": "27",
+    "end_month": "February",
+    "end_year": "2021",
+    "start_time": "10:00",
+    "end_time": "20:00",
+    "type": "local",
+    "range_text": "Feb 21-27",
+    "description": "<https://bit.ly/3a9QDsM>"
+  },
+  {
+    "event_name": "",
+    "start_day": "",
+    "start_month": "",
+    "start_year": "",
+    "end_day": "",
+    "end_month": "",
+    "end_year": "",
+    "start_time": "",
+    "end_time": "",
+    "type": "",
+    "range_text": "",
+    "description": ""
+  },
+  {
     "event_name": "",
     "start_day": "",
     "start_month": "",
