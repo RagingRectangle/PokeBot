@@ -38,8 +38,8 @@
     "start_time": "15:00",
     "end_time": "22:00",
     "type": "global",
-    "range_text": "Jan 31-Feb 4: Raikou <a:raikou:801279738961330176><a:raikou_shiny:590314527573147683>",
-    "description": "Feb 4-9: Suicune <a:suicune:801279884647071806><a:suicune_shiny:609802756005298179>\n-Feb 9-20: Latias <a:latias:584216820412579871><a:latias_shiny:584217263247196180> + Latios <a:latios:584216794030407690><a:latios_shiny:584217240975704069>\n-Feb 20-Mar 1: Articuno, Zapdos, Moltres, and Mewtwo"
+    "range_text": "Feb 9-20: Latias <a:latias:584216820412579871><a:latias_shiny:584217263247196180> + Latios <a:latios:584216794030407690><a:latios_shiny:584217240975704069>",
+    "description": "Feb 20-Mar 1: Articuno, Zapdos, Moltres, and Mewtwo"
   },
   {
     "event_name": "Spotlight Hours",
@@ -52,8 +52,8 @@
     "start_time": "18:00",
     "end_time": "19:00",
     "type": "local",
-    "range_text": "Feb 2: Ekans + 2x evolve XP",
-    "description": "Feb 9: Miltank + 2x catch Stardust\n-Feb 16: Luvdisc + 2x catch XP\n-Feb 23: Pikachu + 2x catch Candy"
+    "range_text": "Feb 16: Luvdisc <a:luvdisc:809820158049910784><a:luvdiscS:809820255009636362> + 2x catch XP",
+    "description": "Feb 23: Pikachu <a:pikachu:809820137594814545><a:pikachuS:809820232821768203> + 2x catch Candy"
   },
   {
     "event_name": "Lunar New Year",
