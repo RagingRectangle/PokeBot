@@ -98,18 +98,18 @@
     "description": "<https://bit.ly/3a9QDsM>"
   },
   {
-    "event_name": "",
-    "start_day": "",
-    "start_month": "",
-    "start_year": "",
-    "end_day": "",
-    "end_month": "",
-    "end_year": "",
-    "start_time": "",
-    "end_time": "",
-    "type": "",
-    "range_text": "",
-    "description": ""
+    "event_name": "March CD",
+    "start_day": "6",
+    "start_month": "March",
+    "start_year": "2021",
+    "end_day": "6",
+    "end_month": "March",
+    "end_year": "2021",
+    "start_time": "11:00",
+    "end_time": "17:00",
+    "type": "local",
+    "range_text": "March 6th 11am-6pm",
+    "description": "Shiny Fletchling <a:fletchlingS:811302260289437697><a:fletchinderS:811302260612661278><a:talonflameS:811302277717426177>\n-Move: Incinerate\n-3x Catch xp + 3 hour Lures"
   },
   {
     "event_name": "",
