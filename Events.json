@@ -1,18 +1,4 @@
 [
-  {
-    "event_name": "Kanto Tour: $11.99",
-    "start_day": "20",
-    "start_month": "February",
-    "start_year": "2021",
-    "end_day": "20",
-    "end_month": "February",
-    "end_year": "2021",
-    "start_time": "9:00",
-    "end_time": "21:00",
-    "type": "local",
-    "range_text": "Feb 20th 9am-9pm",
-    "description": "All Kantos available\n-Shiny Mew Research <a:mew_shiny:694952056963989564>\n-New Shinies: Spearow, Paras, Hitmons, Snorlax\n-<https://bit.ly/38x6P5p>"
-  },
     {
     "event_name": "Research Breakthrough",
     "start_day": "1",
@@ -38,8 +24,8 @@
     "start_time": "15:00",
     "end_time": "22:00",
     "type": "global",
-    "range_text": "Feb 9-20: Latias <a:latias:584216820412579871><a:latias_shiny:584217263247196180> + Latios <a:latios:584216794030407690><a:latios_shiny:584217240975704069>",
-    "description": "Feb 20-Mar 1: Articuno, Zapdos, Moltres, and Mewtwo"
+    "range_text": "Feb 20-Mar 1",
+    "description": "Articuno<a:articuno:639602389200011272><a:articuno_shiny:639602291015417899>, Zapdos<a:zapdos:639602404727193611><a:zapdos_shiny:639602308505665576>, and Moltres<a:moltres:639602421596946432><a:moltres_shiny:639602325669019699>"
   },
   {
     "event_name": "Spotlight Hours",
@@ -52,39 +38,11 @@
     "start_time": "18:00",
     "end_time": "19:00",
     "type": "local",
-    "range_text": "Feb 16: Luvdisc <a:luvdisc:809820158049910784><a:luvdiscS:809820255009636362> + 2x catch XP",
-    "description": "Feb 23: Pikachu <a:pikachu:809820137594814545><a:pikachuS:809820232821768203> + 2x catch Candy"
+    "range_text": "Feb 23: Pikachu <a:pikachu:809820137594814545><a:pikachuS:809820232821768203>",
+    "description": "2x catch Candy"
   },
   {
-    "event_name": "Lunar New Year",
-    "start_day": "9",
-    "start_month": "February",
-    "start_year": "2021",
-    "end_day": "14",
-    "end_month": "February",
-    "end_year": "2021",
-    "start_time": "10:00",
-    "end_time": "13:00",
-    "type": "local",
-    "range_text": "Feb 9-14",
-    "description": "Red Pokemon + Mega Gyarados <a:gyarados_mega:582456151082532887><a:gyaradosmegaS:737857327641788497>"
-  },
-  {
-    "event_name": "V-Day Event",
-    "start_day": "14",
-    "start_month": "February",
-    "start_year": "2021",
-    "end_day": "18",
-    "end_month": "February",
-    "end_year": "2021",
-    "start_time": "13:00",
-    "end_time": "20:00",
-    "type": "local",
-    "range_text": "Feb 14-18",
-    "description": "Munna released <a:munna:808463883869224961><a:musharna:808463883906973767>\n-Other stuff\n-<https://bit.ly/3aJG4ff>"
-  },
-  {
-    "event_name": "Kanto Event 🥱",
+    "event_name": "Kanto Event",
     "start_day": "21",
     "start_month": "February",
     "start_year": "2021",
