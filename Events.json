@@ -84,6 +84,48 @@
     "description": "Articuno<a:articuno:639602389200011272><a:articuno_shiny:639602291015417899>, Zapdos<a:zapdos:639602404727193611><a:zapdos_shiny:639602308505665576>, and Moltres<a:moltres:639602421596946432><a:moltres_shiny:639602325669019699>\n-Giovanni w/ new Shadow Legendary\n-<https://bit.ly/3dr9ZM0>"
   },
   {
+    "event_name": "Season of Legends",
+    "start_day": "1",
+    "start_month": "March",
+    "start_year": "2021",
+    "end_day": "1",
+    "end_month": "June",
+    "end_year": "2021",
+    "start_time": "8:00",
+    "end_time": "10:00",
+    "type": "local",
+    "range_text": "Mar 1-June 1",
+    "description": "<https://bit.ly/3bz0V5c>"
+  },
+  {
+    "event_name": "",
+    "start_day": "",
+    "start_month": "",
+    "start_year": "",
+    "end_day": "",
+    "end_month": "",
+    "end_year": "",
+    "start_time": "",
+    "end_time": "",
+    "type": "",
+    "range_text": "",
+    "description": ""
+  },
+  {
+    "event_name": "",
+    "start_day": "",
+    "start_month": "",
+    "start_year": "",
+    "end_day": "",
+    "end_month": "",
+    "end_year": "",
+    "start_time": "",
+    "end_time": "",
+    "type": "",
+    "range_text": "",
+    "description": ""
+  },
+  {
     "event_name": "",
     "start_day": "",
     "start_month": "",
