@@ -42,6 +42,20 @@
     "description": "3/9: Drowzee + 2x evolve XP\n-3/16: Voltorb + 2x catch Stardust\n-3/23: Surskit + 2x catch XP\n-3/30: Slugma + 2x catch Candy"
   },
   {
+    "event_name": "Bonus Hours 6-7pm",
+    "start_day": "4",
+    "start_month": "March",
+    "start_year": "2021",
+    "end_day": "18",
+    "end_month": "March",
+    "end_year": "2021",
+    "start_time": "18:00",
+    "end_time": "19:00",
+    "type": "local",
+    "range_text": "3/4: Go Rocket Hour",
+    "description": "3/11: Mega Bonus Hour\n-3/18: Mega Raid Hour"
+  },
+  {
     "event_name": "Kanto Event",
     "start_day": "21",
     "start_month": "February",
@@ -98,18 +112,18 @@
     "description": "<https://bit.ly/3bz0V5c>"
   },
   {
-    "event_name": "",
-    "start_day": "",
-    "start_month": "",
-    "start_year": "",
-    "end_day": "",
-    "end_month": "",
-    "end_year": "",
-    "start_time": "",
-    "end_time": "",
-    "type": "",
-    "range_text": "",
-    "description": ""
+    "event_name": "Other Events",
+    "start_day": "9",
+    "start_month": "March",
+    "start_year": "2021",
+    "end_day": "29",
+    "end_month": "March",
+    "end_year": "2021",
+    "start_time": "15:00",
+    "end_time": "15:00",
+    "type": "local",
+    "range_text": "3/9-3-14: Searching for Legends (Shiny Nosepass released)",
+    "description": "3/14: Psychic/Steel Incense Day\n-3/16-3/22: Charge Up (New Electric mons)\n-3/24-3/29: Weather Week\n-3/27-3/28: Raid weekend"
   },
   {
     "event_name": "",
