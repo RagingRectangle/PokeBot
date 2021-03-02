@@ -2,7 +2,7 @@
     {
     "event_name": "Research Breakthrough",
     "start_day": "1",
-    "start_month": "February",
+    "start_month": "March",
     "start_year": "2021",
     "end_day": "1",
     "end_month": "April",
@@ -10,8 +10,8 @@
     "start_time": "15:00",
     "end_time": "15:00",
     "type": "global",
-    "range_text": "Feb 1-Mar 1: Snorlax <a:snorlax:804164810635870238>",
-    "description": "Mar 1-Apr 1: Gible <a:gible:814278723427631153>"
+    "range_text": "Mar 1-Apr 1",
+    "description": "Gible <a:gible:814278723427631153>"
   },
   {
     "event_name": "T5 Raids",
@@ -24,8 +24,8 @@
     "start_time": "15:00",
     "end_time": "22:00",
     "type": "global",
-    "range_text": "2/20-3/1: Articuno, Zapdos, Moltres and Mewtwo",
-    "description": "3/1-3/6: Incarnate Landorus✨\n-3/6-3/11: Incarnate Tornadus✨\n-3/11-3/16: Incarnate Thundurus✨\n-3/16-3/30: Therian Thundurus\n-3/30-?: Therian Tornadus"
+    "range_text": "3/1-3/6: Incarnate Landorus✨",
+    "description": "3/6-3/11: Incarnate Tornadus✨\n-3/11-3/16: Incarnate Thundurus✨\n-3/16-3/30: Therian Thundurus\n-3/30-?: Therian Tornadus"
   },
   {
     "event_name": "Spotlight Hours 6-7pm",
@@ -56,20 +56,6 @@
     "description": "3/11: Mega Bonus Hour\n-3/18: Mega Raid Hour"
   },
   {
-    "event_name": "Kanto Event",
-    "start_day": "21",
-    "start_month": "February",
-    "start_year": "2021",
-    "end_day": "27",
-    "end_month": "February",
-    "end_year": "2021",
-    "start_time": "10:00",
-    "end_time": "20:00",
-    "type": "local",
-    "range_text": "Feb 21-27",
-    "description": "<https://bit.ly/3a9QDsM>"
-  },
-  {
     "event_name": "March CD",
     "start_day": "6",
     "start_month": "March",
@@ -82,20 +68,6 @@
     "type": "local",
     "range_text": "March 6th 11am-6pm",
     "description": "Shiny Fletchling <a:fletchlingS:811302260289437697><a:fletchinderS:811302260612661278><a:talonflameS:811302277717426177>\n-Move: Incinerate\n-3x Catch xp + 3 hour Lures"
-  },
-  {
-    "event_name": "Kanto Raid Day",
-    "start_day": "28",
-    "start_month": "February",
-    "start_year": "2021",
-    "end_day": "28",
-    "end_month": "February",
-    "end_year": "2021",
-    "start_time": "11:00",
-    "end_time": "14:00",
-    "type": "local",
-    "range_text": "Feb 28th 11am-2pm",
-    "description": "Articuno<a:articuno:639602389200011272><a:articuno_shiny:639602291015417899>, Zapdos<a:zapdos:639602404727193611><a:zapdos_shiny:639602308505665576>, and Moltres<a:moltres:639602421596946432><a:moltres_shiny:639602325669019699>\n-Giovanni w/ new Shadow Legendary\n-<https://bit.ly/3dr9ZM0>"
   },
   {
     "event_name": "Season of Legends",
@@ -122,22 +94,22 @@
     "start_time": "15:00",
     "end_time": "15:00",
     "type": "local",
-    "range_text": "3/9-3-14: Searching for Legends (Shiny Nosepass released)",
-    "description": "3/14: Psychic/Steel Incense Day\n-3/16-3/22: Charge Up (New Electric mons)\n-3/24-3/29: Weather Week\n-3/27-3/28: Raid weekend"
+    "range_text": "3/14: Psychic/Steel Incense Day",
+    "description": "3/16-3/22: Charge Up (New Electric mons)\n-3/24-3/29: Weather Week\n-3/27-3/28: Raid weekend"
   },
   {
-    "event_name": "",
-    "start_day": "",
-    "start_month": "",
-    "start_year": "",
-    "end_day": "",
-    "end_month": "",
-    "end_year": "",
-    "start_time": "",
-    "end_time": "",
-    "type": "",
-    "range_text": "",
-    "description": ""
+    "event_name": "Snorting Legendaries 👃",
+    "start_day": "9",
+    "start_month": "March",
+    "start_year": "2021",
+    "end_day": "14",
+    "end_month": "March",
+    "end_year": "2021",
+    "start_time": "10:00",
+    "end_time": "8:00",
+    "type": "local",
+    "range_text": "Mar 9-14",
+    "description": "Shiny Nosepass <a:nosepassS:816417822358896643><a:probopassS:816417822627725333>\n-<https://bit.ly/3sGkTlA>"
   },
   {
     "event_name": "",
