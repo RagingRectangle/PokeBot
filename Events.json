@@ -112,17 +112,17 @@
     "description": "Shiny Nosepass <a:nosepassS:816417822358896643><a:probopassS:816417822627725333>\n-<https://bit.ly/3sGkTlA>"
   },
   {
-    "event_name": "",
-    "start_day": "",
-    "start_month": "",
-    "start_year": "",
-    "end_day": "",
-    "end_month": "",
-    "end_year": "",
-    "start_time": "",
-    "end_time": "",
-    "type": "",
-    "range_text": "",
-    "description": ""
+    "event_name": "Psychic/Steel Incense Day",
+    "start_day": "14",
+    "start_month": "March",
+    "start_year": "2021",
+    "end_day": "14",
+    "end_month": "March",
+    "end_year": "2021",
+    "start_time": "11:00",
+    "end_time": "17:00",
+    "type": "local",
+    "range_text": "March 14th 11am-5pm",
+    "description": "<https://bit.ly/2N4Yyz6>"
   }
 ]
