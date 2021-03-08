@@ -24,8 +24,8 @@
     "start_time": "15:00",
     "end_time": "22:00",
     "type": "global",
-    "range_text": "3/1-3/6: Incarnate Landorus✨",
-    "description": "3/6-3/11: Incarnate Tornadus✨\n-3/11-3/16: Incarnate Thundurus✨\n-3/16-3/30: Therian Thundurus\n-3/30-?: Therian Tornadus"
+    "range_text": "3/6-3/11: Incarnate Tornadus✨",
+    "description": "3/11-3/16: Incarnate Thundurus✨\n-3/16-3/30: Therian Thundurus\n-3/30-?: Therian Tornadus"
   },
   {
     "event_name": "Spotlight Hours 6-7pm",
@@ -38,8 +38,8 @@
     "start_time": "18:00",
     "end_time": "19:00",
     "type": "local",
-    "range_text": "3/2: Krabby + 2x transfer Candy",
-    "description": "3/9: Drowzee + 2x evolve XP\n-3/16: Voltorb + 2x catch Stardust\n-3/23: Surskit + 2x catch XP\n-3/30: Slugma + 2x catch Candy"
+    "range_text": "3/9: Drowzee + 2x evolve XP",
+    "description": "3/16: Voltorb + 2x catch Stardust\n-3/23: Surskit + 2x catch XP\n-3/30: Slugma + 2x catch Candy"
   },
   {
     "event_name": "Bonus Hours 6-7pm",
@@ -52,22 +52,8 @@
     "start_time": "18:00",
     "end_time": "19:00",
     "type": "local",
-    "range_text": "3/4: Go Rocket Hour",
-    "description": "3/11: Mega Bonus Hour\n-3/18: Mega Raid Hour"
-  },
-  {
-    "event_name": "March CD",
-    "start_day": "6",
-    "start_month": "March",
-    "start_year": "2021",
-    "end_day": "6",
-    "end_month": "March",
-    "end_year": "2021",
-    "start_time": "11:00",
-    "end_time": "17:00",
-    "type": "local",
-    "range_text": "March 6th 11am-6pm",
-    "description": "Shiny Fletchling <a:fletchlingS:811302260289437697><a:fletchinderS:811302260612661278><a:talonflameS:811302277717426177>\n-Move: Incinerate\n-3x Catch xp + 3 hour Lures"
+    "range_text": "3/11: Mega Bonus Hour",
+    "description": "3/18: Mega Raid Hour"
   },
   {
     "event_name": "Season of Legends",
@@ -85,7 +71,7 @@
   },
   {
     "event_name": "Other Events",
-    "start_day": "9",
+    "start_day": "16",
     "start_month": "March",
     "start_year": "2021",
     "end_day": "29",
@@ -94,8 +80,8 @@
     "start_time": "15:00",
     "end_time": "15:00",
     "type": "local",
-    "range_text": "3/14: Psychic/Steel Incense Day",
-    "description": "3/16-3/22: Charge Up (New Electric mons)\n-3/24-3/29: Weather Week\n-3/27-3/28: Raid weekend"
+    "range_text": "3/16-3/22: Charge Up (New Electric mons)",
+    "description": "3/24-3/29: Weather Week\n-3/27-3/28: Raid weekend"
   },
   {
     "event_name": "Snorting Legendaries 👃",
