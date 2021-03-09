@@ -80,8 +80,8 @@
     "start_time": "15:00",
     "end_time": "15:00",
     "type": "local",
-    "range_text": "3/16-3/22: Charge Up (New Electric mons)",
-    "description": "3/24-3/29: Weather Week\n-3/27-3/28: Raid weekend"
+    "range_text": "3/24-3/29: Weather Week",
+    "description": "3/27-3/28: Raid weekend"
   },
   {
     "event_name": "Snorting Legendaries 👃",
@@ -110,5 +110,75 @@
     "type": "local",
     "range_text": "March 14th 11am-5pm",
     "description": "<https://bit.ly/2N4Yyz6>"
+  },
+  {
+    "event_name": "Charge Up!",
+    "start_day": "16",
+    "start_month": "March",
+    "start_year": "2021",
+    "end_day": "22",
+    "end_month": "March",
+    "end_year": "2021",
+    "start_time": "10:00",
+    "end_time": "20:00",
+    "type": "local",
+    "range_text": "Mar 16-22",
+    "description": "Tynamo released <a:tynamo:818952968748793876><a:eelektrik:818952968782217277><a:eelektross:818952969076604978>\n-Mega Manectric released <a:manectricM:818953684917551136><a:manectricMS:818953685388099584>\n-<https://bit.ly/3rDHShe>"
+  },
+  {
+    "event_name": "",
+    "start_day": "",
+    "start_month": "",
+    "start_year": "",
+    "end_day": "",
+    "end_month": "",
+    "end_year": "",
+    "start_time": "",
+    "end_time": "",
+    "type": "",
+    "range_text": "",
+    "description": ""
+  },
+  {
+    "event_name": "",
+    "start_day": "",
+    "start_month": "",
+    "start_year": "",
+    "end_day": "",
+    "end_month": "",
+    "end_year": "",
+    "start_time": "",
+    "end_time": "",
+    "type": "",
+    "range_text": "",
+    "description": ""
+  },
+  {
+    "event_name": "",
+    "start_day": "",
+    "start_month": "",
+    "start_year": "",
+    "end_day": "",
+    "end_month": "",
+    "end_year": "",
+    "start_time": "",
+    "end_time": "",
+    "type": "",
+    "range_text": "",
+    "description": ""
+  },
+  {
+    "event_name": "",
+    "start_day": "",
+    "start_month": "",
+    "start_year": "",
+    "end_day": "",
+    "end_month": "",
+    "end_year": "",
+    "start_time": "",
+    "end_time": "",
+    "type": "",
+    "range_text": "",
+    "description": ""
   }
 ]
