@@ -24,12 +24,12 @@
     "start_time": "15:00",
     "end_time": "22:00",
     "type": "global",
-    "range_text": "3/6-3/11: Incarnate Tornadus✨",
-    "description": "3/11-3/16: Incarnate Thundurus✨\n-3/16-3/30: Therian Thundurus\n-3/30-?: Therian Tornadus"
+    "range_text": "3/11-3/16: Incarnate Thundurus✨",
+    "description": "3/16-3/30: Therian Thundurus\n-3/30-?: Therian Tornadus"
   },
   {
     "event_name": "Spotlight Hours 6-7pm",
-    "start_day": "2",
+    "start_day": "16",
     "start_month": "March",
     "start_year": "2021",
     "end_day": "30",
@@ -38,12 +38,12 @@
     "start_time": "18:00",
     "end_time": "19:00",
     "type": "local",
-    "range_text": "3/9: Drowzee + 2x evolve XP",
-    "description": "3/16: Voltorb + 2x catch Stardust\n-3/23: Surskit + 2x catch XP\n-3/30: Slugma + 2x catch Candy"
+    "range_text": "3/16: Voltorb + 2x catch Stardust",
+    "description": "3/23: Surskit + 2x catch XP\n-3/30: Slugma + 2x catch Candy"
   },
   {
     "event_name": "Bonus Hours 6-7pm",
-    "start_day": "4",
+    "start_day": "18",
     "start_month": "March",
     "start_year": "2021",
     "end_day": "18",
@@ -52,8 +52,8 @@
     "start_time": "18:00",
     "end_time": "19:00",
     "type": "local",
-    "range_text": "3/11: Mega Bonus Hour",
-    "description": "3/18: Mega Raid Hour"
+    "range_text": "March 18th",
+    "description": "Mega Raid Hour"
   },
   {
     "event_name": "Season of Legends",
@@ -71,7 +71,7 @@
   },
   {
     "event_name": "Other Events",
-    "start_day": "16",
+    "start_day": "24",
     "start_month": "March",
     "start_year": "2021",
     "end_day": "29",
