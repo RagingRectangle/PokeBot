@@ -24,8 +24,8 @@
     "start_time": "15:00",
     "end_time": "22:00",
     "type": "global",
-    "range_text": "3/11-3/16: Incarnate Thundurus✨",
-    "description": "3/16-3/30: Therian Thundurus\n-3/30-?: Therian Tornadus"
+    "range_text": "3/16-3/30: Therian Thundurus",
+    "description": "3/30-?: Therian Tornadus"
   },
   {
     "event_name": "Spotlight Hours 6-7pm",
@@ -84,34 +84,6 @@
     "description": "3/27-3/28: Raid weekend"
   },
   {
-    "event_name": "Snorting Legendaries 👃",
-    "start_day": "9",
-    "start_month": "March",
-    "start_year": "2021",
-    "end_day": "14",
-    "end_month": "March",
-    "end_year": "2021",
-    "start_time": "10:00",
-    "end_time": "8:00",
-    "type": "local",
-    "range_text": "Mar 9-14",
-    "description": "Shiny Nosepass <a:nosepassS:816417822358896643><a:probopassS:816417822627725333>\n-<https://bit.ly/3sGkTlA>"
-  },
-  {
-    "event_name": "Psychic/Steel Incense Day",
-    "start_day": "14",
-    "start_month": "March",
-    "start_year": "2021",
-    "end_day": "14",
-    "end_month": "March",
-    "end_year": "2021",
-    "start_time": "11:00",
-    "end_time": "17:00",
-    "type": "local",
-    "range_text": "March 14th 11am-5pm",
-    "description": "<https://bit.ly/2N4Yyz6>"
-  },
-  {
     "event_name": "Charge Up!",
     "start_day": "16",
     "start_month": "March",
@@ -126,6 +98,19 @@
     "description": "Tynamo released <a:tynamo:818952968748793876><a:eelektrik:818952968782217277><a:eelektross:818952969076604978>\n-Manectric Mega released <a:manectricM:818953684917551136><a:manectricMS:818953685388099584>\n-<https://bit.ly/3rDHShe>"
   },
   {
+    "event_name": "Weather Week",
+    "start_day": "24",
+    "start_month": "March",
+    "start_year": "2021",
+    "end_day": "29",
+    "end_month": "March",
+    "end_year": "2021",
+    "start_time": "10:00",
+    "end_time": "20:00",
+    "type": "local",
+    "range_text": "Mar 24-29",
+    "description": "Shiny Castform Rainy released <:castformRS:821484813071679528>\n-Mar 24-27: Increased rainy spawns\n-Mar 27-29: Increased windy spawns\n-Bonus: Extra Stardust for weather boost catches\n-<https://bit.ly/38OFexv>"
+  },  {
     "event_name": "",
     "start_day": "",
     "start_month": "",
