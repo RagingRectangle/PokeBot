@@ -38,22 +38,8 @@
     "start_time": "18:00",
     "end_time": "19:00",
     "type": "local",
-    "range_text": "3/16: Voltorb + 2x catch Stardust",
-    "description": "3/23: Surskit + 2x catch XP\n-3/30: Slugma + 2x catch Candy"
-  },
-  {
-    "event_name": "Bonus Hours 6-7pm",
-    "start_day": "18",
-    "start_month": "March",
-    "start_year": "2021",
-    "end_day": "18",
-    "end_month": "March",
-    "end_year": "2021",
-    "start_time": "18:00",
-    "end_time": "19:00",
-    "type": "local",
-    "range_text": "March 18th",
-    "description": "Mega Raid Hour"
+    "range_text": "3/23: Surskit + 2x catch XP",
+    "description": "3/30: Slugma + 2x catch Candy"
   },
   {
     "event_name": "Season of Legends",
@@ -70,18 +56,18 @@
     "description": "<https://bit.ly/3bz0V5c>"
   },
   {
-    "event_name": "Other Events",
-    "start_day": "24",
+    "event_name": "Raid weekend",
+    "start_day": "27",
     "start_month": "March",
     "start_year": "2021",
-    "end_day": "29",
+    "end_day": "28",
     "end_month": "March",
     "end_year": "2021",
-    "start_time": "15:00",
-    "end_time": "15:00",
+    "start_time": "10:00",
+    "end_time": "20:00",
     "type": "local",
-    "range_text": "3/24-3/29: Weather Week",
-    "description": "3/27-3/28: Raid weekend"
+    "range_text": "Mar 27-28",
+    "description": "TBA Legendary Raids"
   },
   {
     "event_name": "Charge Up!",
