@@ -28,8 +28,22 @@
     "description": "3/30-?: Therian Tornadus"
   },
   {
-    "event_name": "Spotlight Hours 6-7pm",
-    "start_day": "16",
+    "event_name": "Surskit <a:surskit:823409351812579328> Spotlight Hour",
+    "start_day": "23",
+    "start_month": "March",
+    "start_year": "2021",
+    "end_day": "23",
+    "end_month": "March",
+    "end_year": "2021",
+    "start_time": "18:00",
+    "end_time": "19:00",
+    "type": "local",
+    "range_text": "Mar 23rd 6-7pm",
+    "description": "2x catch XP"
+  },
+  {
+    "event_name": "Slugma <a:slugma:823409895588102204> Spotlight Hour",
+    "start_day": "30",
     "start_month": "March",
     "start_year": "2021",
     "end_day": "30",
@@ -38,8 +52,8 @@
     "start_time": "18:00",
     "end_time": "19:00",
     "type": "local",
-    "range_text": "3/23: Surskit + 2x catch XP",
-    "description": "3/30: Slugma + 2x catch Candy"
+    "range_text": "Mar 23rd 6-7pm",
+    "description": "2x catch Candy"
   },
   {
     "event_name": "Season of Legends",
