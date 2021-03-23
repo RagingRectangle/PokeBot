@@ -111,18 +111,18 @@
     "range_text": "Mar 24-29",
     "description": "Shiny Castform Rainy released <:castformRS:821484813071679528>\n-Mar 24-27: Increased rainy spawns\n-Mar 27-29: Increased windy spawns\n-Bonus: Extra Stardust for weather boost catches\n-<https://bit.ly/38OFexv>"
   },  {
-    "event_name": "",
-    "start_day": "",
-    "start_month": "",
-    "start_year": "",
-    "end_day": "",
-    "end_month": "",
-    "end_year": "",
-    "start_time": "",
-    "end_time": "",
-    "type": "",
-    "range_text": "",
-    "description": ""
+    "event_name": "Community Day",
+    "start_day": "11",
+    "start_month": "April",
+    "start_year": "2021",
+    "end_day": "11",
+    "end_month": "April",
+    "end_year": "2021",
+    "start_time": "11:00",
+    "end_time": "17:00",
+    "type": "local",
+    "range_text": "April 11th 11am-5pm",
+    "description": "Snivy <a:snivyS:791417776136388648><a:servineS:791417776107159617><a:serperiorS:791417776434708510>\n-Move: Frenzy Plant\n-Bonus: 3x catch Stardust"
   },
   {
     "event_name": "",
