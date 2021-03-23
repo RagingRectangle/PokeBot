@@ -7,10 +7,10 @@
     "end_day": "23",
     "end_month": "March",
     "end_year": "2021",
-    "start_time": "1:00",
-    "end_time": "1:10",
+    "start_time": "2:00",
+    "end_time": "3:10",
     "type": "local",
-    "range_text": "1:00 - 1:10",
+    "range_text": "2:00 - 3:10",
     "description": "Test1 Text"
   },
   {
@@ -21,10 +21,10 @@
     "end_day": "23",
     "end_month": "March",
     "end_year": "2021",
-    "start_time": "1:15",
-    "end_time": "1:20",
+    "start_time": "2:45",
+    "end_time": "3:20",
     "type": "local",
-    "range_text": "1:15 - 1:20",
+    "range_text": "2:45 - 3:20",
     "description": "Test2 Text"
   },
   {
@@ -35,10 +35,10 @@
     "end_day": "23",
     "end_month": "March",
     "end_year": "2021",
-    "start_time": "0:00",
-    "end_time": "0:10",
+    "start_time": "2:00",
+    "end_time": "2:45",
     "type": "local",
-    "range_text": "0:00 - 0:10",
+    "range_text": "2:00 - 2:45",
     "description": "Test3 Text"
   },
   {
