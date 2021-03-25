@@ -25,7 +25,7 @@
     "end_time": "22:00",
     "type": "global",
     "range_text": "3/16-3/30: Therian Thundurus <a:thundurusT:823411154574508062>",
-    "description": "3/30-?: Therian Tornadus <a:tornadusT:823411560026210315>"
+    "description": "3/30-4/13: Therian Tornadus <a:tornadusT:823411560026210315>\n-4/13-4/27: Therian Landorus <a:landorusT:824524511436472361>\n-4/27-?: Incarnate Tornadus✨, Thundurus✨, Landorus✨"
   },
   {
     "event_name": "Surskit <a:surskit:823409351812579328> Spotlight Hour",
@@ -84,20 +84,6 @@
     "description": "Rayquaza <a:rayquaza:605511101962256385><a:rayquaza_shiny:605511144634974209>"
   },
   {
-    "event_name": "Charge Up!",
-    "start_day": "16",
-    "start_month": "March",
-    "start_year": "2021",
-    "end_day": "22",
-    "end_month": "March",
-    "end_year": "2021",
-    "start_time": "10:00",
-    "end_time": "20:00",
-    "type": "local",
-    "range_text": "Mar 16-22",
-    "description": "Tynamo released <a:tynamo:818952968748793876><a:eelektrik:818952968782217277><a:eelektross:818952969076604978>\n-Manectric Mega released <a:manectricM:818953684917551136><a:manectricMS:818953685388099584>\n-<https://bit.ly/3rDHShe>"
-  },
-  {
     "event_name": "Weather Week",
     "start_day": "24",
     "start_month": "March",
@@ -121,8 +107,36 @@
     "start_time": "11:00",
     "end_time": "17:00",
     "type": "local",
-    "range_text": "April 11th 11am-5pm",
+    "range_text": "Apr 11th 11am-5pm",
     "description": "Snivy <a:snivyS:791417776136388648><a:servineS:791417776107159617><a:serperiorS:791417776434708510>\n-Move: Frenzy Plant\n-Bonus: 3x catch Stardust"
+  },
+  {
+    "event_name": "April Things",
+    "start_day": "1",
+    "start_month": "April",
+    "start_year": "2021",
+    "end_day": "1",
+    "end_month": "May",
+    "end_year": "2021",
+    "start_time": "15:00",
+    "end_time": "15:00",
+    "type": "global",
+    "range_text": "Apr 1-May 1",
+    "description": "Giovanni reward: Shadow Zapdos\n-Breakthrough: Male Frillish <a:frillish:824524085405024266>\n-4/4-4/8: Spring into Spring\n-4/13-4/18: Rivals Week\n-4/20-4/25: Sustainability Week\n-4/24: Friendship Day"
+  },
+  {
+    "event_name": "Spotlight Hours",
+    "start_day": "6",
+    "start_month": "April",
+    "start_year": "2021",
+    "end_day": "27",
+    "end_month": "April",
+    "end_year": "2021",
+    "start_time": "18:00",
+    "end_time": "19:00",
+    "type": "local",
+    "range_text": "4/6: Buneary✨ + 2x transfer Candy",
+    "description": "4/13: Mankey✨ + 2x evolve XP\n-4/20: Grimer✨ + 2x catch Stardust\n-4/27: Finneon + 2x catch XP"
   },
   {
     "event_name": "",
