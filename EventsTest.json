@@ -10,7 +10,7 @@
     "start_time": "23:10",
     "end_time": "23:15",
     "type": "local",
-    "range_text": "21:10 - 21:15",
+    "range_text": "23:10 - 23:15",
     "description": "Test1 Text"
   },
   {
@@ -21,10 +21,10 @@
     "end_day": "26",
     "end_month": "March",
     "end_year": "2021",
-    "start_time": "0:08",
-    "end_time": "0:12",
+    "start_time": "0:12",
+    "end_time": "0:15",
     "type": "local",
-    "range_text": "0:08 - 0:12",
+    "range_text": "0:12 - 0:15",
     "description": "Test2 Text"
   },
   {
