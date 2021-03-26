@@ -7,10 +7,10 @@
     "end_day": "25",
     "end_month": "March",
     "end_year": "2021",
-    "start_time": "23:10",
-    "end_time": "23:15",
+    "start_time": "23:15",
+    "end_time": "23:20",
     "type": "local",
-    "range_text": "23:10 - 23:15",
+    "range_text": "23:15 - 23:20",
     "description": "Test1 Text"
   },
   {
@@ -21,10 +21,10 @@
     "end_day": "26",
     "end_month": "March",
     "end_year": "2021",
-    "start_time": "0:12",
-    "end_time": "0:15",
+    "start_time": "0:14",
+    "end_time": "0:18",
     "type": "local",
-    "range_text": "0:12 - 0:15",
+    "range_text": "0:14 - 0:18",
     "description": "Test2 Text"
   },
   {
