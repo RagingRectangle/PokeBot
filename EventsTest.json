@@ -7,8 +7,8 @@
     "end_day": "25",
     "end_month": "March",
     "end_year": "2021",
-    "start_time": "21:10",
-    "end_time": "21:15",
+    "start_time": "23:10",
+    "end_time": "23:15",
     "type": "local",
     "range_text": "21:10 - 21:15",
     "description": "Test1 Text"
@@ -40,47 +40,5 @@
     "type": "local",
     "range_text": "1:30 - 2:00",
     "description": "Test3 Text"
-  },
-  {
-    "event_name": "",
-    "start_day": "",
-    "start_month": "",
-    "start_year": "",
-    "end_day": "",
-    "end_month": "",
-    "end_year": "",
-    "start_time": "",
-    "end_time": "",
-    "type": "",
-    "range_text": "",
-    "description": ""
-  },
-  {
-    "event_name": "",
-    "start_day": "",
-    "start_month": "",
-    "start_year": "",
-    "end_day": "",
-    "end_month": "",
-    "end_year": "",
-    "start_time": "",
-    "end_time": "",
-    "type": "",
-    "range_text": "",
-    "description": ""
-  },
-  {
-    "event_name": "",
-    "start_day": "",
-    "start_month": "",
-    "start_year": "",
-    "end_day": "",
-    "end_month": "",
-    "end_year": "",
-    "start_time": "",
-    "end_time": "",
-    "type": "",
-    "range_text": "",
-    "description": ""
   }
 ]
