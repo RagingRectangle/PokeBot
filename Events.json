@@ -139,18 +139,18 @@
     "description": "4/13: Mankey✨ + 2x evolve XP\n-4/20: Grimer✨ + 2x catch Stardust\n-4/27: Finneon + 2x catch XP"
   },
   {
-    "event_name": "",
-    "start_day": "",
-    "start_month": "",
-    "start_year": "",
-    "end_day": "",
-    "end_month": "",
-    "end_year": "",
-    "start_time": "",
-    "end_time": "",
-    "type": "",
-    "range_text": "",
-    "description": ""
+    "event_name": "Spring into Spring",
+    "start_day": "4",
+    "start_month": "April",
+    "start_year": "2021",
+    "end_day": "8",
+    "end_month": "April",
+    "end_year": "2021",
+    "start_time": "10:00",
+    "end_time": "20:00",
+    "type": "local",
+    "range_text": "Apr 4-8",
+    "description": "Pikachu, Chansey, and Happiny flower crowns\n-Lopunny Mega released <a:lopunny_mega:582456200734572553><a:lopunnyMS:826192674771566662>\n-2x Hatch Candy, 1 hour Lucky Egg, 1/2 Egg distance\n-<https://bit.ly/39mnDxe>"
   },
   {
     "event_name": "",
