@@ -24,36 +24,8 @@
     "start_time": "15:00",
     "end_time": "22:00",
     "type": "global",
-    "range_text": "3/16-3/30: Therian Thundurus <a:thundurusT:823411154574508062>",
-    "description": "3/30-4/13: Therian Tornadus <a:tornadusT:823411560026210315>\n-4/13-4/27: Therian Landorus <a:landorusT:824524511436472361>\n-4/27-?: Incarnate Tornadus✨, Thundurus✨, Landorus✨"
-  },
-  {
-    "event_name": "Surskit <a:surskit:823409351812579328> Spotlight Hour",
-    "start_day": "23",
-    "start_month": "March",
-    "start_year": "2021",
-    "end_day": "23",
-    "end_month": "March",
-    "end_year": "2021",
-    "start_time": "18:00",
-    "end_time": "19:00",
-    "type": "local",
-    "range_text": "Mar 23rd 6-7pm",
-    "description": "2x catch XP"
-  },
-  {
-    "event_name": "Slugma <a:slugma:823409895588102204> Spotlight Hour",
-    "start_day": "30",
-    "start_month": "March",
-    "start_year": "2021",
-    "end_day": "30",
-    "end_month": "March",
-    "end_year": "2021",
-    "start_time": "18:00",
-    "end_time": "19:00",
-    "type": "local",
-    "range_text": "Mar 30th 6-7pm",
-    "description": "2x catch Candy"
+    "range_text": "3/30-4/13: Therian Tornadus <a:tornadusT:823411560026210315>",
+    "description": "4/13-4/27: Therian Landorus <a:landorusT:824524511436472361>\n-4/27-?: Incarnate Tornadus✨, Thundurus✨, Landorus✨"
   },
   {
     "event_name": "Season of Legends",
@@ -70,33 +42,6 @@
     "description": "<https://bit.ly/3bz0V5c>"
   },
   {
-    "event_name": "Raid weekend",
-    "start_day": "27",
-    "start_month": "March",
-    "start_year": "2021",
-    "end_day": "28",
-    "end_month": "March",
-    "end_year": "2021",
-    "start_time": "10:00",
-    "end_time": "20:00",
-    "type": "local",
-    "range_text": "Mar 27-28",
-    "description": "Rayquaza <a:rayquaza:605511101962256385><a:rayquaza_shiny:605511144634974209>"
-  },
-  {
-    "event_name": "Weather Week",
-    "start_day": "24",
-    "start_month": "March",
-    "start_year": "2021",
-    "end_day": "29",
-    "end_month": "March",
-    "end_year": "2021",
-    "start_time": "10:00",
-    "end_time": "20:00",
-    "type": "local",
-    "range_text": "Mar 24-29",
-    "description": "Shiny Castform Rainy released <:castformRS:821484813071679528>\n-Mar 24-27: Increased rainy spawns\n-Mar 27-29: Increased windy spawns\n-Bonus: Extra Stardust for weather boost catches\n-<https://bit.ly/38OFexv>"
-  },  {
     "event_name": "Community Day",
     "start_day": "11",
     "start_month": "April",
@@ -125,6 +70,20 @@
     "description": "Giovanni reward: Shadow Zapdos\n-Breakthrough: Male Frillish <a:frillish:824524085405024266>\n-4/13-4/18: Rivals Week\n-4/20-4/25: Sustainability Week\n-4/24: Friendship Day\n-<https://bit.ly/3cZogxO>"
   },
   {
+    "event_name": "",
+    "start_day": "",
+    "start_month": "",
+    "start_year": "",
+    "end_day": "",
+    "end_month": "",
+    "end_year": "",
+    "start_time": "",
+    "end_time": "",
+    "type": "",
+    "range_text": "",
+    "description": ""
+  },
+  {
     "event_name": "Spotlight Hours",
     "start_day": "6",
     "start_month": "April",
@@ -151,20 +110,6 @@
     "type": "local",
     "range_text": "Apr 4-8",
     "description": "Pikachu, Chansey, and Happiny flower crowns\n-Lopunny Mega released <a:lopunny_mega:582456200734572553><a:lopunnyMS:826192674771566662>\n-2x Hatch Candy, 1 hour Lucky Egg, 1/2 Egg distance\n-<https://bit.ly/39mnDxe>"
-  },
-  {
-    "event_name": "Tricky Pokemon",
-    "start_day": "1",
-    "start_month": "April",
-    "start_year": "2021",
-    "end_day": "1",
-    "end_month": "April",
-    "end_year": "2021",
-    "start_time": "0:00",
-    "end_time": "23:59",
-    "type": "local",
-    "range_text": "April 1st",
-    "description": "Too lazy to type info\n-<https://bit.ly/3cGb0PT>"
   },
   {
     "event_name": "",
