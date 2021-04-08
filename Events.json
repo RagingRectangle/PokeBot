@@ -84,8 +84,22 @@
     "description": "New: Skrelp <a:skrelp:828787340934774834><a:dragalge:828787360199606272> and Clauncher <a:clauncher:828787573677096981><a:clawitzer:828787588852350978>\n-<https://bit.ly/3sVGPJX>"
   },
   {
+    "event_name": "Mankey <a:mankey:810927655595540511><a:mankey_shiny:624099075251503123> Spotlight Hour",
+    "start_day": "13",
+    "start_month": "April",
+    "start_year": "2021",
+    "end_day": "13",
+    "end_month": "April",
+    "end_year": "2021",
+    "start_time": "18:00",
+    "end_time": "19:00",
+    "type": "local",
+    "range_text": "Apr 13th 6-7pm",
+    "description": "2x evolve XP"
+  },
+  {
     "event_name": "Spotlight Hours",
-    "start_day": "6",
+    "start_day": "20",
     "start_month": "April",
     "start_year": "2021",
     "end_day": "27",
@@ -94,8 +108,8 @@
     "start_time": "18:00",
     "end_time": "19:00",
     "type": "local",
-    "range_text": "4/6: Buneary✨ + 2x transfer Candy",
-    "description": "4/13: Mankey✨ + 2x evolve XP\n-4/20: Grimer✨ + 2x catch Stardust\n-4/27: Finneon + 2x catch XP"
+    "range_text": "4/20: Grimer✨ + 2x catch Stardust",
+    "description": "4/27: Finneon + 2x catch XP"
   },
   {
     "event_name": "Spring into Spring",
