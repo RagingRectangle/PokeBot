@@ -67,7 +67,7 @@
     "end_time": "15:00",
     "type": "global",
     "range_text": "Apr 1-May 1",
-    "description": "Giovanni reward: Shadow Zapdos\n-Breakthrough: Male Frillish <a:frillish:824524085405024266>\n-4/20-4/25: Sustainability Week\n-4/24: Friendship Day\n-<https://bit.ly/3cZogxO>"
+    "description": "Giovanni reward: Shadow Zapdos\n-Breakthrough: Male Frillish <a:frillish:824524085405024266>\n-4/20-4/25: Sustainability Week\n-<https://bit.ly/3cZogxO>"
   },
   {
     "event_name": "Rivals Week",
@@ -124,6 +124,20 @@
     "type": "local",
     "range_text": "Apr 4-8",
     "description": "Pikachu, Chansey, and Happiny flower crowns\n-Lopunny Mega released <a:lopunny_mega:582456200734572553><a:lopunnyMS:826192674771566662>\n-2x Hatch Candy, 1 hour Lucky Egg, 1/2 Egg distance\n-<https://bit.ly/39mnDxe>"
+  },
+  {
+    "event_name": "Friendship Day",
+    "start_day": "24",
+    "start_month": "April",
+    "start_year": "2021",
+    "end_day": "24",
+    "end_month": "April",
+    "end_year": "2021",
+    "start_time": "11:00",
+    "end_time": "14:00",
+    "type": "local",
+    "range_text": "Apr 24th 11am-2pm",
+    "description": "Collection Challenge for 100,000 XP\n-Global Challenges for 20,000 XP\n-Increased chance of Lucky trades\n-40km trades\n-3x catch XP\n-<https://bit.ly/3g65tUG>"
   },
   {
     "event_name": "",
