@@ -67,7 +67,7 @@
     "end_time": "15:00",
     "type": "global",
     "range_text": "Apr 1-May 1",
-    "description": "Giovanni reward: Shadow Zapdos\n-Breakthrough: Male Frillish <a:frillish:824524085405024266>\n-4/20-4/25: Sustainability Week\n-<https://bit.ly/3cZogxO>"
+    "description": "Giovanni reward: Shadow Zapdos\n-Breakthrough: Male Frillish <a:frillish:824524085405024266>\n-<https://bit.ly/3cZogxO>"
   },
   {
     "event_name": "Rivals Week",
@@ -140,18 +140,18 @@
     "description": "Collection Challenge for 100,000 XP\n-Global Challenges for 20,000 XP\n-Increased chance of Lucky trades\n-40km trades\n-3x catch XP\n-<https://bit.ly/3g65tUG>"
   },
   {
-    "event_name": "",
-    "start_day": "",
-    "start_month": "",
-    "start_year": "",
-    "end_day": "",
-    "end_month": "",
-    "end_year": "",
-    "start_time": "",
-    "end_time": "",
-    "type": "",
-    "range_text": "",
-    "description": ""
+    "event_name": "Sustainability Week",
+    "start_day": "20",
+    "start_month": "April",
+    "start_year": "2021",
+    "end_day": "25",
+    "end_month": "April",
+    "end_year": "2021",
+    "start_time": "10:00",
+    "end_time": "20:00",
+    "type": "local",
+    "range_text": "Apr 20-25",
+    "description": "Binacle released <a:binacle:831686743916806184><a:barbaracle:831686763269455902>\n-Shiny Trubbish released <a:trubbishS:831685475445243955><a:garbodorS:831685883144831027>\n-<https://bit.ly/3mVBd0l>"
   },
   {
     "event_name": "",
