@@ -42,20 +42,6 @@
     "description": "<https://bit.ly/3bz0V5c>"
   },
   {
-    "event_name": "Community Day",
-    "start_day": "11",
-    "start_month": "April",
-    "start_year": "2021",
-    "end_day": "11",
-    "end_month": "April",
-    "end_year": "2021",
-    "start_time": "11:00",
-    "end_time": "17:00",
-    "type": "local",
-    "range_text": "Apr 11th 11am-5pm",
-    "description": "Snivy <a:snivyS:791417776136388648><a:servineS:791417776107159617><a:serperiorS:791417776434708510>\n-Move: Frenzy Plant\n-Bonus: 3x catch Stardust"
-  },
-  {
     "event_name": "April Things",
     "start_day": "1",
     "start_month": "April",
@@ -84,22 +70,22 @@
     "description": "New: Skrelp <a:skrelp:828787340934774834><a:dragalge:828787360199606272> and Clauncher <a:clauncher:828787573677096981><a:clawitzer:828787588852350978>\n-<https://bit.ly/3sVGPJX>"
   },
   {
-    "event_name": "Mankey <a:mankey:810927655595540511><a:mankey_shiny:624099075251503123> Spotlight Hour",
-    "start_day": "13",
+    "event_name": "Grimer <a:grimer:832645735895924857><a:grimerS:832645735517913140> Spotlight Hour",
+    "start_day": "20",
     "start_month": "April",
     "start_year": "2021",
-    "end_day": "13",
+    "end_day": "20",
     "end_month": "April",
     "end_year": "2021",
     "start_time": "18:00",
     "end_time": "19:00",
     "type": "local",
-    "range_text": "Apr 13th 6-7pm",
-    "description": "2x evolve XP"
+    "range_text": "Apr 20th 6-7pm",
+    "description": "2x catch Stardust"
   },
   {
-    "event_name": "Spotlight Hours",
-    "start_day": "20",
+    "event_name": "Finneon <a:finneon:832646208404979802> Spotlight Hour",
+    "start_day": "27",
     "start_month": "April",
     "start_year": "2021",
     "end_day": "27",
@@ -108,22 +94,8 @@
     "start_time": "18:00",
     "end_time": "19:00",
     "type": "local",
-    "range_text": "4/20: Grimer✨ + 2x catch Stardust",
-    "description": "4/27: Finneon + 2x catch XP"
-  },
-  {
-    "event_name": "Spring into Spring",
-    "start_day": "4",
-    "start_month": "April",
-    "start_year": "2021",
-    "end_day": "8",
-    "end_month": "April",
-    "end_year": "2021",
-    "start_time": "10:00",
-    "end_time": "20:00",
-    "type": "local",
-    "range_text": "Apr 4-8",
-    "description": "Pikachu, Chansey, and Happiny flower crowns\n-Lopunny Mega released <a:lopunny_mega:582456200734572553><a:lopunnyMS:826192674771566662>\n-2x Hatch Candy, 1 hour Lucky Egg, 1/2 Egg distance\n-<https://bit.ly/39mnDxe>"
+    "range_text": "Apr 27th 6-7pm",
+    "description": "2x catch XP"
   },
   {
     "event_name": "Friendship Day",
