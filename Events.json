@@ -56,34 +56,6 @@
     "description": "Giovanni reward: Shadow Zapdos\n-Breakthrough: Male Frillish <a:frillish:824524085405024266>\n-<https://bit.ly/3cZogxO>"
   },
   {
-    "event_name": "Rivals Week",
-    "start_day": "13",
-    "start_month": "April",
-    "start_year": "2021",
-    "end_day": "18",
-    "end_month": "April",
-    "end_year": "2021",
-    "start_time": "10:00",
-    "end_time": "20:00",
-    "type": "local",
-    "range_text": "Apr 13-18",
-    "description": "New: Skrelp <a:skrelp:828787340934774834><a:dragalge:828787360199606272> and Clauncher <a:clauncher:828787573677096981><a:clawitzer:828787588852350978>\n-<https://bit.ly/3sVGPJX>"
-  },
-  {
-    "event_name": "Grimer <a:grimer:832645735895924857><a:grimerS:832645735517913140> Spotlight Hour",
-    "start_day": "20",
-    "start_month": "April",
-    "start_year": "2021",
-    "end_day": "20",
-    "end_month": "April",
-    "end_year": "2021",
-    "start_time": "18:00",
-    "end_time": "19:00",
-    "type": "local",
-    "range_text": "Apr 20th 6-7pm",
-    "description": "2x catch Stardust"
-  },
-  {
     "event_name": "Finneon <a:finneon:832646208404979802> Spotlight Hour",
     "start_day": "27",
     "start_month": "April",
@@ -98,32 +70,32 @@
     "description": "2x catch XP"
   },
   {
-    "event_name": "Friendship Day",
-    "start_day": "24",
+    "event_name": "Pokemon Snap 📷",
+    "start_day": "29",
     "start_month": "April",
     "start_year": "2021",
-    "end_day": "24",
-    "end_month": "April",
-    "end_year": "2021",
-    "start_time": "11:00",
-    "end_time": "14:00",
-    "type": "local",
-    "range_text": "Apr 24th 11am-2pm",
-    "description": "Collection Challenge for 100,000 XP\n-Global Challenges for 20,000 XP\n-Increased chance of Lucky trades\n-40km trades\n-3x catch XP\n-<https://bit.ly/3g65tUG>"
-  },
-  {
-    "event_name": "Sustainability Week",
-    "start_day": "20",
-    "start_month": "April",
-    "start_year": "2021",
-    "end_day": "25",
-    "end_month": "April",
+    "end_day": "May",
+    "end_month": "2",
     "end_year": "2021",
     "start_time": "10:00",
     "end_time": "20:00",
     "type": "local",
-    "range_text": "Apr 20-25",
-    "description": "Binacle released <a:binacle:831686743916806184><a:barbaracle:831686763269455902>\n-Shiny Trubbish released <a:trubbishS:831685475445243955><a:garbodorS:831685883144831027>\n-<https://bit.ly/3mVBd0l>"
+    "range_text": "Apr 29-May 2",
+    "description": "Snapshots with Shiny Smeargle <a:smeargleS:832011729570627585>"
+  },
+  {
+    "event_name": "",
+    "start_day": "",
+    "start_month": "",
+    "start_year": "",
+    "end_day": "",
+    "end_month": "",
+    "end_year": "",
+    "start_time": "",
+    "end_time": "",
+    "type": "",
+    "range_text": "",
+    "description": ""
   },
   {
     "event_name": "",
