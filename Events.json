@@ -25,7 +25,7 @@
     "end_time": "22:00",
     "type": "global",
     "range_text": "4/13-4/27: Therian Landorus <a:landorusT:824524511436472361>",
-    "description": "4/27-?: Incarnate Tornadus✨, Thundurus✨, Landorus✨"
+    "description": "4/27-5/4: Incarnate Tornadus✨, Thundurus✨, Landorus✨\n-5/4-5/17: Xerneas <a:xerneas:836289279319474267>"
   },
   {
     "event_name": "Season of Legends",
@@ -84,18 +84,18 @@
     "description": "Snapshots with Shiny Smeargle <a:smeargleS:832011729570627585>"
   },
   {
-    "event_name": "",
-    "start_day": "",
-    "start_month": "",
-    "start_year": "",
-    "end_day": "",
-    "end_month": "",
-    "end_year": "",
-    "start_time": "",
-    "end_time": "",
-    "type": "",
-    "range_text": "",
-    "description": ""
+    "event_name": "Luminous Legends X",
+    "start_day": "4",
+    "start_month": "May",
+    "start_year": "2021",
+    "end_day": "17",
+    "end_month": "May",
+    "end_year": "2021",
+    "start_time": "10:00",
+    "end_time": "20:00",
+    "type": "local",
+    "range_text": "May 4-17",
+    "description": "Rainy Lure added\n-New: Spritzee <a:spritzee:836290177885274192><a:aromatisse:836290177604517899>, Swirlix <a:swirlix:836291105699135488><a:slurpuff:836291105267122216>, Goomy <a:goomy:836291596420382780><a:sliggoo:836291595925585921><a:goodra:836291596366250075>\n-Unlockable Rewards:\n--May 11-17\n--3x catch XP, Pancham released <a:pancham:836292551253426176><a:pangoro:836292551874576425>, Shiny Galarian Ponyta <a:ponytaGS:836293014296723476><a:rapidashGS:836293014816817272>"
   },
   {
     "event_name": "",
