@@ -126,18 +126,18 @@
     "description": "5/18: Alolan Rattata <a:rattata_alola:633876987165016065><a:rattata_alola_shiny:633877034841538600> + 2x evolve XP\n-5/25: Marill <a:marill:836802506993696829><a:marillS:836802535717208085> + 2x catch Stardust"
   },
   {
-    "event_name": "",
-    "start_day": "",
-    "start_month": "",
-    "start_year": "",
-    "end_day": "",
-    "end_month": "",
-    "end_year": "",
-    "start_time": "",
-    "end_time": "",
-    "type": "",
-    "range_text": "",
-    "description": ""
+    "event_name": "Community Day",
+    "start_day": "15",
+    "start_month": "May",
+    "start_year": "2021",
+    "end_day": "15",
+    "end_month": "May",
+    "end_year": "2021",
+    "start_time": "11:00",
+    "end_time": "17:00",
+    "type": "local",
+    "range_text": "May 15th 11-5pm",
+    "description": "Possibly Swablu 😒🤢🥱"
   },
   {
     "event_name": "",
