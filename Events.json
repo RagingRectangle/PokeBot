@@ -54,21 +54,7 @@
     "type": "global",
     "range_text": "Apr 1-May 1",
     "description": "Giovanni reward: Shadow Zapdos\n-Breakthrough: Male Frillish <a:frillish:824524085405024266>\n-<https://bit.ly/3cZogxO>"
-  },
-  {
-    "event_name": "Finneon <a:finneon:832646208404979802> Spotlight Hour",
-    "start_day": "27",
-    "start_month": "April",
-    "start_year": "2021",
-    "end_day": "27",
-    "end_month": "April",
-    "end_year": "2021",
-    "start_time": "18:00",
-    "end_time": "19:00",
-    "type": "local",
-    "range_text": "Apr 27th 6-7pm",
-    "description": "2x catch XP"
-  },
+  }
   {
     "event_name": "Pokemon Snap 📷",
     "start_day": "29",
@@ -112,6 +98,20 @@
     "description": "Giovanni reward: Shadow Moltress\n-Breakthrough: Galarian Ponyta\n-<https://bit.ly/32R5Fzq>"
   },
   {
+    "event_name": "Cottonee <a:cottonee:736705403307425905> Spotlight Hour",
+    "start_day": "4",
+    "start_month": "May",
+    "start_year": "2021",
+    "end_day": "4",
+    "end_month": "May",
+    "end_year": "2021",
+    "start_time": "18:00",
+    "end_time": "19:00",
+    "type": "local",
+    "range_text": "May 4th 6-7pm",
+    "description": "2x catch Candy"
+  },
+  {
     "event_name": "Spotlight Hours",
     "start_day": "4",
     "start_month": "May",
@@ -122,8 +122,8 @@
     "start_time": "18:00",
     "end_time": "19:00",
     "type": "local",
-    "range_text": "5/4: Cottonee + 2x catch Candy",
-    "description": "5/11: Dratini + 2x transfer Candy\n-5/18: Alolan Rattata + 2x evolve XP\n-5/25: Marill + 2x catch Stardust"
+    "range_text": "5/11: Dratini + 2x transfer Candy",
+    "description": "5/18: Alolan Rattata + 2x evolve XP\n-5/25: Marill + 2x catch Stardust"
   },
   {
     "event_name": "",
