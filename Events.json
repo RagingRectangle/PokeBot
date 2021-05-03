@@ -126,6 +126,48 @@
     "description": "Move: Moonblast\n-Bonus: 1/4 hatch distance"
   },
   {
+    "event_name": "Marill <a:marill:836802506993696829><a:marillS:836802535717208085> Limited Research",
+    "start_day": "9",
+    "start_month": "May",
+    "start_year": "2021",
+    "end_day": "9",
+    "end_month": "May",
+    "end_year": "2021",
+    "start_time": "8:00",
+    "end_time": "22:00",
+    "type": "local",
+    "range_text": "May 9th 8am-10pm",
+    "description": "If you're lucky you might not bother"
+  },
+  {
+    "event_name": "",
+    "start_day": "",
+    "start_month": "",
+    "start_year": "",
+    "end_day": "",
+    "end_month": "",
+    "end_year": "",
+    "start_time": "",
+    "end_time": "",
+    "type": "",
+    "range_text": "",
+    "description": ""
+  },
+  {
+    "event_name": "",
+    "start_day": "",
+    "start_month": "",
+    "start_year": "",
+    "end_day": "",
+    "end_month": "",
+    "end_year": "",
+    "start_time": "",
+    "end_time": "",
+    "type": "",
+    "range_text": "",
+    "description": ""
+  },
+  {
     "event_name": "",
     "start_day": "",
     "start_month": "",
