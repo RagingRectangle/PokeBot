@@ -1,18 +1,4 @@
 [
-    {
-    "event_name": "Research Breakthrough",
-    "start_day": "1",
-    "start_month": "March",
-    "start_year": "2021",
-    "end_day": "1",
-    "end_month": "April",
-    "end_year": "2021",
-    "start_time": "15:00",
-    "end_time": "15:00",
-    "type": "global",
-    "range_text": "Mar 1-Apr 1",
-    "description": "Gible <a:gible:814278723427631153><a:gibleS:814278752972308500>"
-  },
   {
     "event_name": "T5 Raids",
     "start_day": "1",
@@ -24,36 +10,8 @@
     "start_time": "15:00",
     "end_time": "22:00",
     "type": "global",
-    "range_text": "4/27-5/4: Incarnate Tornadus✨, Thundurus✨, Landorus✨",
-    "description": "5/4-5/18: Xerneas <a:xerneas:836289279319474267>\n-5/18-6/1: Yveltal <a:yveltal:836333016052793364>"
-  },
-  {
-    "event_name": "April Things",
-    "start_day": "1",
-    "start_month": "April",
-    "start_year": "2021",
-    "end_day": "1",
-    "end_month": "May",
-    "end_year": "2021",
-    "start_time": "15:00",
-    "end_time": "15:00",
-    "type": "global",
-    "range_text": "Apr 1-May 1",
-    "description": "Giovanni: Shadow Zapdos\n-Breakthrough: Male Frillish <a:frillish:824524085405024266>\n-<https://bit.ly/3cZogxO>"
-  },
-  {
-    "event_name": "Pokemon Snap 📷",
-    "start_day": "29",
-    "start_month": "April",
-    "start_year": "2021",
-    "end_day": "May",
-    "end_month": "2",
-    "end_year": "2021",
-    "start_time": "10:00",
-    "end_time": "20:00",
-    "type": "local",
-    "range_text": "Apr 29-May 2",
-    "description": "Shiny Smeargle snapshots <a:smeargleS:832011729570627585>"
+    "range_text": "5/4-5/18: Xerneas <a:xerneas:836289279319474267>",
+    "description": "5/18-6/1: Yveltal <a:yveltal:836333016052793364>"
   },
   {
     "event_name": "Luminous Legends X",
