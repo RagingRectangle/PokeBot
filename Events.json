@@ -25,7 +25,21 @@
     "end_time": "20:00",
     "type": "local",
     "range_text": "May 4-17",
-    "description": "Rainy Lure added\n-New: Spritzee <a:spritzee:836290177885274192><a:aromatisse:836290177604517899>, Swirlix <a:swirlix:836291105699135488><a:slurpuff:836291105267122216>, Goomy <a:goomy:836291596420382780><a:sliggoo:836291595925585921><a:goodra:836291596366250075>\n-Unlockable Rewards for May 11-17\n--3x catch XP, Pancham released <a:pancham:836292551253426176><a:pangoro:836292551874576425>, Shiny Galarian Ponyta <a:ponytaGS:836293014296723476><a:rapidashGS:836293014816817272>\n-<https://bit.ly/3vjMhan>"
+    "description": "Rainy Lure added\n-New: Spritzee <a:spritzee:836290177885274192><a:aromatisse:836290177604517899>, Swirlix <a:swirlix:836291105699135488><a:slurpuff:836291105267122216>, Goomy <a:goomy:836291596420382780><a:sliggoo:836291595925585921><a:goodra:836291596366250075>"
+  },
+  {
+    "event_name": "Luminous Bonus",
+    "start_day": "11",
+    "start_month": "May",
+    "start_year": "2021",
+    "end_day": "17",
+    "end_month": "May",
+    "end_year": "2021",
+    "start_time": "10:00",
+    "end_time": "20:00",
+    "type": "local",
+    "range_text": "May 11-17",
+    "description": "3x catch xp\n-Pancham released <a:pancham:836292551253426176><a:pangoro:836292551874576425>\n-Shiny Galarian Ponyta <a:ponytaGS:836293014296723476><a:rapidashGS:836293014816817272>\n-<https://bit.ly/3vjMhan>"
   },
   {
     "event_name": "May Things",
