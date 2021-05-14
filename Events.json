@@ -56,21 +56,21 @@
     "description": "Giovanni reward: Shadow Moltress\n-Breakthrough: Galarian Ponyta\n-<https://bit.ly/32R5Fzq>"
   },
   {
-    "event_name": "Dratini Spotlight Hour",
-    "start_day": "11",
+    "event_name": "Alolan Rattata <a:rattata_alola:633876987165016065><a:rattata_alola_shiny:633877034841538600> Spotlight Hour",
+    "start_day": "18",
     "start_month": "May",
     "start_year": "2021",
-    "end_day": "11",
+    "end_day": "18",
     "end_month": "May",
     "end_year": "2021",
     "start_time": "18:00",
     "end_time": "19:00",
     "type": "local",
-    "range_text": "May 1th 6-7pm",
-    "description": "2x transfer Candy"
+    "range_text": "May 18th 6-7pm",
+    "description": "2x evolve XP"
   },
   {
-    "event_name": "Spotlight Hours",
+    "event_name": "Marill <a:marill:836802506993696829><a:marillS:836802535717208085> Spotlight Hour",
     "start_day": "18",
     "start_month": "May",
     "start_year": "2021",
@@ -80,8 +80,8 @@
     "start_time": "18:00",
     "end_time": "19:00",
     "type": "local",
-    "range_text": "5/18: Alolan Rattata ✨ + 2x evolve XP",
-    "description": "5/25: Marill ✨ + 2x catch Stardust"
+    "range_text": "May 25th 6-7pm",
+    "description": "2x catch Stardust"
   },
   {
     "event_name": "Swablu <a:swablu:837378957023117313><a:swabluS:837378957060866058> Community Day 😒🤢🥱",
