@@ -7,11 +7,11 @@
     "end_day": "15",
     "end_month": "May",
     "end_year": "2021",
-    "start_time": "15:50",
-    "end_time": "16:50",
+    "start_time": "18:00",
+    "end_time": "20:00",
     "type": "local",
     "reroll": "",
-    "range_text": "15:50 - 16:50",
+    "range_text": "18:00 - 20:00",
     "description": "Test1 Text"
   },
   {
@@ -22,11 +22,11 @@
     "end_day": "15",
     "end_month": "May",
     "end_year": "2021",
-    "start_time": "16:50",
-    "end_time": "18:50",
+    "start_time": "12:00",
+    "end_time": "18:00",
     "type": "local",
     "reroll": "",
-    "range_text": "16:50 - 18:50",
+    "range_text": "12:00 - 18:00",
     "description": "Test2 Text"
   },
   {
@@ -37,11 +37,11 @@
     "end_day": "15",
     "end_month": "May",
     "end_year": "2021",
-    "start_time": "12:50",
-    "end_time": "16:50",
+    "start_time": "19:00",
+    "end_time": "21:00",
     "type": "local",
     "reroll": "",
-    "range_text": "12:50 - 16:50",
+    "range_text": "19:00 - 21:00",
     "description": "Test3 Text"
   },
   {
@@ -52,11 +52,11 @@
     "end_day": "15",
     "end_month": "May",
     "end_year": "2021",
-    "start_time": "10:50",
-    "end_time": "15:50",
+    "start_time": "18:00",
+    "end_time": "19:00",
     "type": "local",
     "reroll": "",
-    "range_text": "10:50 - 15:50",
+    "range_text": "18:00 - 19:00",
     "description": "Test4 Text"
   }
 ]
