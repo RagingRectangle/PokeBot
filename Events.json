@@ -84,18 +84,18 @@
     "description": "2x catch Stardust"
   },
   {
-    "event_name": "Swablu <a:swablu:837378957023117313><a:swabluS:837378957060866058> Community Day 😒🤢🥱",
-    "start_day": "15",
-    "start_month": "May",
+    "event_name": "Gible <a:gible:814278723427631153><a:gibleS:814278752972308500> Community Day",
+    "start_day": "6",
+    "start_month": "June",
     "start_year": "2021",
-    "end_day": "15",
-    "end_month": "May",
+    "end_day": "6",
+    "end_month": "June",
     "end_year": "2021",
     "start_time": "11:00",
     "end_time": "17:00",
     "type": "local",
-    "range_text": "May 15th 11-5pm",
-    "description": "Move: Moonblast\n-Bonus: 1/4 hatch distance"
+    "range_text": "June 6th 11-5pm",
+    "description": "Move/Bonus: TBA"
   },
   {
     "event_name": "Luminous Legends Y Pt 1",
