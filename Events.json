@@ -30,21 +30,6 @@
     "description": "Giovanni reward: Shadow Moltress\n-Breakthrough: Galarian Ponyta\n-<https://bit.ly/32R5Fzq>"
   },
   {
-    "event_name": "Alolan Rattata <a:rattata_alola:633876987165016065><a:rattata_alola_shiny:633877034841538600> Spotlight Hour",
-    "start_day": "18",
-    "start_month": "May",
-    "start_year": "2021",
-    "end_day": "18",
-    "end_month": "May",
-    "end_year": "2021",
-    "start_time": "18:00",
-    "end_time": "19:00",
-    "type": "local",
-    "reroll": "",
-    "range_text": "May 18th 6-7pm",
-    "description": "2x evolve XP"
-  },
-  {
     "event_name": "Marill <a:marill:836802506993696829><a:marillS:836802535717208085> Spotlight Hour",
     "start_day": "25",
     "start_month": "May",
@@ -72,7 +57,7 @@
     "type": "local",
     "reroll": "",
     "range_text": "June 6th 11-5pm",
-    "description": "Move/Bonus: TBA"
+    "description": "Move: Earth Power\n-Bonus: 3x catch XP"
   },
   {
     "event_name": "Luminous Legends Y Pt 1",
