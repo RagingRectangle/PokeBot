@@ -105,19 +105,19 @@
     "description": "3x catch XP\n-Shiny Galarian Zigzagoon <a:zigzagoonGS:841481427295535164><a:linooneGS:841481475975020604><a:obstagoonS:841481531595161621>\n-Sylveon released <a:sylveon:580910838202761227><a:sylveonS:841481898706599956>\n-<https://bit.ly/3hgKpvp>"
   },
   {
-    "event_name": "",
-    "start_day": "",
-    "start_month": "",
-    "start_year": "",
-    "end_day": "",
-    "end_month": "",
-    "end_year": "",
-    "start_time": "",
-    "end_time": "",
-    "type": "",
+    "event_name": "Special Weekend",
+    "start_day": "28",
+    "start_month": "May",
+    "start_year": "2021",
+    "end_day": "31",
+    "end_month": "May",
+    "end_year": "2021",
+    "start_time": "10:00",
+    "end_time": "10:00",
+    "type": "local",
     "reroll": "",
-    "range_text": "",
-    "description": ""
+    "range_text": "May 28-31",
+    "description": "Open 2x gifts\n-40 km trade distance"
   },
   {
     "event_name": "",
