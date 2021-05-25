@@ -11,6 +11,7 @@
     "end_time": "22:00",
     "type": "global",
     "reroll": "",
+    "shiny": "",
     "range_text": "5/18-6/1",
     "description": "Yveltal <a:yveltal:836333016052793364>"
   },
@@ -26,6 +27,7 @@
     "end_time": "15:00",
     "type": "global",
     "reroll": "yes",
+    "shiny": "abc",
     "range_text": "May 1-June 1",
     "description": "Giovanni reward: Shadow Moltress\n-Breakthrough: Galarian Ponyta\n-<https://bit.ly/32R5Fzq>"
   },
@@ -41,6 +43,7 @@
     "end_time": "19:00",
     "type": "local",
     "reroll": "",
+    "shiny": "abc,123,xyz",
     "range_text": "May 25th 6-7pm",
     "description": "2x catch Stardust"
   },
@@ -56,6 +59,7 @@
     "end_time": "17:00",
     "type": "local",
     "reroll": "",
+    "shiny": "",
     "range_text": "June 6th 11-5pm",
     "description": "Move: Earth Power\n-Bonus: 3x catch XP"
   },
@@ -71,6 +75,7 @@
     "end_time": "20:00",
     "type": "local",
     "reroll": "yes",
+    "shiny": "",
     "range_text": "May 18-24",
     "description": "Rocket Grunt changes\n-Increased Dark types\n-Other stuff <https://bit.ly/3hgKpvp>"
   },
@@ -86,6 +91,7 @@
     "end_time": "20:00",
     "type": "local",
     "reroll": "",
+    "shiny": "",
     "range_text": "May 25-31",
     "description": "3x catch XP\n-Shiny Galarian Zigzagoon <a:zigzagoonGS:841481427295535164><a:linooneGS:841481475975020604><a:obstagoonS:841481531595161621>\n-Sylveon released <a:sylveon:580910838202761227><a:sylveonS:841481898706599956>\n-<https://bit.ly/3hgKpvp>"
   },
@@ -101,6 +107,7 @@
     "end_time": "10:00",
     "type": "local",
     "reroll": "",
+    "shiny": "",
     "range_text": "May 28-31",
     "description": "Open 2x gifts\n-40 km trade distance"
   },
@@ -116,6 +123,7 @@
     "end_time": "",
     "type": "",
     "reroll": "",
+    "shiny": "",
     "range_text": "",
     "description": ""
   },
@@ -131,6 +139,7 @@
     "end_time": "",
     "type": "",
     "reroll": "",
+    "shiny": "",
     "range_text": "",
     "description": ""
   }
