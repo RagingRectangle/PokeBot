@@ -27,7 +27,7 @@
     "end_time": "15:00",
     "type": "global",
     "reroll": "yes",
-    "shiny": "abc",
+    "shiny": "",
     "range_text": "May 1-June 1",
     "description": "Giovanni reward: Shadow Moltress\n-Breakthrough: Galarian Ponyta\n-<https://bit.ly/32R5Fzq>"
   },
@@ -107,7 +107,7 @@
     "end_time": "18:00",
     "type": "local",
     "reroll": "",
-    "shiny": "Whismur,Chimecho,Audino,Tympole,Unown F,Throh,Sauk"
+    "shiny": "Whismur,Chimecho,Audino,Tympole,Unown F,Throh,Sauk",
     "range_text": "July 17-18 10am-6pm",
     "description": "New shinies: Whismur, Chimecho, Audino, Tympole, Unown F, Throh, Sauk\n-More info: <https://bit.ly/3yI4MYB>\n-Free vs ticket: <https://bit.ly/3fqKlrt>"
   },
