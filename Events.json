@@ -96,20 +96,20 @@
     "description": "Open 2x gifts\n-40 km trade distance"
   },
   {
-    "event_name": "",
-    "start_day": "",
-    "start_month": "",
-    "start_year": "",
-    "end_day": "",
-    "end_month": "",
-    "end_year": "",
-    "start_time": "",
-    "end_time": "",
-    "type": "",
+    "event_name": "GO Fest",
+    "start_day": "17",
+    "start_month": "July",
+    "start_year": "2021",
+    "end_day": "18",
+    "end_month": "July",
+    "end_year": "2021",
+    "start_time": "10:00",
+    "end_time": "18:00",
+    "type": "local",
     "reroll": "",
-    "shiny": "",
-    "range_text": "",
-    "description": ""
+    "shiny": "Whismur,Chimecho,Audino,Tympole,Unown F,Throh,Sauk"
+    "range_text": "July 17-18 10am-6pm",
+    "description": "New shinies: Whismur, Chimecho, Audino, Tympole, Unown F, Throh, Sauk\n-More info: <https://bit.ly/3yI4MYB>\n-Free vs ticket: <https://bit.ly/3fqKlrt>"
   },
   {
     "event_name": "",
