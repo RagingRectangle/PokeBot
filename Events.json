@@ -112,6 +112,22 @@
     "description": "Open 2x gifts\n-40 km trade distance"
   },
   {
+    "event_name": "Verizon Special Weekend",
+    "start_day": "29",
+    "start_month": "May",
+    "start_year": "2021",
+    "end_day": "30",
+    "end_month": "May",
+    "end_year": "2021",
+    "start_time": "0:00",
+    "end_time": "23:59",
+    "type": "local",
+    "reroll": "",
+    "shiny": "",
+    "range_text": "May 29-30",
+    "description": "Timed Research + Unown V from Incense"
+  },
+  {
     "event_name": "GO Fest",
     "start_day": "17",
     "start_month": "July",
