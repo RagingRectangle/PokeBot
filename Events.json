@@ -32,22 +32,6 @@
     "description": ""
   },
   {
-    "event_name": "May Things",
-    "start_day": "1",
-    "start_month": "May",
-    "start_year": "2021",
-    "end_day": "1",
-    "end_month": "June",
-    "end_year": "2021",
-    "start_time": "15:00",
-    "end_time": "15:00",
-    "type": "global",
-    "reroll": "",
-    "shiny": "",
-    "range_text": "May 1-June 1",
-    "description": "Giovanni reward: Shadow Moltress\n-Breakthrough: Galarian Ponyta\n-<https://bit.ly/32R5Fzq>"
-  },
-  {
     "event_name": "Gible <a:gible:814278723427631153><a:gibleS:814278752972308500> Community Day",
     "start_day": "6",
     "start_month": "June",
@@ -141,7 +125,7 @@
     "reroll": "yes",
     "shiny": "Slowpoke Galarian,Slowbro Galarian,Slowbro Mega",
     "range_text": "June 8-13",
-    "description": "New: Galarian Slowpoke/Slowbro + Slowbro Mega"
+    "description": "New: Galarian Slowpoke/Slowbro + Slowbro Mega\n-<https://bit.ly/3fC7Ttv>"
   },
   {
     "event_name": "Solstice Event",
