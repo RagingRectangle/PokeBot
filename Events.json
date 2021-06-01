@@ -12,8 +12,8 @@
     "type": "global",
     "reroll": "",
     "shiny": "",
-    "range_text": "5/18-6/1: Yveltal <a:yveltal:836333016052793364>",
-    "description": "6/1-6/17: Regirock, Regice, and Registeel\n-6/17-6/30: TBA"
+    "range_text": "6/1-6/17",
+    "description": "Regirock, Regice, and Registeel"
   },
   {
     "event_name": "Mega Raids",
@@ -42,7 +42,7 @@
     "start_time": "15:00",
     "end_time": "15:00",
     "type": "global",
-    "reroll": "yes",
+    "reroll": "",
     "shiny": "",
     "range_text": "May 1-June 1",
     "description": "Giovanni reward: Shadow Moltress\n-Breakthrough: Galarian Ponyta\n-<https://bit.ly/32R5Fzq>"
@@ -62,54 +62,6 @@
     "shiny": "",
     "range_text": "June 6th 11-5pm",
     "description": "Move: Earth Power\n-Bonus: 3x catch XP"
-  },
-  {
-    "event_name": "Luminous Legends Y Pt 2",
-    "start_day": "25",
-    "start_month": "May",
-    "start_year": "2021",
-    "end_day": "31",
-    "end_month": "May",
-    "end_year": "2021",
-    "start_time": "10:00",
-    "end_time": "20:00",
-    "type": "local",
-    "reroll": "yes",
-    "shiny": "",
-    "range_text": "May 25-31",
-    "description": "3x catch XP\n-Shiny Galarian Zigzagoon <a:zigzagoonGS:841481427295535164><a:linooneGS:841481475975020604><a:obstagoonS:841481531595161621>\n-Sylveon released <a:sylveon:580910838202761227><a:sylveonS:841481898706599956>\n-<https://bit.ly/3hgKpvp>"
-  },
-  {
-    "event_name": "Special Weekend",
-    "start_day": "28",
-    "start_month": "May",
-    "start_year": "2021",
-    "end_day": "31",
-    "end_month": "May",
-    "end_year": "2021",
-    "start_time": "12:00",
-    "end_time": "12:00",
-    "type": "local",
-    "reroll": "",
-    "shiny": "",
-    "range_text": "May 28-31",
-    "description": "Open 2x gifts\n-40 km trade distance"
-  },
-  {
-    "event_name": "Verizon Special Weekend",
-    "start_day": "29",
-    "start_month": "May",
-    "start_year": "2021",
-    "end_day": "30",
-    "end_month": "May",
-    "end_year": "2021",
-    "start_time": "0:00",
-    "end_time": "23:59",
-    "type": "local",
-    "reroll": "",
-    "shiny": "",
-    "range_text": "May 29-30",
-    "description": "Timed Research + Unown V <a:unownV:848025899081400371> from Incense\n-<https://bit.ly/3bZcsMs>"
   },
   {
     "event_name": "GO Fest",
@@ -138,7 +90,7 @@
     "start_time": "15:00",
     "end_time": "15:00",
     "type": "global",
-    "reroll": "yes",
+    "reroll": "",
     "shiny": "",
     "range_text": "Until 6/17: Giovanni w/ Shadow Zapdos",
     "description": "Research Breakthrough: Clamperl\n-<https://bit.ly/3cktMvB>"
