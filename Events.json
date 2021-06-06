@@ -13,7 +13,7 @@
     "reroll": "",
     "shiny": "",
     "range_text": "6/1-6/17",
-    "description": "Regirock, Regice, and Registeel"
+    "description": "Regirock✨, Regice✨, and Registeel✨"
   },
   {
     "event_name": "Mega Raids",
@@ -80,7 +80,7 @@
     "description": "Research Breakthrough: Clamperl\n-<https://bit.ly/3cktMvB>"
   },
   {
-    "event_name": "Abra Spotlight Hour",
+    "event_name": "Abra✨ Spotlight Hour",
     "start_day": "8",
     "start_month": "June",
     "start_year": "2021",
@@ -108,8 +108,8 @@
     "type": "local",
     "reroll": "",
     "shiny": "",
-    "range_text": "6/15: Slowpoke + 2x transfer Candy",
-    "description": "6/22: Swinub + 2x evolve XP\n-6/29: Aipom + 2x catch Stardust"
+    "range_text": "6/15: Slowpoke✨ + 2x transfer Candy",
+    "description": "6/22: Swinub✨ + 2x evolve XP\n-6/29: Aipom✨ + 2x catch Stardust"
   },
   {
     "event_name": "Very Slow Discovery",
@@ -138,7 +138,7 @@
     "start_time": "10:00",
     "end_time": "20:00",
     "type": "local",
-    "reroll": "",
+    "reroll": "yes",
     "shiny": "",
     "range_text": "June 17-20",
     "description": "Summer themed Pokemon"
