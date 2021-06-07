@@ -160,6 +160,22 @@
     "description": "<https://bit.ly/3p99w56>"
   },
   {
+    "event_name": "Raid Weekend",
+    "start_day": "12",
+    "start_month": "June",
+    "start_year": "2021",
+    "end_day": "13",
+    "end_month": "June",
+    "end_year": "2021",
+    "start_time": "10:00",
+    "end_time": "20:00",
+    "type": "local",
+    "reroll": "",
+    "shiny": "",
+    "range_text": "June 12-13",
+    "description": "2x catch Candy\n-3x chance for XL Candy (except for Legendary and evolved Pokemon because <:Nianshit:851561406817108019>)"
+  },
+  {
     "event_name": "",
     "start_day": "",
     "start_month": "",
