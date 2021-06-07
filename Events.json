@@ -4,7 +4,7 @@
     "start_day": "1",
     "start_month": "January",
     "start_year": "2021",
-    "end_day": "30",
+    "end_day": "17",
     "end_month": "June",
     "end_year": "2021",
     "start_time": "15:00",
@@ -30,22 +30,6 @@
     "shiny": "",
     "range_text": "",
     "description": ""
-  },
-  {
-    "event_name": "Gible <a:gible:814278723427631153><a:gibleS:814278752972308500> Community Day",
-    "start_day": "6",
-    "start_month": "June",
-    "start_year": "2021",
-    "end_day": "6",
-    "end_month": "June",
-    "end_year": "2021",
-    "start_time": "11:00",
-    "end_time": "17:00",
-    "type": "local",
-    "reroll": "",
-    "shiny": "",
-    "range_text": "June 6th 11-5pm",
-    "description": "Move: Earth Power\n-Bonus: 3x catch XP"
   },
   {
     "event_name": "GO Fest",
