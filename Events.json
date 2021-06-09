@@ -64,11 +64,11 @@
     "description": "Research Breakthrough: Clamperl\n-<https://bit.ly/3cktMvB>"
   },
   {
-    "event_name": "Abra✨ Spotlight Hour",
-    "start_day": "8",
+    "event_name": "Slowpoke✨ Spotlight Hour",
+    "start_day": "15",
     "start_month": "June",
     "start_year": "2021",
-    "end_day": "8",
+    "end_day": "15",
     "end_month": "June",
     "end_year": "2021",
     "start_time": "18:00",
@@ -76,12 +76,12 @@
     "type": "local",
     "reroll": "",
     "shiny": "",
-    "range_text": "June 8th 6-7pm",
-    "description": "2x catch Candy"
+    "range_text": "June 15th 6-7pm",
+    "description": "2x transfer Candy"
   },
   {
     "event_name": "Spotlight Hours",
-    "start_day": "15",
+    "start_day": "22",
     "start_month": "June",
     "start_year": "2021",
     "end_day": "29",
@@ -92,8 +92,8 @@
     "type": "local",
     "reroll": "",
     "shiny": "",
-    "range_text": "6/15: Slowpoke✨ + 2x transfer Candy",
-    "description": "6/22: Swinub✨ + 2x evolve XP\n-6/29: Aipom✨ + 2x catch Stardust"
+    "range_text": "6/22: Swinub✨ + 2x evolve XP\n-",
+    "description": "6/29: Aipom✨ + 2x catch Stardust"
   },
   {
     "event_name": "Very Slow Discovery",
