@@ -92,24 +92,8 @@
     "type": "local",
     "reroll": "",
     "shiny": "",
-    "range_text": "6/22: Swinub✨ + 2x evolve XP\n-",
+    "range_text": "6/22: Swinub✨ + 2x evolve XP",
     "description": "6/29: Aipom✨ + 2x catch Stardust"
-  },
-  {
-    "event_name": "Very Slow Discovery",
-    "start_day": "8",
-    "start_month": "June",
-    "start_year": "2021",
-    "end_day": "13",
-    "end_month": "June",
-    "end_year": "2021",
-    "start_time": "10:00",
-    "end_time": "20:00",
-    "type": "local",
-    "reroll": "yes",
-    "shiny": "Slowpoke Galarian,Slowbro Galarian,Slowbro Mega",
-    "range_text": "June 8-13",
-    "description": "New: Galarian Slowpoke/Slowbro + Slowbro Mega\n-<https://bit.ly/3fC7Ttv>"
   },
   {
     "event_name": "Solstice Event",
@@ -158,22 +142,6 @@
     "shiny": "",
     "range_text": "June 1-Sept 1",
     "description": "<https://bit.ly/3p99w56>"
-  },
-  {
-    "event_name": "Raid Weekend",
-    "start_day": "12",
-    "start_month": "June",
-    "start_year": "2021",
-    "end_day": "13",
-    "end_month": "June",
-    "end_year": "2021",
-    "start_time": "10:00",
-    "end_time": "20:00",
-    "type": "local",
-    "reroll": "",
-    "shiny": "",
-    "range_text": "June 12-13",
-    "description": "2x catch Candy\n-3x chance for XL Candy (except for Legendary and evolved Pokemon because <:Nianshit:851561406817108019>)"
   },
   {
     "event_name": "",
