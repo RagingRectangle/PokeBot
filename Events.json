@@ -13,7 +13,7 @@
     "reroll": "",
     "shiny": "",
     "range_text": "6/1-6/17",
-    "description": "Regirock✨, Regice✨, and Registeel✨"
+    "description": "Regirock✨, Regice✨, and Registeel✨\n-6/17-7/1: Regigigas✨"
   },
   {
     "event_name": "Mega Raids",
@@ -109,10 +109,10 @@
     "reroll": "yes",
     "shiny": "",
     "range_text": "June 17-20",
-    "description": "Summer themed Pokemon"
+    "description": "<https://bit.ly/3vtGQp4>"
   },
   {
-    "event_name": "???",
+    "event_name": "BIDOOOOF!!!",
     "start_day": "25",
     "start_month": "June",
     "start_year": "2021",
@@ -125,8 +125,7 @@
     "reroll": "",
     "shiny": "",
     "range_text": "June 25-July 1",
-    "description": "Shiny Bidoof???",
-    "temp": "released <a:bidoofS:854372853780447242><a:bibarelS:854372853235449866>"
+    "description": "Shiny Bidoof released <a:bidoofS:854372853780447242><a:bibarelS:854372853235449866>\n-25th-26th: Shadow Ball + 2x catch XP\n-27th-28th: Thunderbolt + 3x catch XP\n-29th-30th: Ice Beam + 4x catch XP"
   },
   {
     "event_name": "Season of Discovery",
