@@ -4,16 +4,16 @@
     "start_day": "1",
     "start_month": "January",
     "start_year": "2021",
-    "end_day": "17",
-    "end_month": "June",
+    "end_day": "1",
+    "end_month": "July",
     "end_year": "2021",
     "start_time": "15:00",
     "end_time": "10:00",
     "type": "global",
     "reroll": "",
     "shiny": "",
-    "range_text": "6/1-6/17",
-    "description": "Regirock✨, Regice✨, and Registeel✨\n-6/17-7/1: Regigigas✨"
+    "range_text": "6/17-7/1",
+    "description": "Shiny Regigigas released <a:regigigas:634076525435551764><a:regigigas_shiny:634076571665170433>"
   },
   {
     "event_name": "Mega Raids",
@@ -60,15 +60,15 @@
     "type": "global",
     "reroll": "",
     "shiny": "",
-    "range_text": "Until 6/17: Giovanni w/ Shadow Zapdos",
-    "description": "6/17-9/1: Giovanni w/ Shadow Ho-Oh\n-Research Breakthrough: Clamperl\n-<https://bit.ly/3cktMvB>"
+    "range_text": "6/17-9/1: Giovanni w/ Shadow Ho-Oh",
+    "description": "Research Breakthrough: Clamperl\n-<https://bit.ly/3cktMvB>"
   },
   {
-    "event_name": "Slowpoke✨ Spotlight Hour",
-    "start_day": "15",
+    "event_name": "Swinub✨ Spotlight Hour",
+    "start_day": "22",
     "start_month": "June",
     "start_year": "2021",
-    "end_day": "15",
+    "end_day": "22",
     "end_month": "June",
     "end_year": "2021",
     "start_time": "18:00",
@@ -76,12 +76,12 @@
     "type": "local",
     "reroll": "",
     "shiny": "",
-    "range_text": "June 15th 6-7pm",
-    "description": "2x transfer Candy"
+    "range_text": "June 22nd 6-7pm",
+    "description": "2x evolve XP"
   },
   {
-    "event_name": "Spotlight Hours",
-    "start_day": "22",
+    "event_name": "Aipom✨ Spotlight Hour",
+    "start_day": "29",
     "start_month": "June",
     "start_year": "2021",
     "end_day": "29",
@@ -92,8 +92,8 @@
     "type": "local",
     "reroll": "",
     "shiny": "",
-    "range_text": "6/22: Swinub✨ + 2x evolve XP",
-    "description": "6/29: Aipom✨ + 2x catch Stardust"
+    "range_text": "June 29th 6-7pm",
+    "description": "Aipom✨ + 2x catch Stardust"
   },
   {
     "event_name": "Solstice Event",
