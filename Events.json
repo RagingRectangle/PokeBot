@@ -90,7 +90,7 @@
     "start_time": "10:00",
     "end_time": "20:00",
     "type": "local",
-    "reroll": "",
+    "reroll": "yes",
     "shiny": "",
     "range_text": "June 25-July 1",
     "description": "Shiny Bidoof released <a:bidoofS:854372853780447242><a:bibarelS:854372853235449866>\n-25th-26th: Shadow Ball + 2x catch XP\n-27th-28th: Thunderbolt + 3x catch XP\n-29th-30th: Ice Beam + 4x catch XP"
