@@ -12,8 +12,8 @@
     "type": "global",
     "reroll": "",
     "shiny": "",
-    "range_text": "6/17-7/1",
-    "description": "Shiny Regigigas released <a:regigigas:634076525435551764><a:regigigas_shiny:634076571665170433>"
+    "range_text": "6/17-7/1: Shiny Regigigas released <a:regigigas:634076525435551764><a:regigigas_shiny:634076571665170433>",
+    "description": "7/1:7/16: Deoxys <a:deoxys:849072689192108063>\n-7/16-7/23: Mewtwo <a:mewtwo:811143450970816513><a:mewtwoS:811143319391698974>"
   },
   {
     "event_name": "Mega Raids",
@@ -60,8 +60,24 @@
     "type": "global",
     "reroll": "",
     "shiny": "",
-    "range_text": "6/17-9/1: Giovanni w/ Shadow Ho-Oh",
+    "range_text": "June 1st-July 1st",
     "description": "Research Breakthrough: Clamperl\n-<https://bit.ly/3cktMvB>"
+  },
+  {
+    "event_name": "July Things",
+    "start_day": "1",
+    "start_month": "July",
+    "start_year": "2021",
+    "end_day": "1",
+    "end_month": "August",
+    "end_year": "2021",
+    "start_time": "15:00",
+    "end_time": "15:00",
+    "type": "global",
+    "reroll": "",
+    "shiny": "",
+    "range_text": "Research Breakthrough: Rufflet",
+    "description": "7/1-7/16:\n-<https://bit.ly/2UQRrh3>"
   },
   {
     "event_name": "Aipom✨ Spotlight Hour",
@@ -126,6 +142,22 @@
     "shiny": "Tepig,Pignite,Emboar",
     "range_text": "July 3rd 11am-5pm",
     "description": "Move: Blast Burn\n-Bonus: 3x catch Stardust"
+  },
+  {
+    "event_name": "DOOF <:UnownB:562869089228423169> <:UnownI:562798642474385419> <:UnownD:562869089379549184> <:UnownO:562798641656365066> <:UnownO:562798641656365066> <:UnownF:562798643002867722>!",
+    "start_day": "1,
+    "start_month": "July
+    "start_year": "2021
+    "end_day": "1,
+    "end_month": "July",
+    "end_year": "2021",
+    "start_time": "10:00",
+    "end_time": "20:00",
+    "type": "local",
+    "reroll": "yes",
+    "shiny": "",
+    "range_text": "July 1st 10am-8pm",
+    "description": "Bidoof + 4x catch XP. Nuff said.\n<https://bit.ly/3w7VMJP>"
   },
   {
     "event_name": "",
