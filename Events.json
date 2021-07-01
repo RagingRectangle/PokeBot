@@ -80,20 +80,36 @@
     "description": "7/1-7/16:\n-<https://bit.ly/2UQRrh3>"
   },
   {
-    "event_name": "Aipom✨ Spotlight Hour",
-    "start_day": "29",
-    "start_month": "June",
+    "event_name": "Bulbasaur✨ Spotlight Hour",
+    "start_day": "6",
+    "start_month": "July",
     "start_year": "2021",
-    "end_day": "29",
-    "end_month": "June",
+    "end_day": "6",
+    "end_month": "July",
     "end_year": "2021",
     "start_time": "18:00",
     "end_time": "19:00",
     "type": "local",
     "reroll": "",
     "shiny": "",
-    "range_text": "June 29th 6-7pm",
-    "description": "Aipom✨ + 2x catch Stardust"
+    "range_text": "July 6th 6-7pm",
+    "description": "2x catch XP"
+  },
+  {
+    "event_name": "Spotlight Hours",
+    "start_day": "13",
+    "start_month": "July",
+    "start_year": "2021",
+    "end_day": "27",
+    "end_month": "July",
+    "end_year": "2021",
+    "start_time": "18:00",
+    "end_time": "19:00",
+    "type": "local",
+    "reroll": "",
+    "shiny": "",
+    "range_text": "July 13th: Charmander✨ + 2x catch Candy",
+    "description": "July 20th: Squirtle ✨ + 2x transfer Candy\n-July 27th: Natu ✨ + 2x evolve XP"
   },
   {
     "event_name": "BIDOOOOF!!!",
@@ -144,7 +160,7 @@
     "description": "Move: Blast Burn\n-Bonus: 3x catch Stardust"
   },
   {
-    "event_name": "DOOF <:UnownB:562869089228423169> <:UnownI:562798642474385419> <:UnownD:562869089379549184> <:UnownO:562798641656365066> <:UnownO:562798641656365066> <:UnownF:562798643002867722>!",
+    "event_name": "DOOF DOOOOOOOOF DAY!",
     "start_day": "1",
     "start_month": "July",
     "start_year": "2021",
