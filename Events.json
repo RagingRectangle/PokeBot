@@ -48,22 +48,6 @@
     "description": "New shinies: Whismur, Chimecho, Audino, Tympole, Unown F, Throh, Sawk\n-More info: <https://bit.ly/3yI4MYB>\n-Free vs ticket: <https://bit.ly/3fqKlrt>\n-Raid Day info: <https://bit.ly/3qovGRw>"
   },
   {
-    "event_name": "June Things",
-    "start_day": "1",
-    "start_month": "June",
-    "start_year": "2021",
-    "end_day": "1",
-    "end_month": "July",
-    "end_year": "2021",
-    "start_time": "15:00",
-    "end_time": "15:00",
-    "type": "global",
-    "reroll": "",
-    "shiny": "",
-    "range_text": "June 1st-July 1st",
-    "description": "Research Breakthrough: Clamperl\n-<https://bit.ly/3cktMvB>"
-  },
-  {
     "event_name": "July Things",
     "start_day": "1",
     "start_month": "July",
@@ -74,7 +58,7 @@
     "start_time": "15:00",
     "end_time": "15:00",
     "type": "global",
-    "reroll": "",
+    "reroll": "yes",
     "shiny": "",
     "range_text": "Research Breakthrough: Rufflet",
     "description": "<https://bit.ly/2UQRrh3>"
@@ -122,7 +106,7 @@
     "start_time": "10:00",
     "end_time": "20:00",
     "type": "local",
-    "reroll": "yes",
+    "reroll": "",
     "shiny": "",
     "range_text": "June 25-June 30",
     "description": "Shiny Bidoof released <a:bidoofS:854372853780447242><a:bibarelS:854372853235449866>\n-25th-26th: Shadow Ball + 2x catch XP\n-27th-28th: Thunderbolt + 3x catch XP\n-29th-30th: Ice Beam + 4x catch XP"
