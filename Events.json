@@ -128,22 +128,6 @@
     "description": "<https://bit.ly/3p99w56>"
   },
   {
-    "event_name": "Tepig <a:tepigS:856581962739613797><a:pigniteS:856581962910793739><a:emboarS:856581962751148093> Community Day",
-    "start_day": "3",
-    "start_month": "July",
-    "start_year": "2021",
-    "end_day": "3",
-    "end_month": "July",
-    "end_year": "2021",
-    "start_time": "11:00",
-    "end_time": "5:00",
-    "type": "local",
-    "reroll": "",
-    "shiny": "Tepig,Pignite,Emboar",
-    "range_text": "July 3rd 11am-5pm",
-    "description": "Move: Blast Burn\n-Bonus: 3x catch Stardust"
-  },
-  {
     "event_name": "DOOF DOOOOOOOOF DAY!",
     "start_day": "1",
     "start_month": "July",
