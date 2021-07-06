@@ -96,22 +96,6 @@
     "description": "July 20th: Squirtle ✨ + 2x transfer Candy\n-July 27th: Natu ✨ + 2x evolve XP"
   },
   {
-    "event_name": "BIDOOOOF!!!",
-    "start_day": "25",
-    "start_month": "June",
-    "start_year": "2021",
-    "end_day": "30",
-    "end_month": "June",
-    "end_year": "2021",
-    "start_time": "10:00",
-    "end_time": "20:00",
-    "type": "local",
-    "reroll": "",
-    "shiny": "",
-    "range_text": "June 25-June 30",
-    "description": "Shiny Bidoof released <a:bidoofS:854372853780447242><a:bibarelS:854372853235449866>\n-25th-26th: Shadow Ball + 2x catch XP\n-27th-28th: Thunderbolt + 3x catch XP\n-29th-30th: Ice Beam + 4x catch XP"
-  },
-  {
     "event_name": "Season of Discovery",
     "start_day": "1",
     "start_month": "June",
