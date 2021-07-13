@@ -64,11 +64,11 @@
     "description": "<https://bit.ly/2UQRrh3>"
   },
   {
-    "event_name": "Bulbasaur✨ Spotlight Hour",
-    "start_day": "6",
+    "event_name": "Charmander✨ Spotlight Hour",
+    "start_day": "13",
     "start_month": "July",
     "start_year": "2021",
-    "end_day": "6",
+    "end_day": "13",
     "end_month": "July",
     "end_year": "2021",
     "start_time": "18:00",
@@ -76,8 +76,8 @@
     "type": "local",
     "reroll": "",
     "shiny": "",
-    "range_text": "July 6th 6-7pm",
-    "description": "2x catch XP"
+    "range_text": "July 13th 6-7pm",
+    "description": "2x catch Candy"
   },
   {
     "event_name": "Spotlight Hours",
@@ -92,8 +92,8 @@
     "type": "local",
     "reroll": "",
     "shiny": "",
-    "range_text": "July 13th: Charmander✨ + 2x catch Candy",
-    "description": "July 20th: Squirtle ✨ + 2x transfer Candy\n-July 27th: Natu ✨ + 2x evolve XP"
+    "range_text": "July 20th: Squirtle ✨ + 2x transfer Candy",
+    "description": "July 27th: Natu ✨ + 2x evolve XP"
   },
   {
     "event_name": "Season of Discovery",
