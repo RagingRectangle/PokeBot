@@ -1,162 +1,209 @@
+Skip to content
+Search or jump to…
+
+Pull requests
+Issues
+Marketplace
+Explore
+ 
+@RagingRectangle 
+RagingRectangle
+/
+PokeBot
+0
+00
+Code
+Issues
+Pull requests
+Actions
+Projects
+Wiki
+Security
+Insights
+Settings
+PokeBot/Events.json
+@RagingRectangle
+RagingRectangle Update Events.json
+Latest commit 2d02f90 4 days ago
+ History
+ 1 contributor
+178 lines (178 sloc)  4.43 KB
+  
 [
-    {
-      "event_name": "T5 Raids",
-      "start_day": "1",
-      "start_month": "January",
-      "start_year": "2021",
-      "end_day": "20",
-      "end_month": "August",
-      "end_year": "2021",
-      "start_time": "15:00",
-      "end_time": "10:00",
-      "type": "global",
-      "reroll": "",
-      "shiny": "",
-      "range_text": "7/16-7/23: Mewtwo <a:mewtwo:811143450970816513><a:mewtwoS:811143319391698974>",
-      "description": "7/23-8/6: Dialga <a:dialga:867410454497329162><a:dialgaS:867410454447128596>\n-8/6-8/20: Palkia <a:palkia:867410041170559017>"
-    },
-    {
-      "event_name": "Mega Raids",
-      "start_day": "",
-      "start_month": "",
-      "start_year": "",
-      "end_day": "",
-      "end_month": "",
-      "end_year": "",
-      "start_time": "",
-      "end_time": "",
-      "type": "",
-      "reroll": "",
-      "shiny": "",
-      "range_text": "",
-      "description": ""
-    },
-    {
-      "event_name": "July Things",
-      "start_day": "1",
-      "start_month": "July",
-      "start_year": "2021",
-      "end_day": "1",
-      "end_month": "August",
-      "end_year": "2021",
-      "start_time": "15:00",
-      "end_time": "15:00",
-      "type": "global",
-      "reroll": "yes",
-      "shiny": "",
-      "range_text": "Research Breakthrough: Rufflet",
-      "description": "<https://bit.ly/2UQRrh3>"
-    },
-    {
-      "event_name": "Natu✨ Spotlight Hour",
-      "start_day": "27",
-      "start_month": "July",
-      "start_year": "2021",
-      "end_day": "27",
-      "end_month": "July",
-      "end_year": "2021",
-      "start_time": "18:00",
-      "end_time": "19:00",
-      "type": "local",
-      "reroll": "",
-      "shiny": "",
-      "range_text": "2x evolve XP",
-      "description": "July 27th 6-7pm"
-    },
-    {
-      "event_name": "Season of Discovery",
-      "start_day": "1",
-      "start_month": "June",
-      "start_year": "2021",
-      "end_day": "1",
-      "end_month": "September",
-      "end_year": "1",
-      "start_time": "10:00",
-      "end_time": "10:00",
-      "type": "local",
-      "reroll": "yes",
-      "shiny": "",
-      "range_text": "June 1-Sept 1",
-      "description": "<https://bit.ly/3p99w56>"
-    },
-    {
-      "event_name": "Ultra Unlock 1",
-      "start_day": "23",
-      "start_month": "July",
-      "start_year": "2021",
-      "end_day": "3",
-      "end_month": "August",
-      "end_year": "2021",
-      "start_time": "10:00",
-      "end_time": "20:00",
-      "type": "local",
-      "reroll": "yes",
-      "shiny": "Dialga,Unown U,Cranidos,Rampardos,Shieldon,Bastiodon",
-      "range_text": "July 23rd-Aug 3rd",
-      "description": "Shiny Unown U <a:unown_uS:867417660525903943>\n-Shiny Cranidos <a:cranidos_shiny:583794697236119574><a:rampardos_shiny:583794722699739145>\n-Shiny Shieldon <a:shieldon_shiny:583794741787885599><a:bastiodon_shiny:583794757571182593>\n-<https://bit.ly/3wPLQoA>"
-    },
-    {
-      "event_name": "Ultra Unlock 2",
-      "start_day": "6",
-      "start_month": "August",
-      "start_year": "2021",
-      "end_day": "17",
-      "end_month": "August",
-      "end_year": "2021",
-      "start_time": "10:00",
-      "end_time": "20:00",
-      "type": "local",
-      "reroll": "yes",
-      "shiny": "Kangaskhan,Heracross",
-      "range_text": "Aug 6th-Aug 17th",
-      "description": "Shiny Unown U <a:unown_uS:867417660525903943>\n-Shiny Kangaskhan <a:kang_shiny:613594238764056599>\n-Shiny Heracross <a:heracrossS:867427864135598080>\n-<https://bit.ly/3wPLQoA>"
-    },
-    {
-      "event_name": "",
-      "start_day": "",
-      "start_month": "",
-      "start_year": "",
-      "end_day": "",
-      "end_month": "",
-      "end_year": "",
-      "start_time": "",
-      "end_time": "",
-      "type": "",
-      "reroll": "",
-      "shiny": "",
-      "range_text": "",
-      "description": ""
-    },
-    {
-      "event_name": "",
-      "start_day": "",
-      "start_month": "",
-      "start_year": "",
-      "end_day": "",
-      "end_month": "",
-      "end_year": "",
-      "start_time": "",
-      "end_time": "",
-      "type": "",
-      "reroll": "",
-      "shiny": "",
-      "range_text": "",
-      "description": ""
-    },
-    {
-      "event_name": "",
-      "start_day": "",
-      "start_month": "",
-      "start_year": "",
-      "end_day": "",
-      "end_month": "",
-      "end_year": "",
-      "start_time": "",
-      "end_time": "",
-      "type": "",
-      "reroll": "",
-      "shiny": "",
-      "range_text": "",
-      "description": ""
-    }
-  ]
+  {
+    "event_name": "T5 Raids",
+    "start_day": "1",
+    "start_month": "January",
+    "start_year": "2021",
+    "end_day": "1",
+    "end_month": "August",
+    "end_year": "2021",
+    "start_time": "15:00",
+    "end_time": "22:00",
+    "type": "global",
+    "reroll": "",
+    "shiny": "",
+    "range_text": "7/16-7/23",
+    "description": "Mewtwo <a:mewtwo:811143450970816513><a:mewtwoS:811143319391698974>"
+  },
+  {
+    "event_name": "Mega Raids",
+    "start_day": "",
+    "start_month": "",
+    "start_year": "",
+    "end_day": "",
+    "end_month": "",
+    "end_year": "",
+    "start_time": "",
+    "end_time": "",
+    "type": "",
+    "reroll": "",
+    "shiny": "",
+    "range_text": "",
+    "description": ""
+  },
+  {
+    "event_name": "GO Fest",
+    "start_day": "17",
+    "start_month": "July",
+    "start_year": "2021",
+    "end_day": "18",
+    "end_month": "July",
+    "end_year": "2021",
+    "start_time": "10:00",
+    "end_time": "18:00",
+    "type": "local",
+    "reroll": "",
+    "shiny": "Whismur,Chimecho,Audino,Tympole,Unown F,Throh,Sauk",
+    "range_text": "July 17-18 10am-6pm",
+    "description": "New shinies: Whismur, Chimecho, Audino, Tympole, Unown F, Throh, Sawk\n-More info: <https://bit.ly/3yI4MYB>\n-Free vs ticket: <https://bit.ly/3fqKlrt>\n-Raid Day info: <https://bit.ly/3qovGRw>"
+  },
+  {
+    "event_name": "July Things",
+    "start_day": "1",
+    "start_month": "July",
+    "start_year": "2021",
+    "end_day": "1",
+    "end_month": "August",
+    "end_year": "2021",
+    "start_time": "15:00",
+    "end_time": "15:00",
+    "type": "global",
+    "reroll": "yes",
+    "shiny": "",
+    "range_text": "Research Breakthrough: Rufflet",
+    "description": "<https://bit.ly/2UQRrh3>"
+  },
+  {
+    "event_name": "Squirtle✨ Spotlight Hour",
+    "start_day": "20",
+    "start_month": "July",
+    "start_year": "2021",
+    "end_day": "20",
+    "end_month": "July",
+    "end_year": "2021",
+    "start_time": "18:00",
+    "end_time": "19:00",
+    "type": "local",
+    "reroll": "",
+    "shiny": "",
+    "range_text": "July 20th 6-7pm",
+    "description": "2x transfer Candy"
+  },
+  {
+    "event_name": "Natu✨ Spotlight Hour",
+    "start_day": "27",
+    "start_month": "July",
+    "start_year": "2021",
+    "end_day": "27",
+    "end_month": "July",
+    "end_year": "2021",
+    "start_time": "18:00",
+    "end_time": "19:00",
+    "type": "local",
+    "reroll": "",
+    "shiny": "",
+    "range_text": "2x evolve XP",
+    "description": "July 27th 6-7pm"
+  },
+  {
+    "event_name": "Season of Discovery",
+    "start_day": "1",
+    "start_month": "June",
+    "start_year": "2021",
+    "end_day": "1",
+    "end_month": "September",
+    "end_year": "1",
+    "start_time": "10:00",
+    "end_time": "10:00",
+    "type": "local",
+    "reroll": "yes",
+    "shiny": "",
+    "range_text": "June 1-Sept 1",
+    "description": "<https://bit.ly/3p99w56>"
+  },
+  {
+    "event_name": "5th Anniversary",
+    "start_day": "6",
+    "start_month": "July",
+    "start_year": "2021",
+    "end_day": "15",
+    "end_month": "July",
+    "end_year": "2021",
+    "start_time": "10:00",
+    "end_time": "20:00",
+    "type": "local",
+    "reroll": "yes",
+    "shiny": "Darumaka,Darmanitan",
+    "range_text": "July 6-15",
+    "description": "Shiny Darumaka released <a:darumakaS:861656178832572426><a:darmanitanS:861656178723782667>\n-Shiny Meltan <:meltanS:777965152182992898><:melmetalS:777965152741752893>\n-Collection Challenges + Special Research\n-<https://bit.ly/3qMjlXv>"
+  },
+  {
+    "event_name": "",
+    "start_day": "",
+    "start_month": "",
+    "start_year": "",
+    "end_day": "",
+    "end_month": "",
+    "end_year": "",
+    "start_time": "",
+    "end_time": "",
+    "type": "",
+    "reroll": "",
+    "shiny": "",
+    "range_text": "",
+    "description": ""
+  },
+  {
+    "event_name": "",
+    "start_day": "",
+    "start_month": "",
+    "start_year": "",
+    "end_day": "",
+    "end_month": "",
+    "end_year": "",
+    "start_time": "",
+    "end_time": "",
+    "type": "",
+    "reroll": "",
+    "shiny": "",
+    "range_text": "",
+    "description": ""
+  },
+  {
+    "event_name": "",
+    "start_day": "",
+    "start_month": "",
+    "start_year": "",
+    "end_day": "",
+    "end_month": "",
+    "end_year": "",
+    "start_time": "",
+    "end_time": "",
+    "type": "",
+    "reroll": "",
+    "shiny": "",
+    "range_text": "",
+    "description": ""
+  }
+]
