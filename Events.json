@@ -4,16 +4,16 @@
     "start_day": "1",
     "start_month": "January",
     "start_year": "2021",
-    "end_day": "6",
+    "end_day": "20",
     "end_month": "August",
     "end_year": "2021",
     "start_time": "15:00",
-    "end_time": "22:00",
+    "end_time": "10:00",
     "type": "global",
     "reroll": "",
     "shiny": "",
     "range_text": "7/16-7/23: Mewtwo <a:mewtwo:811143450970816513><a:mewtwoS:811143319391698974>",
-    "description": "7/23-8/6: Dialga <a:dialga:867410454497329162><a:dialgaS:867410454447128596>"
+    "description": "7/23-8/6: Dialga <a:dialga:867410454497329162><a:dialgaS:867410454447128596>\n-8/6-8/20: Palkia <a:palkia:867410041170559017>"
   },
   {
     "event_name": "Mega Raids",
@@ -91,25 +91,25 @@
     "end_time": "20:00",
     "type": "local",
     "reroll": "yes",
-    "shiny": "Dialga,Unown U,",
+    "shiny": "Dialga,Unown U,Cranidos,Rampardos,Shieldon,Bastiodon",
     "range_text": "July 23rd-Aug 3rd",
-    "description": "Shiny Unown U <a:unown_uS:867417660525903943>\n-Shiny Cranidos <a:cranidos_shiny:583794697236119574><a:rampardos_shiny:583794722699739145>\n-Shiny Shieldon <a:shieldon_shiny:583794741787885599><a:bastiodon_shiny:583794757571182593>\n-<https://bit.ly/3wX3NBw>"
+    "description": "Shiny Unown U <a:unown_uS:867417660525903943>\n-Shiny Cranidos <a:cranidos_shiny:583794697236119574><a:rampardos_shiny:583794722699739145>\n-Shiny Shieldon <a:shieldon_shiny:583794741787885599><a:bastiodon_shiny:583794757571182593>\n-<https://bit.ly/3wPLQoA>"
   },
   {
-    "event_name": "",
-    "start_day": "",
-    "start_month": "",
-    "start_year": "",
-    "end_day": "",
-    "end_month": "",
-    "end_year": "",
-    "start_time": "",
-    "end_time": "",
-    "type": "",
-    "reroll": "",
-    "shiny": "",
-    "range_text": "",
-    "description": ""
+    "event_name": "Ultra Unlock 2",
+    "start_day": "6",
+    "start_month": "August",
+    "start_year": "2021",
+    "end_day": "17",
+    "end_month": "August",
+    "end_year": "2021",
+    "start_time": "10:00",
+    "end_time": "20:00",
+    "type": "local",
+    "reroll": "yes
+    "shiny": "Kangaskhan,Heracross"
+    "range_text": "Aug 6th-Aug 17th"
+    "description": "Shiny Unown U <a:unown_uS:867417660525903943>\n-Shiny Kangaskhan <a:kang_shiny:613594238764056599>\n-Shiny Heracross <a:heracrossS:867427864135598080>\n-<https://bit.ly/3wPLQoA>"
   },
   {
     "event_name": "",
