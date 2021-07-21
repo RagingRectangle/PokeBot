@@ -1,34 +1,3 @@
-Skip to content
-Search or jump to…
-
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@RagingRectangle 
-RagingRectangle
-/
-PokeBot
-0
-00
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-Settings
-PokeBot/Events.json
-@RagingRectangle
-RagingRectangle Update Events.json
-Latest commit 2d02f90 4 days ago
- History
- 1 contributor
-178 lines (178 sloc)  4.43 KB
-  
 [
   {
     "event_name": "T5 Raids",
