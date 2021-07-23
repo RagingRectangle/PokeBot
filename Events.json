@@ -125,23 +125,23 @@
     "reroll": "no",
     "shiny": "",
     "range_text": "Aug 13th-16th",
-    "description": "Evolve for special moves:\n⠀-Vaporeon: Scald\n⠀-Joleton: Zap Cannon\n⠀-Flareon: Superpower\n⠀-Espeon: Shadow Ball\n⠀-Umbreon: Psychic\n⠀-Leafeon: Bullet Seed\n⠀-Glaceon: Water Pulse\n⠀-Sylveon: Psyshock\n-<https://bit.ly/3iD8TOv>"
+    "description": "Evolve for special moves:\n⠀→Vaporeon: Scald\n⠀→Joleton: Zap Cannon\n⠀→Flareon: Superpower\n⠀→Espeon: Shadow Ball\n⠀→Umbreon: Psychic\n⠀→Leafeon: Bullet Seed\n⠀→Glaceon: Water Pulse\n⠀→Sylveon: Psyshock\n-<https://bit.ly/3iD8TOv>"
   },
   {
-    "event_name": "",
-    "start_day": "",
-    "start_month": "",
-    "start_year": "",
-    "end_day": "",
-    "end_month": "",
-    "end_year": "",
-    "start_time": "",
-    "end_time": "",
-    "type": "",
+    "event_name": "Eevee <a:eeveeS:811269705012084736> Community Days",
+    "start_day": "14",
+    "start_month": "August",
+    "start_year": "2021",
+    "end_day": "15",
+    "end_month": "August",
+    "end_year": "2021",
+    "start_time": "11:00",
+    "end_time": "17:00",
+    "type": "local",
     "reroll": "",
     "shiny": "",
-    "range_text": "",
-    "description": ""
+    "range_text": "Aug 14th/15th from 11am-5pm",
+    "description": "1/4th Egg distance\n-<a:vaporeon:580910673433722881><a:jolteon:580910700818464789><a:flareon:580910719973982208><a:espeon:580910745294995477><a:umbreon:580910773400764418><a:leafeon:580910799850176523><a:glaceon:580910817424310292><a:sylveon:580910838202761227>"
   },
   {
     "event_name": "",
