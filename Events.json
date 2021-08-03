@@ -13,7 +13,7 @@
       "reroll": "",
       "shiny": "",
       "range_text": "7/23-8/6: Dialga <a:dialga:867410454497329162><a:dialgaS:867410454447128596>",
-      "description": "8/6-8/20: Palkia <a:palkia:867410041170559017><a:palkiaS:867410041282494534>"
+      "description": "8/6-8/20: Palkia <a:palkia:867410041170559017><a:palkiaS:867410041282494534>\n-8/20-8/26: Zacian <a:zacian:872174158635753532>\n-8/26-8/31: Zamazenta <a:zamazenta:694952004103176254>"
     },
   {
     "event_name": "Mega Raids",
@@ -80,20 +80,20 @@
     "description": "8/17: Shellow West + 2x catch Candy\n-8/24: ??? + 2x transfer Candy\n-8/31: ??? + 2x evolve XP"
   },
   {
-    "event_name": "",
-    "start_day": "",
-    "start_month": "",
-    "start_year": "",
-    "end_day": "",
-    "end_month": "",
-    "end_year": "",
-    "start_time": "",
-    "end_time": "",
-    "type": "",
-    "reroll": "",
+    "event_name": "Ultra Unlock 3",
+    "start_day": "20",
+    "start_month": "August",
+    "start_year": "2021",
+    "end_day": "31",
+    "end_month": "August",
+    "end_year": "2021",
+    "start_time": "10:00",
+    "end_time": "20:00",
+    "type": "local",
+    "reroll": "yes",
     "shiny": "",
-    "range_text": "",
-    "description": ""
+    "range_text": "Aug 20th-31th",
+    "description": "New Galar Shinies: Meowth, Farfetch’d, Weezing, & Stunfisk\n-New releases: Skwovet, Wooloo, & Falinks\n-<https://bit.ly/3jzSpXZ>"
   },
   {
     "event_name": "",
