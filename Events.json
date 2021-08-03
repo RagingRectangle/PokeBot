@@ -12,8 +12,8 @@
       "type": "global",
       "reroll": "",
       "shiny": "",
-      "range_text": "7/23-8/6: Dialga <a:dialga:867410454497329162>✨",
-      "description": "8/6-8/20: Palkia <a:palkia:867410041170559017>✨\n-8/20-8/26: Zacian <a:zacian:872174158635753532>\n-8/26-8/31: Zamazenta <a:zamazenta:694952004103176254>\n-Don't spend money on raid passes "
+      "range_text": "7/23-8/6: Dialga✨",
+      "description": "8/6-8/20: Palkia✨\n-8/20-8/26: Zacian <a:zacian:872174158635753532>\n-8/26-8/31: Zamazenta <a:zamazenta:694952004103176254>\n-Don't spend money on raid passes "
     },
   {
     "event_name": "Mega Raids",
@@ -157,7 +157,7 @@
       "reroll": "yes",
       "shiny": "Dialga,Unown U,Cranidos,Rampardos,Shieldon,Bastiodon",
       "range_text": "July 23rd-Aug 3rd",
-      "description": "Shiny Unown U <a:unown_uS:867417660525903943>\n-Shiny Cranidos + Shieldon\n-<https://bit.ly/3wPLQoA>"
+      "description": "Shiny Unown U\n-Shiny Cranidos + Shieldon\n-<https://bit.ly/3wPLQoA>"
   },
   {
       "event_name": "Ultra Unlock 2",
@@ -173,7 +173,7 @@
       "reroll": "yes",
       "shiny": "Kangaskhan,Heracross",
       "range_text": "Aug 6th-17th",
-      "description": "Shiny Unown U <a:unown_uS:867417660525903943>\n-Shiny Kangaskhan <a:kang_shiny:613594238764056599>\n-Shiny Heracross <a:heracrossS:867427864135598080>\n-<https://bit.ly/3wPLQoA>"
+      "description": "Shiny Unown U\n-Shiny Kangaskhan <a:kang_shiny:613594238764056599>\n-Shiny Heracross <a:heracrossS:867427864135598080>\n-<https://bit.ly/3wPLQoA>"
   },
   {
     "event_name": "Eevee Weekend",
