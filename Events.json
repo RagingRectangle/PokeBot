@@ -48,11 +48,11 @@
     "description": "<https://bit.ly/3fkpfdV>"
   },
   {
-    "event_name": "Magnemite✨ Spotlight Hour",
-    "start_day": "3",
+    "event_name": "Shellos East Spotlight Hour",
+    "start_day": "10",
     "start_month": "August",
     "start_year": "2021",
-    "end_day": "3",
+    "end_day": "10",
     "end_month": "August",
     "end_year": "2021",
     "start_time": "18:00",
@@ -60,12 +60,12 @@
     "type": "local",
     "reroll": "",
     "shiny": "",
-    "range_text": "Aug 3rd 6-7pm",
-    "description": "2x catch Stardust"
+    "range_text": "Aug 10th 6-7pm",
+    "description": "2x catch XP"
   },
   {
     "event_name": "Spotlight Hours",
-    "start_day": "10",
+    "start_day": "17",
     "start_month": "August",
     "start_year": "2021",
     "end_day": "31",
@@ -76,8 +76,8 @@
     "type": "local",
     "reroll": "",
     "shiny": "",
-    "range_text": "8/10: Shellos East + 2x catch XP",
-    "description": "8/17: Shellow West + 2x catch Candy\n-8/24: ??? + 2x transfer Candy\n-8/31: ??? + 2x evolve XP"
+    "range_text": "8/17: Shellow West + 2x catch Candy",
+    "description": "8/24: ??? + 2x transfer Candy\n-8/31: ??? + 2x evolve XP"
   },
   {
     "event_name": "Ultra Unlock 3",
