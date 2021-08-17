@@ -65,7 +65,7 @@
   },
   {
     "event_name": "Spotlight Hours",
-    "start_day": "17",
+    "start_day": "24",
     "start_month": "August",
     "start_year": "2021",
     "end_day": "31",
@@ -158,38 +158,6 @@
       "shiny": "Kangaskhan,Heracross",
       "range_text": "Aug 6th-17th",
       "description": "Shiny Unown U\n-Shiny Kangaskhan <a:kang_shiny:613594238764056599>\n-Shiny Heracross <a:heracrossS:867427864135598080>\n-<https://bit.ly/3wPLQoA>"
-  },
-  {
-    "event_name": "Eevee Weekend",
-    "start_day": "13",
-    "start_month": "August",
-    "start_year": "2021",
-    "end_day": "16",
-    "end_month": "August",
-    "end_year": "2021",
-    "start_time": "12:00",
-    "end_time": "12:00",
-    "type": "local",
-    "reroll": "no",
-    "shiny": "",
-    "range_text": "Aug 13th-16th",
-    "description": "Evolve for special moves:\n⠀→Vaporeon: Scald\n⠀→Joleton: Zap Cannon\n⠀→Flareon: Superpower\n⠀→Espeon: Shadow Ball\n⠀→Umbreon: Psychic\n⠀→Leafeon: Bullet Seed\n⠀→Glaceon: Water Pulse\n⠀→Sylveon: Psyshock\n-<https://bit.ly/3iD8TOv>"
-  },
-  {
-    "event_name": "Eevee <a:eeveeS:811269705012084736> Community Days",
-    "start_day": "14",
-    "start_month": "August",
-    "start_year": "2021",
-    "end_day": "15",
-    "end_month": "August",
-    "end_year": "2021",
-    "start_time": "11:00",
-    "end_time": "17:00",
-    "type": "local",
-    "reroll": "",
-    "shiny": "",
-    "range_text": "Aug 14th/15th from 11am-5pm",
-    "description": "1/4th Egg distance\n-<a:vaporeonS:867997546042261554><a:jolteonS:867997566065856532><a:flareonS:867997584655024208><a:espeonS:867997602870882354><a:umbreonS:867997631337607188><a:leafeonS:867997646843940886><a:glaceon_shiny:655589101864747061><a:sylveonS:841481898706599956>"
   },
   {
     "event_name": "",
