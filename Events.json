@@ -170,7 +170,7 @@
     "start_time": "10:00",
     "end_time": "10:00",
     "type": "local",
-    "reroll": "yes",
+    "reroll": "no",
     "shiny": "",
     "range_text": "June 1-Sept 1",
     "description": "<https://bit.ly/3p99w56>"
