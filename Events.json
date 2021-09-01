@@ -112,22 +112,6 @@
     "description": "9/21: Skitty✨ + 2x catch Candy\n-9/28: Alolan Meowth✨ + 2x transfer Candy"
   },
   {
-    "event_name": "Ultra Unlock 3",
-    "start_day": "20",
-    "start_month": "August",
-    "start_year": "2021",
-    "end_day": "31",
-    "end_month": "August",
-    "end_year": "2021",
-    "start_time": "10:00",
-    "end_time": "20:00",
-    "type": "local",
-    "reroll": "yes",
-    "shiny": "",
-    "range_text": "Aug 20th-31st",
-    "description": "New Galar Shinies: Meowth, Farfetch’d, Weezing, & Stunfisk\n-New: Skwovet, Wooloo, & Falinks\n-<https://bit.ly/3jzSpXZ>"
-  },
-  {
     "event_name": "Oshawott <a:oshawottS:878324098802016326><a:dewottS:878324098843938836><a:samurottS:878324099309522944> Community Day",
     "start_day": "19",
     "start_month": "September",
@@ -158,22 +142,6 @@
     "shiny": "",
     "range_text": "Sept 5th 11-5pm",
     "description": "<https://bit.ly/2UYPVtR>"
-  },
-  {
-    "event_name": "Season of Discovery",
-    "start_day": "1",
-    "start_month": "June",
-    "start_year": "2021",
-    "end_day": "1",
-    "end_month": "September",
-    "end_year": "1",
-    "start_time": "10:00",
-    "end_time": "10:00",
-    "type": "local",
-    "reroll": "no",
-    "shiny": "",
-    "range_text": "June 1-Sept 1",
-    "description": "<https://bit.ly/3p99w56>"
   },
   {
     "event_name": "Psychic Spectacular",
