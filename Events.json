@@ -48,23 +48,6 @@
     "description": "Ditto✨"
   },
   {
-    "event_name": "Spoink✨ Spotlight",
-    "start_day": "7",
-    "start_month": "September",
-    "start_year": "2021",
-    "end_day": "7",
-    "end_month": "September",
-    "end_year": "2021",
-    "start_time": "18:00",
-    "end_time": "19:00",
-    "type": "local",
-    "reroll": "no",
-    "shiny": "",
-    "range_text": "Sept 7th 6-7pm",
-    "description": "2x catch Stardust"
-  },
-  
-  {
     "event_name": "Baltoy✨ Spotlight",
     "start_day": "14",
     "start_month": "September",
