@@ -96,6 +96,22 @@
     "description": "Bonus: 3x catch XP\n-Move: Hydro Cannon"
   },
   {
+    "event_name": "Duskull <a:duskullS:763953164453150720> Community Day",
+    "start_day": "9",
+    "start_month": "October",
+    "start_year": "2021",
+    "end_day": "9",
+    "end_month": "October",
+    "end_year": "2021",
+    "start_time": "11:00",
+    "end_time": "17:00",
+    "type": "local",
+    "reroll": "no",
+    "shiny": "",
+    "range_text": "Oct 9th 11am-5pm",
+    "description": "Bonus: 3x catch Stardust\n-Move: Shadow Ball"
+  },
+  {
     "event_name": "Hoopa's Arrival",
     "start_day": "5",
     "start_month": "September",
