@@ -112,38 +112,6 @@
     "description": "Bonus: 3x catch Stardust\n-Move: Shadow Ball"
   },
   {
-    "event_name": "Hoopa's Arrival",
-    "start_day": "5",
-    "start_month": "September",
-    "start_year": "2021",
-    "end_day": "5",
-    "end_month": "September",
-    "end_year": "2021",
-    "start_time": "11:00",
-    "end_time": "17:00",
-    "type": "local",
-    "reroll": "no",
-    "shiny": "",
-    "range_text": "Sept 5th 11-5pm",
-    "description": "<:psychic:792673678725742592> Hours: 11-12, 1-2, 3-4\n-<:ghost:792673678911471646><:dark:792673678553907223> Hours: 12-1, 2-3, 4-5\n-<https://bit.ly/2UYPVtR>"
-  },
-  {
-    "event_name": "Psychic Spectacular",
-    "start_day": "8",
-    "start_month": "September",
-    "start_year": "2021",
-    "end_day": "13",
-    "end_month": "September",
-    "end_year": "2021",
-    "start_time": "10:00",
-    "end_time": "20:00",
-    "type": "local",
-    "reroll": "yes",
-    "shiny": "",
-    "range_text": "Sept 8th-13th",
-    "description": "Inkay released\n-<https://bit.ly/2Y2L2AV>"
-  },
-  {
     "event_name": "Fashion Week",
     "start_day": "21",
     "start_month": "September",
@@ -157,7 +125,7 @@
     "reroll": "yes",
     "shiny": "",
     "range_text": "Sept 21st-28th",
-    "description": "<https://bit.ly/3zuiZsa>"
+    "description": "Furfrou released\n-<https://bit.ly/3zuiZsa>"
   },
   {
     "event_name": "",
