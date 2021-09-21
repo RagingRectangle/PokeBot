@@ -48,11 +48,11 @@
     "description": "Ditto✨"
   },
   {
-    "event_name": "Baltoy✨ Spotlight",
-    "start_day": "14",
+    "event_name": "Skitty✨ Spotlight Hour",
+    "start_day": "21",
     "start_month": "September",
     "start_year": "2021",
-    "end_day": "14",
+    "end_day": "21",
     "end_month": "September",
     "end_year": "2021",
     "start_time": "18:00",
@@ -60,12 +60,13 @@
     "type": "local",
     "reroll": "no",
     "shiny": "",
-    "range_text": "Sept 14th 6-7pm",
-    "description": "2x catch XP"
+    "range_text": "Sept 21st 6-7pm",
+    "description": "2x catch Candy"
   },
+  
   {
-    "event_name": "Spotlight Hours",
-    "start_day": "21",
+    "event_name": "Alolan Meowth✨ Spotlight Hour",
+    "start_day": "28",
     "start_month": "September",
     "start_year": "2021",
     "end_day": "28",
@@ -73,27 +74,11 @@
     "end_year": "2021",
     "start_time": "18:00",
     "end_time": "19:00",
-    "type": "local",
-    "reroll": "no",
+    "type": "",
+    "reroll": "",
     "shiny": "",
-    "range_text": "9/21: Skitty✨ + 2x catch Candy",
-    "description": "9/28: Alolan Meowth✨ + 2x transfer Candy"
-  },
-  {
-    "event_name": "Oshawott <a:oshawottS:878324098802016326><a:dewottS:878324098843938836><a:samurottS:878324099309522944> Community Day",
-    "start_day": "19",
-    "start_month": "September",
-    "start_year": "2021",
-    "end_day": "19",
-    "end_month": "September",
-    "end_year": "2021",
-    "start_time": "11:00",
-    "end_time": "17:00",
-    "type": "local",
-    "reroll": "no",
-    "shiny": "Oshawott,Dewott,Samurott",
-    "range_text": "Sept 19th 11am-5pm",
-    "description": "Bonus: 3x catch XP\n-Move: Hydro Cannon"
+    "range_text": "Sept 28th 6-7pm",
+    "description": "2x transfer Candy"
   },
   {
     "event_name": "Duskull <a:duskullS:763953164453150720> Community Day",
