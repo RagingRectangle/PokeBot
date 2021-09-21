@@ -113,20 +113,20 @@
     "description": "Furfrou released\n-<https://bit.ly/3zuiZsa>"
   },
   {
-    "event_name": "",
-    "start_day": "",
-    "start_month": "",
-    "start_year": "",
-    "end_day": "",
-    "end_month": "",
-    "end_year": "",
-    "start_time": "",
-    "end_time": "",
-    "type": "",
-    "reroll": "",
+    "event_name": "Secrets of the Jungle",
+    "start_day": "1",
+    "start_month": "October",
+    "start_year": "2021",
+    "end_day": "10",
+    "end_month": "October",
+    "end_year": "2021",
+    "start_time": "10:00",
+    "end_time": "20:00",
+    "type": "local",
+    "reroll": "yes",
     "shiny": "",
-    "range_text": "",
-    "description": ""
+    "range_text": "October 1st-10th",
+    "description": "Zarude released <a:zarude:883198257797419018>\n-<https://bit.ly/3lM6anl>"
   },
   {
     "event_name": "",
