@@ -4,8 +4,8 @@
       "start_day": "20",
       "start_month": "January",
       "start_year": "2021",
-      "end_day": "1",
-      "end_month": "October",
+      "end_day": "5",
+      "end_month": "November",
       "end_year": "2021",
       "start_time": "15:00",
       "end_time": "10:00",
@@ -46,22 +46,6 @@
     "shiny": "",
     "range_text": "Sept 1-Oct 1: Ditto<a:ditto:849072829843505172><a:dittoS:786348632420384820>",
     "description": "Oct 1-Nov 1: Yamask<a:yamask:849094981741314079><a:yamask_shiny:633315173112872974>"
-  },
-  {
-    "event_name": "Alolan Meowth <a:meowth_alola:849091061443330058><a:meowth_alola_shiny:633877034568777748> Spotlight Hour",
-    "start_day": "28",
-    "start_month": "September",
-    "start_year": "2021",
-    "end_day": "28",
-    "end_month": "September",
-    "end_year": "2021",
-    "start_time": "18:00",
-    "end_time": "19:00",
-    "type": "local",
-    "reroll": "",
-    "shiny": "",
-    "range_text": "Sept 28th 6-7pm",
-    "description": "2x transfer Candy"
   },
   {
     "event_name": "Drifloon <a:drifloon:766397496695455755><a:drifloonS:766397541154947083> Spotlight Hour",
@@ -142,22 +126,6 @@
     "shiny": "",
     "range_text": "Oct 9th 11am-5pm",
     "description": "Bonus: 3x catch Stardust\n-Move: Shadow Ball"
-  },
-  {
-    "event_name": "Fashion Week",
-    "start_day": "21",
-    "start_month": "September",
-    "start_year": "2021",
-    "end_day": "28",
-    "end_month": "September",
-    "end_year": "2021",
-    "start_time": "10:00",
-    "end_time": "20:00",
-    "type": "local",
-    "reroll": "yes",
-    "shiny": "",
-    "range_text": "Sept 21st-28th",
-    "description": "Furfrou released <a:furfrou:849073447010172948>\n-<https://bit.ly/3zuiZsa>"
   },
   {
     "event_name": "Secrets of the Jungle",
