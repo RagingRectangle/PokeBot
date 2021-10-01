@@ -12,8 +12,8 @@
       "type": "global",
       "reroll": "",
       "shiny": "",
-      "range_text": "9/14-10/1: Azelf<a:azelf:580927008272547860><a:azelfS:892057789864771605>",
-      "description": "10/1-10/12: Genesect Douse<a:genesect_douse:849073751756898315>\n-10/12-10/22: Giratina Altered<a:giratinaA:683903132060745735><a:giratinaA_shiny:683903196032401420>\n-10/22-11/5: Darkrai<a:darkrai:849072686692040744><a:darkrai_shiny:683902359998693443>"
+      "range_text": "10/1-10/12: Genesect Douse<a:genesect_douse:849073751756898315>",
+      "description": "10/12-10/22: Giratina Altered<a:giratinaA:683903132060745735><a:giratinaA_shiny:683903196032401420>\n-10/22-11/5: Darkrai<a:darkrai:849072686692040744><a:darkrai_shiny:683902359998693443>"
     },
   {
     "event_name": "Season of Mischief",
@@ -44,8 +44,8 @@
     "type": "global",
     "reroll": "yes",
     "shiny": "",
-    "range_text": "Sept 1-Oct 1: Ditto<a:ditto:849072829843505172><a:dittoS:786348632420384820>",
-    "description": "Oct 1-Nov 1: Yamask<a:yamask:849094981741314079><a:yamask_shiny:633315173112872974>"
+    "range_text": "Oct 1st-Nov 1st",
+    "description": "Yamask <a:yamask:849094981741314079><a:yamask_shiny:633315173112872974>"
   },
   {
     "event_name": "Drifloon <a:drifloon:766397496695455755><a:drifloonS:766397541154947083> Spotlight Hour",
