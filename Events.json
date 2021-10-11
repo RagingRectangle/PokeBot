@@ -48,22 +48,6 @@
     "description": "Yamask <a:yamask:849094981741314079><a:yamask_shiny:633315173112872974>"
   },
   {
-    "event_name": "Drifloon <a:drifloon:766397496695455755><a:drifloonS:766397541154947083> Spotlight Hour",
-    "start_day": "5",
-    "start_month": "October",
-    "start_year": "2021",
-    "end_day": "5",
-    "end_month": "October",
-    "end_year": "2021",
-    "start_time": "18:00",
-    "end_time": "19:00",
-    "type": "local",
-    "reroll": "",
-    "shiny": "",
-    "range_text": "Oct 5th 6-7pm",
-    "description": "2x evolve XP"
-  },
-  {
     "event_name": "Gastly <a:gastly:714366358636199936><a:gastlyS:714365480969699361> Spotlight Hour",
     "start_day": "12",
     "start_month": "October",
@@ -112,22 +96,6 @@
     "description": "2x evolve XP"
   },
   {
-    "event_name": "Duskull <a:duskull:763953127866368020><a:duskullS:763953164453150720> Community Day",
-    "start_day": "9",
-    "start_month": "October",
-    "start_year": "2021",
-    "end_day": "9",
-    "end_month": "October",
-    "end_year": "2021",
-    "start_time": "11:00",
-    "end_time": "17:00",
-    "type": "local",
-    "reroll": "no",
-    "shiny": "",
-    "range_text": "Oct 9th 11am-5pm",
-    "description": "Bonus: 3x catch Stardust\n-Move: Shadow Ball"
-  },
-  {
     "event_name": "Secrets of the Jungle",
     "start_day": "1",
     "start_month": "October",
@@ -151,8 +119,8 @@
     "end_day": "31",
     "end_month": "October",
     "end_year": "2021",
-    "start_time": "11:00",
-    "end_time": "17:00",
+    "start_time": "10:00",
+    "end_time": "20:00",
     "type": "local",
     "reroll": "yes",
     "shiny": "",
