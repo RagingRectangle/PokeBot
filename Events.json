@@ -112,8 +112,24 @@
     "description": "Zarude released <a:zarude:883198257797419018>\n-<https://bit.ly/3lM6anl>"
   },
   {
-    "event_name": "Halloween 2021",
+    "event_name": "Halloween Part 1",
     "start_day": "15",
+    "start_month": "October",
+    "start_year": "2021",
+    "end_day": "22",
+    "end_month": "October",
+    "end_year": "2021",
+    "start_time": "10:00",
+    "end_time": "10:00",
+    "type": "local",
+    "reroll": "yes",
+    "shiny": "",
+    "range_text": "Oct 15th-22nd",
+    "description": "Shiny Spinarak released <a:spinarakS:897323233383174185><a:ariadosS:897323211887353866>\n-Galarian Slowking available <:slowking_galarian:849132149775794186>\n-<https://bit.ly/3kHlkuS>"
+  },
+  {
+    "event_name": "Halloween Part 2",
+    "start_day": "22",
     "start_month": "October",
     "start_year": "2021",
     "end_day": "31",
@@ -124,11 +140,27 @@
     "type": "local",
     "reroll": "yes",
     "shiny": "",
-    "range_text": "Oct 15th-31st",
-    "description": "<https://bit.ly/3kHlkuS>"
+    "range_text": "Oct 22nd-31st",
+    "description": "Phantump released <a:phantump:849091814781747231><a:trevenant:849094270098866207>\n-Pumpkaboo released <a:pumpkaboo:849092006126944297><a:gourgeist:849073748401586236>\n-<https://bit.ly/3kHlkuS>"
   },
   {
-    "event_name": "GO Battle Day",
+    "event_name": "Raid Weekend",
+    "start_day": "30",
+    "start_month": "October",
+    "start_year": "2021",
+    "end_day": "31",
+    "end_month": "October",
+    "end_year": "2021",
+    "start_time": "10:00",
+    "end_time": "20:00",
+    "type": "local",
+    "reroll": "no",
+    "shiny": "",
+    "range_text": "Oct 30th-31st",
+    "description": "Mega Absol released <a:absol_mega:849070537874997258><a:absolMS:897326313411584060>"
+  },
+  {
+    "event_name": "",
     "start_day": "",
     "start_month": "",
     "start_year": "",
