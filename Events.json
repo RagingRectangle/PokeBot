@@ -4,7 +4,7 @@
       "start_day": "20",
       "start_month": "January",
       "start_year": "2021",
-      "end_day": "31",
+      "end_day": "1",
       "end_month": "December",
       "end_year": "2021",
       "start_time": "15:00",
@@ -234,10 +234,10 @@
     "start_time": "10:00",
     "end_time": "22:00",
     "type": "local",
-    "reroll": "",
+    "reroll": "yes",
     "shiny": "",
     "range_text": "Nov 1st-2nd",
-    "description": "TBA"
+    "description": "90 min Lures/Incense\n-2x catch Stardust"
   },
   {
     "event_name": "Diamond + Pearl",
