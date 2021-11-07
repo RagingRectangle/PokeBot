@@ -12,8 +12,8 @@
       "type": "global",
       "reroll": "",
       "shiny": "",
-      "range_text": "10/22-11/5: Darkrai<a:darkrai:849072686692040744><a:darkrai_shiny:683902359998693443>",
-      "description": "11/5-11/16: Cobalion<a:cobalion:639556390637273089><a:cobalion_shiny:639556419363930112>, Terrakion<a:terrakion:644321086032314401><a:terrakion_shiny:644321057746190363>, Virizion<a:virizion:654219329889370112><a:virizionS:654219375305424916>\n-11/16-12/1: Cresselia<a:cresselia:584212350265982985><a:cresselia_shiny:584212373305294848>"
+      "range_text": "11/5-11/16",
+      "description": "Cobalion<a:cobalion:639556390637273089><a:cobalion_shiny:639556419363930112>, Terrakion<a:terrakion:644321086032314401><a:terrakion_shiny:644321057746190363>, Virizion<a:virizion:654219329889370112><a:virizionS:654219375305424916>\n-11/16-12/1: Cresselia<a:cresselia:584212350265982985><a:cresselia_shiny:584212373305294848>"
     },
   {
     "event_name": "Season of Mischief",
@@ -32,22 +32,6 @@
     "description": "<https://bit.ly/3BkC3cM>"
   },
   {
-    "event_name": "Oct. Research Breakthrough",
-    "start_day": "1",
-    "start_month": "September",
-    "start_year": "2021",
-    "end_day": "1",
-    "end_month": "November",
-    "end_year": "2021",
-    "start_time": "15:00",
-    "end_time": "15:00",
-    "type": "global",
-    "reroll": "yes",
-    "shiny": "",
-    "range_text": "Oct 1st-Nov 1st",
-    "description": "Yamask <a:yamask:849094981741314079><a:yamask_shiny:633315173112872974>"
-  },
-  {
     "event_name": "Nov. Research Breakthrough",
     "start_day": "1",
     "start_month": "November",
@@ -62,22 +46,6 @@
     "shiny": "",
     "range_text": "Nov 1st-Dec 1st",
     "description": "Vullaby <a:vullaby:849094731434688513>"
-  },
-  {
-    "event_name": "Cacnea <a:cacnea:849072137305063454> Spotlight Hour",
-    "start_day": "2",
-    "start_month": "November",
-    "start_year": "2021",
-    "end_day": "2",
-    "end_month": "November",
-    "end_year": "2021",
-    "start_time": "18:00",
-    "end_time": "19:00",
-    "type": "local",
-    "reroll": "",
-    "shiny": "",
-    "range_text": "Nov 2nd 6-7pm",
-    "description": "2x catch Candy"
   },
   {
     "event_name": "Chinchou <a:chinchou:849072386439118858><a:chinchouS:901315833270259814> Spotlight Hour",
@@ -174,22 +142,6 @@
     "shiny": "",
     "range_text": "Nov 5th-14th",
     "description": "2x Friendship increases\n-Open 45 gifts/day\n-Dedenne released <a:dedenne:849072648154513428>"
-  },
-  {
-    "event_name": "💀 Día de Muertos 💀",
-    "start_day": "1",
-    "start_month": "November",
-    "start_year": "2021",
-    "end_day": "2",
-    "end_month": "November",
-    "end_year": "2021",
-    "start_time": "10:00",
-    "end_time": "22:00",
-    "type": "local",
-    "reroll": "yes",
-    "shiny": "",
-    "range_text": "Nov 1st-2nd",
-    "description": "90 min Lures/Incense\n-2x catch Stardust"
   },
   {
     "event_name": "Diamond + Pearl",
