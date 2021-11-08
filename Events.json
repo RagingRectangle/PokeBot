@@ -144,7 +144,7 @@
     "description": "2x Friendship increases\n-Open 45 gifts/day\n-Dedenne released <a:dedenne:849072648154513428>"
   },
   {
-    "event_name": "Diamond + Pearl",
+    "event_name": "Diamond + Pearl Event",
     "start_day": "16",
     "start_month": "November",
     "start_year": "2021",
@@ -152,12 +152,28 @@
     "end_month": "November",
     "end_year": "2021",
     "start_time": "10:00",
-    "end_time": "22:00",
+    "end_time": "20:00",
     "type": "local",
-    "reroll": "",
+    "reroll": "yes",
     "shiny": "",
     "range_text": "Nov 16th-21st",
-    "description": "TBA"
+    "description": "1/2 Incubator + 1/3 Super Incubator\n-Costumed Crap\n-Mime Jr <a:mime_jr:849091044670963763> in 7k eggs"
+  },
+  {
+    "event_name": "",
+    "start_day": "",
+    "start_month": "",
+    "start_year": "",
+    "end_day": "",
+    "end_month": "",
+    "end_year": "",
+    "start_time": "",
+    "end_time": "",
+    "type": "",
+    "reroll": "",
+    "shiny": "",
+    "range_text": "",
+    "description": ""
   },
   {
     "event_name": "???",
