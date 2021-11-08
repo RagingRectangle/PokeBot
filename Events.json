@@ -176,20 +176,20 @@
     "description": "TBA"
   },
   {
-    "event_name": "",
-    "start_day": "",
-    "start_month": "",
-    "start_year": "",
-    "end_day": "",
-    "end_month": "",
-    "end_year": "",
-    "start_time": "",
-    "end_time": "",
-    "type": "",
-    "reroll": "",
+    "event_name": "A Looming Shadow Returns",
+    "start_day": "9",
+    "start_month": "November",
+    "start_year": "2021",
+    "end_day": "31",
+    "end_month": "December",
+    "end_year": "2021",
+    "start_time": "0:00",
+    "end_time": "23:59",
+    "type": "local",
+    "reroll": "no",
     "shiny": "",
-    "range_text": "",
-    "description": ""
+    "range_text": "Nov 9th - ?",
+    "description": "Giovanni with Shadow Lugia\n-Shiny Vullaby released <a:vullabyS:907321187250630677><a:mandibuzzS:907321187783307305>"
   },
   {
     "event_name": "",
