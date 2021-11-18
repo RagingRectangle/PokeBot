@@ -208,6 +208,38 @@
     "description": "Giovanni with Shadow Lugia\n-Shiny Vullaby released <a:vullabyS:907321187250630677><a:mandibuzzS:907321187783307305>"
   },
   {
+    "event_name": "Dec. Community Days",
+    "start_day": "18",
+    "start_month": "December",
+    "start_year": "2021",
+    "end_day": "19",
+    "end_month": "December",
+    "end_year": "2021",
+    "start_time": "11:00",
+    "end_time": "17:00",
+    "type": "local",
+    "reroll": "no",
+    "shiny": "",
+    "range_text": "Dec 18th/19th 11am-5pm",
+    "description": "3 hour lures/incense, 1/2 hatch distance, 2x catch Stardust/XP\n-<https://bit.ly/3HBMm0b>"
+  },
+  {
+    "event_name": "",
+    "start_day": "",
+    "start_month": "",
+    "start_year": "",
+    "end_day": "",
+    "end_month": "",
+    "end_year": "",
+    "start_time": "",
+    "end_time": "",
+    "type": "",
+    "reroll": "",
+    "shiny": "",
+    "range_text": "",
+    "description": ""
+  },
+  {
     "event_name": "",
     "start_day": "",
     "start_month": "",
