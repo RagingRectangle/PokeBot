@@ -7,11 +7,11 @@
     "end_day": "1",
     "end_month": "December",
     "end_year": "2021",
-    "start_time": "00:15",
-    "end_time": "01:15",
+    "start_time": "00:23",
+    "end_time": "01:23",
     "type": "local",
     "reroll": "",
-    "range_text": "00:15 - 01:15",
+    "range_text": "00:23 - 01:23",
     "description": "Test1 Text"
   },
   {
@@ -22,11 +22,11 @@
     "end_day": "1",
     "end_month": "December",
     "end_year": "2021",
-    "start_time": "00:20",
-    "end_time": "01:20",
+    "start_time": "00:27",
+    "end_time": "01:27",
     "type": "local",
     "reroll": "",
-    "range_text": "00:20 - 01:20",
+    "range_text": "00:27 - 01:27",
     "description": "Test2 Text"
   },
   {
