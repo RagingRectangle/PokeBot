@@ -10,7 +10,7 @@
     "start_time": "00:55",
     "end_time": "01:55",
     "type": "local",
-    "reroll": "",
+    "reroll": "yes",
     "range_text": "00:55 - 01:55",
     "description": "Test1 Text"
   },
@@ -25,7 +25,7 @@
     "start_time": "00:58",
     "end_time": "01:58",
     "type": "local",
-    "reroll": "",
+    "reroll": "yes",
     "range_text": "00:58 - 01:58",
     "description": "Test2 Text"
   },
