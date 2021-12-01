@@ -1,17 +1,17 @@
 [
   {
     "event_name": "Test1",
-    "start_day": "30",
-    "start_month": "November",
+    "start_day": "1",
+    "start_month": "December",
     "start_year": "2021",
     "end_day": "1",
     "end_month": "December",
     "end_year": "2021",
-    "start_time": "23:45",
-    "end_time": "00:30",
+    "start_time": "00:15",
+    "end_time": "01:15",
     "type": "local",
     "reroll": "",
-    "range_text": "23:45 - 00:30",
+    "range_text": "00:15 - 01:15",
     "description": "Test1 Text"
   },
   {
@@ -22,11 +22,11 @@
     "end_day": "1",
     "end_month": "December",
     "end_year": "2021",
-    "start_time": "00:58",
-    "end_time": "02:15",
+    "start_time": "00:20",
+    "end_time": "01:20",
     "type": "local",
     "reroll": "",
-    "range_text": "00:58 - 02:15",
+    "range_text": "00:20 - 01:20",
     "description": "Test2 Text"
   },
   {
@@ -37,11 +37,11 @@
     "end_day": "1",
     "end_month": "December",
     "end_year": "2021",
-    "start_time": "00:30",
-    "end_time": "01:30",
+    "start_time": "01:15",
+    "end_time": "02:30",
     "type": "local",
     "reroll": "",
-    "range_text": "00:30 - 01:30",
+    "range_text": "01:15 - 02:30",
     "description": "Test3 Text"
   }
 ]
