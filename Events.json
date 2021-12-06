@@ -48,22 +48,6 @@
     "description": "<https://bit.ly/3rmRCiv>"
   },
   {
-    "event_name": "Nov. Research Breakthrough",
-    "start_day": "1",
-    "start_month": "November",
-    "start_year": "2021",
-    "end_day": "1",
-    "end_month": "December",
-    "end_year": "2021",
-    "start_time": "15:00",
-    "end_time": "15:00",
-    "type": "global",
-    "reroll": "yes",
-    "shiny": "",
-    "range_text": "Nov 1st-Dec 1st",
-    "description": "Vullaby <a:vullaby:849094731434688513>"
-  },
-  {
     "event_name": "Dec. Research Breakthrough",
     "start_day": "1",
     "start_month": "December",
@@ -205,7 +189,7 @@
     "reroll": "yes",
     "shiny": "",
     "range_text": "Dec 7th-12th",
-    "description": "TBA"
+    "description": "Druddigon released <a:druddigon:849072939918950491>"
   },
   {
     "event_name": "PoGo Holidays Part 1 and 2",
