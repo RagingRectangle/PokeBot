@@ -208,20 +208,20 @@
     "description": "TBA"
   },
   {
-    "event_name": "",
-    "start_day": "",
-    "start_month": "",
-    "start_year": "",
-    "end_day": "",
-    "end_month": "",
-    "end_year": "",
-    "start_time": "",
-    "end_time": "",
-    "type": "",
+    "event_name": "Johto Tour",
+    "start_day": "26",
+    "start_month": "February",
+    "start_year": "2022",
+    "end_day": "27",
+    "end_month": "February",
+    "end_year": "2022",
+    "start_time": "9:00",
+    "end_time": "21:00",
+    "type": "local",
     "reroll": "",
     "shiny": "",
-    "range_text": "",
-    "description": ""
+    "range_text": "Feb 26th-27th",
+    "description": "<https://bit.ly/3GkWZTw>"
   },
   {
     "event_name": "",
