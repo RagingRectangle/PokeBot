@@ -64,22 +64,6 @@
     "description": "Deino <a:deino:849072674810101800><a:deinoS:736702672790487050>"
   },
   {
-    "event_name": "Piplup <a:piplup:849092010429644810><a:piplupS:656245854478270474> Spotlight Hour",
-    "start_day": "30",
-    "start_month": "November",
-    "start_year": "2021",
-    "end_day": "30",
-    "end_month": "November",
-    "end_year": "2021",
-    "start_time": "18:00",
-    "end_time": "19:00",
-    "type": "local",
-    "reroll": "",
-    "shiny": "",
-    "range_text": "Nov 30th 6-7pm",
-    "description": "2x catch Candy"
-  },
-  {
     "event_name": "Dec. Community Days",
     "start_day": "18",
     "start_month": "December",
@@ -94,22 +78,6 @@
     "shiny": "",
     "range_text": "Dec 18th/19th 11am-5pm",
     "description": "3 hour lures/incense, 1/2 hatch distance, 2x catch Stardust/XP\n-<https://bit.ly/3HBMm0b>"
-  },
-  {
-    "event_name": "Electabuzz <a:electabuzz:849073089836875776><a:electabuzzS:770782980385407036> Spotlight Hour",
-    "start_day": "7",
-    "start_month": "December",
-    "start_year": "2021",
-    "end_day": "7",
-    "end_month": "December",
-    "end_year": "2021",
-    "start_time": "18:00",
-    "end_time": "19:00",
-    "type": "local",
-    "reroll": "",
-    "shiny": "",
-    "range_text": "Dec 7th 6-7pm",
-    "description": "2x transfer Candy"
   },
   {
     "event_name": "Magmar <a:magmar:770782924622397492><a:magmarS:670474735318204457> Spotlight Hour",
@@ -160,22 +128,6 @@
     "description": "2x catch Candy"
   },
   {
-    "event_name": "Swinub <a:swinub:849093985062486026><a:swinubS:783958186557308939> Incense Day",
-    "start_day": "5",
-    "start_month": "December",
-    "start_year": "2021",
-    "end_day": "5",
-    "end_month": "December",
-    "end_year": "2021",
-    "start_time": "11:00",
-    "end_time": "17:00",
-    "type": "local",
-    "reroll": "",
-    "shiny": "",
-    "range_text": "Dec 5th 11am-5pm",
-    "description": "<https://bit.ly/3d6tN6b>"
-  },
-  {
     "event_name": "Dragonspiral Descent",
     "start_day": "7",
     "start_month": "December",
@@ -192,7 +144,7 @@
     "description": "Druddigon released <a:druddigon:849072939918950491><a:druddigonS:917476819312193607>\n-<https://bit.ly/31x12Ns>"
   },
   {
-    "event_name": "PoGo Holidays Part 1 and 2",
+    "event_name": "PoGo Holidays",
     "start_day": "16",
     "start_month": "December",
     "start_year": "2021",
@@ -205,7 +157,7 @@
     "reroll": "",
     "shiny": "",
     "range_text": "Dec 16th-31st",
-    "description": "TBA"
+    "description": "Bonuses: Open 45 gifts, hold 40 gifts, Mega Abomasnow CP boost\n-Part 1 (16th-23rd): Shiny Spheal <a:spheal:849093936148512798><a:sphealS:918944928011259906>\n-Part 2 (23rd-31st): Bergmite released <a:bergmite:849071830342041630><a:avalugg:849071873114898482>\n-<https://bit.ly/31Q3wqv>"
   },
   {
     "event_name": "Johto Tour",
@@ -224,6 +176,22 @@
     "description": "<https://bit.ly/3GkWZTw>"
   },
   {
+    "event_name": "Winter Wonderland",
+    "start_day": "25",
+    "start_month": "December",
+    "start_year": "2021",
+    "end_day": "26",
+    "end_month": "December",
+    "end_year": "2021",
+    "start_time": "10:00",
+    "end_time": "20:00",
+    "type": "local",
+    "reroll": "yes",
+    "shiny": "",
+    "range_text": "Dec 25th-26th",
+    "description": "Bonuses: 40km trades + Collection Challenge\n-<https://bit.ly/3pLiUMZ>"
+  },
+  {
     "event_name": "",
     "start_day": "",
     "start_month": "",
@@ -238,7 +206,39 @@
     "shiny": "",
     "range_text": "",
     "description": ""
-  },
+  }
+  {
+    "event_name": "",
+    "start_day": "",
+    "start_month": "",
+    "start_year": "",
+    "end_day": "",
+    "end_month": "",
+    "end_year": "",
+    "start_time": "",
+    "end_time": "",
+    "type": "",
+    "reroll": "",
+    "shiny": "",
+    "range_text": "",
+    "description": ""
+  }
+  {
+    "event_name": "",
+    "start_day": "",
+    "start_month": "",
+    "start_year": "",
+    "end_day": "",
+    "end_month": "",
+    "end_year": "",
+    "start_time": "",
+    "end_time": "",
+    "type": "",
+    "reroll": "",
+    "shiny": "",
+    "range_text": "",
+    "description": ""
+  }
   {
     "event_name": "",
     "start_day": "",
