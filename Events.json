@@ -5,15 +5,15 @@
       "start_month": "January",
       "start_year": "2021",
       "end_day": "31",
-      "end_month": "December",
-      "end_year": "2021",
+      "end_month": "February",
+      "end_year": "2022",
       "start_time": "15:00",
       "end_time": "10:00",
       "type": "global",
       "reroll": "",
       "shiny": "",
       "range_text": "12/16-1/7: Kyurem (Tremors Ass Blaster) <a:kyurem:849081540738416691><a:kyuremS:713203433041035305>",
-      "description": "1/7-1/15: Heatran <a:heatran:661343046461423617><a:heatran_shiny:661343073183334438>\n-Genesect Shock <a:genesect_shock:849073751592140821>\n-Regice <a:regice:655605424065609728><a:regice_shiny:633398350577795082>"
+      "description": "1/7-1/15: Heatran <a:heatran:661343046461423617><a:heatran_shiny:661343073183334438>\n-1/15-1/24: Genesect Shock <a:genesect_shock:849073751592140821>\n-1/24-1/1: Regice <a:regice:655605424065609728><a:regice_shiny:633398350577795082>"
   },
   {
     "event_name": "Season of Heritage",
@@ -51,7 +51,7 @@
     "event_name": "Jan. Research Breakthrough",
     "start_day": "1",
     "start_month": "January",
-    "start_year": "2021",
+    "start_year": "2022",
     "end_day": "1",
     "end_month": "February",
     "end_year": "2022",
