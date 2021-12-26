@@ -186,7 +186,7 @@
     "start_time": "10:00",
     "end_time": "20:00",
     "type": "local",
-    "reroll": "yes",
+    "reroll": "no",
     "shiny": "",
     "range_text": "Dec 25th-26th",
     "description": "Bonuses: 40km trades + Collection Challenge\n-<https://bit.ly/3pLiUMZ>"
