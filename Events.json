@@ -208,6 +208,22 @@
     "description": "Moves: Icicle Spear + Powder Snow\n- Bonus: 3x catch XP"
   },
   {
+    "event_name": "Bulbasaur <a:bulbasaur:849072125183524894><a:bulbasaurS:811267213477806121> Community Day",
+    "start_day": "22",
+    "start_month": "January",
+    "start_year": "2022",
+    "end_day": "22",
+    "end_month": "January",
+    "end_year": "2022",
+    "start_time": "14:00",
+    "end_time": "17:00",
+    "type": "local",
+    "reroll": "no",
+    "shiny": "",
+    "range_text": "Jan 22nd 2-5pm",
+    "description": "Moves: Frenzy Plant\n- Bonus: 3x catch XP"
+  },
+  {
     "event_name": "New Year’s Event",
     "start_day": "31",
     "start_month": "December",
