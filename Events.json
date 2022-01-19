@@ -12,8 +12,8 @@
       "type": "global",
       "reroll": "",
       "shiny": "",
-      "range_text": "12/16-1/7: Kyurem (Tremors Ass Blaster) <a:kyurem:849081540738416691><a:kyuremS:713203433041035305>",
-      "description": "1/7-1/15: Heatran <a:heatran:661343046461423617><a:heatran_shiny:661343073183334438>\n-1/15-1/24: Genesect Shock <a:genesect_shock:849073751592140821>\n-1/24-1/1: Regice <a:regice:655605424065609728><a:regice_shiny:633398350577795082>"
+      "range_text": "1/15-1/24: Genesect Shock <a:genesect_shock:849073751592140821>",
+      "description": "1/24-1/1: Regice <a:regice:655605424065609728><a:regice_shiny:633398350577795082>"
   },
   {
     "event_name": "Season of Heritage",
@@ -48,38 +48,6 @@
     "description": "Onix <a:onix:849091378314608652><a:onix_shiny:674118786236022804>"
   },
   {
-    "event_name": "Diglett <a:diglett:849072811482021918><a:diglettS:811137036538478592> Spotlight Hour",
-    "start_day": "11",
-    "start_month": "January",
-    "start_year": "2022",
-    "end_day": "11",
-    "end_month": "January",
-    "end_year": "2022",
-    "start_time": "18:00",
-    "end_time": "19:00",
-    "type": "local",
-    "reroll": "no",
-    "shiny": "",
-    "range_text": "Jan 11th 6-7pm",
-    "description": "2x catch Stardust"
-  },
-  {
-    "event_name": "Plusle <a:plusle:849092005824823316><a:plusleS:923415835282931732> Spotlight Hour",
-    "start_day": "18",
-    "start_month": "January",
-    "start_year": "2022",
-    "end_day": "18",
-    "end_month": "January",
-    "end_year": "2022",
-    "start_time": "18:00",
-    "end_time": "19:00",
-    "type": "local",
-    "reroll": "no",
-    "shiny": "",
-    "range_text": "Jan 18th 6-7pm",
-    "description": "2x catch Candy"
-  },
-  {
     "event_name": "Minun <a:minun:849091050345594910><a:minunS:923416252108636271> Spotlight Hour",
     "start_day": "25",
     "start_month": "January",
@@ -112,22 +80,6 @@
     "description": "<https://bit.ly/3GkWZTw>"
   },
   {
-    "event_name": "Spheal <a:spheal:849093936148512798><a:sphealS:918944928011259906> Community Day",
-    "start_day": "16",
-    "start_month": "January",
-    "start_year": "2022",
-    "end_day": "16",
-    "end_month": "January",
-    "end_year": "2022",
-    "start_time": "11:00",
-    "end_time": "17:00",
-    "type": "local",
-    "reroll": "no",
-    "shiny": "",
-    "range_text": "Jan 16th 11-5pm",
-    "description": "Moves: Icicle Spear + Powder Snow\n- Bonus: 3x catch XP"
-  },
-  {
     "event_name": "Bulbasaur <a:bulbasaur:849072125183524894><a:bulbasaurS:811267213477806121> Community Day",
     "start_day": "22",
     "start_month": "January",
@@ -144,22 +96,6 @@
     "description": "Moves: Frenzy Plant\n- Bonus: 3x catch XP"
   },
   {
-    "event_name": "Mountains of Power",
-    "start_day": "7",
-    "start_month": "January",
-    "start_year": "2022",
-    "end_day": "13",
-    "end_month": "January",
-    "end_year": "2022",
-    "start_time": "10:00",
-    "end_time": "20:00",
-    "type": "local",
-    "reroll": "yes",
-    "shiny": "",
-    "range_text": "Jan 7th-13th",
-    "description": "Shiny Slugma released <a:slugmaS:823409966803189791><a:magcargoS:928492752029761546>\n-<https://bit.ly/3HKHjd7>"
-  },
-  {
     "event_name": "Kanto Power Plant",
     "start_day": "19",
     "start_month": "January",
@@ -173,7 +109,23 @@
     "reroll": "yes",
     "shiny": "",
     "range_text": "Jan 19th-Feb 1st",
-    "description": "TBA"
+    "description": "Helioptile released <a:helioptile:849073943175888956><a:heliolisk:849073955276455956>\n- <https://bit.ly/3AcqqFw>"
+  },
+  {
+    "event_name": "A Bad Feeling",
+    "start_day": "24",
+    "start_month": "January",
+    "start_year": "2022",
+    "end_day": "31",
+    "end_month": "January",
+    "end_year": "2022",
+    "start_time": "00:00",
+    "end_time": "00:00",
+    "type": "local",
+    "reroll": "yes",
+    "shiny": "",
+    "range_text": "Jan 24th-?",
+    "description": "Use Charged TM to forget Frustration"
   },
   {
     "event_name": "",
