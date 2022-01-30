@@ -96,22 +96,6 @@
     "description": "Helioptile released <a:helioptile:849073943175888956><a:heliolisk:849073955276455956>\n-<https://bit.ly/3AcqqFw>"
   },
   {
-    "event_name": "A Bad Feeling",
-    "start_day": "24",
-    "start_month": "January",
-    "start_year": "2022",
-    "end_day": "1",
-    "end_month": "February",
-    "end_year": "2022",
-    "start_time": "00:00",
-    "end_time": "00:00",
-    "type": "local",
-    "reroll": "yes",
-    "shiny": "",
-    "range_text": "Jan 24th-Feb 1st",
-    "description": "Use Charged TM to forget Frustration"
-  },
-  {
     "event_name": "Hoppip <a:hoppipS:936317073691385858><a:skiploomS:936317073771077674><a:jumpluffS:936317074429595648> Community Day",
     "start_day": "12",
     "start_month": "February",
