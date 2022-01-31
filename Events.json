@@ -112,7 +112,7 @@
     "description": "Move: Acrobatics\n-Bonuses: 3x catch Stardust, 3 hour Incense/Lures, 3 free Raid Passes"
   },
   {
-    "event_name": "Litleo <a:litleo:849081380373528596> Spotlight Hour",
+    "event_name": "Litleo <a:litleo:849081380373528596><a:litleoS:937773843802652723> Spotlight Hour",
     "start_day": "1",
     "start_month": "February",
     "start_year": "2022",
@@ -186,10 +186,10 @@
     "start_time": "10:00",
     "end_time": "20:00",
     "type": "local",
-    "reroll": "",
+    "reroll": "yes",
     "shiny": "",
     "range_text": "Feb 1st-7th",
-    "description": "TBA"
+    "description": "Shiny Litleo released <a:litleoS:937773843802652723><a:pyroarS:937773845190942760>"
   },
   {
     "event_name": "Valentine’s Day",
