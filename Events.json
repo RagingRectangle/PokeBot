@@ -32,22 +32,6 @@
     "description": "<https://bit.ly/3rmRCiv>"
   },
   {
-    "event_name": "Jan. Research Breakthrough",
-    "start_day": "1",
-    "start_month": "January",
-    "start_year": "2022",
-    "end_day": "1",
-    "end_month": "February",
-    "end_year": "2022",
-    "start_time": "15:00",
-    "end_time": "15:00",
-    "type": "global",
-    "reroll": "no",
-    "shiny": "",
-    "range_text": "Jan 1st-Feb 1st",
-    "description": "Onix <a:onix:849091378314608652><a:onix_shiny:674118786236022804>"
-  },
-  {
     "event_name": "Feb. Research Breakthrough",
     "start_day": "1",
     "start_month": "February",
@@ -80,22 +64,6 @@
     "description": "<https://bit.ly/3GkWZTw>"
   },
   {
-    "event_name": "Kanto Power Plant",
-    "start_day": "19",
-    "start_month": "January",
-    "start_year": "2022",
-    "end_day": "1",
-    "end_month": "February",
-    "end_year": "2022",
-    "start_time": "10:00",
-    "end_time": "10:00",
-    "type": "local",
-    "reroll": "yes",
-    "shiny": "",
-    "range_text": "Jan 19th-Feb 1st",
-    "description": "Helioptile released <a:helioptile:849073943175888956><a:heliolisk:849073955276455956>\n-<https://bit.ly/3AcqqFw>"
-  },
-  {
     "event_name": "Hoppip <a:hoppipS:936317073691385858><a:skiploomS:936317073771077674><a:jumpluffS:936317074429595648> Community Day",
     "start_day": "12",
     "start_month": "February",
@@ -110,22 +78,6 @@
     "shiny": "",
     "range_text": "Feb 12th 11-5pm",
     "description": "Move: Acrobatics\n-Bonuses: 3x catch Stardust, 3 hour Incense/Lures, 3 free Raid Passes"
-  },
-  {
-    "event_name": "Litleo <a:litleo:849081380373528596><a:litleoS:937773843802652723> Spotlight Hour",
-    "start_day": "1",
-    "start_month": "February",
-    "start_year": "2022",
-    "end_day": "1",
-    "end_month": "February",
-    "end_year": "2022",
-    "start_time": "18:00",
-    "end_time": "19:00",
-    "type": "local",
-    "reroll": "",
-    "shiny": "",
-    "range_text": "Feb 1st 6-7pm",
-    "description": "2x evolve XP"
   },
   {
     "event_name": "Spritzee <a:spritzee:849093991835762698> Spotlight Hour",
@@ -176,22 +128,6 @@
     "description": "2x catch Candy"
   },
   {
-    "event_name": "Lunar New Year",
-    "start_day": "1",
-    "start_month": "February",
-    "start_year": "2022",
-    "end_day": "7",
-    "end_month": "February",
-    "end_year": "2022",
-    "start_time": "10:00",
-    "end_time": "20:00",
-    "type": "local",
-    "reroll": "yes",
-    "shiny": "",
-    "range_text": "Feb 1st-7th",
-    "description": "Shiny Litleo released <a:litleoS:937773843802652723><a:pyroarS:937773845190942760>"
-  },
-  {
     "event_name": "Valentine’s Day",
     "start_day": "10",
     "start_month": "February",
@@ -202,10 +138,10 @@
     "start_time": "10:00",
     "end_time": "20:00",
     "type": "local",
-    "reroll": "",
+    "reroll": "yes",
     "shiny": "",
     "range_text": "Feb 10th-14th",
-    "description": "TBA"
+    "description": "Flabebe (yellow,orange,white) released <a:flabebe:849073111760764969><a:floette:849073343344410674><a:florges:849073487511158794>\n-Furfrou Heart available <a:furfrou_heart:849073472428179509>\n-2x Lures and catch Candy\n-<https://bit.ly/3uzgBkb>"
   },
   {
     "event_name": "Johto Leadup Event",
