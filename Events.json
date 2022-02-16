@@ -64,22 +64,6 @@
     "description": "<https://bit.ly/3GkWZTw>"
   },
   {
-    "event_name": "Koffing <a:koffing:849079510099951627><a:koffing_shiny:604043029816410124> Spotlight Hour",
-    "start_day": "15",
-    "start_month": "February",
-    "start_year": "2022",
-    "end_day": "15",
-    "end_month": "February",
-    "end_year": "2022",
-    "start_time": "18:00",
-    "end_time": "19:00",
-    "type": "local",
-    "reroll": "",
-    "shiny": "",
-    "range_text": "Feb 15th 6-7pm",
-    "description": "2x catch XP"
-  },
-  {
     "event_name": "Voltorb <a:voltorb:849094712039178261><a:voltorbS:936340181164912751> Spotlight Hour",
     "start_day": "22",
     "start_month": "February",
@@ -96,22 +80,6 @@
     "description": "2x catch Candy"
   },
   {
-    "event_name": "Valentine’s Day",
-    "start_day": "10",
-    "start_month": "February",
-    "start_year": "2022",
-    "end_day": "14",
-    "end_month": "February",
-    "end_year": "2022",
-    "start_time": "10:00",
-    "end_time": "20:00",
-    "type": "local",
-    "reroll": "yes",
-    "shiny": "",
-    "range_text": "Feb 10th-14th",
-    "description": "Flabebe (yellow,orange,white) released <a:flabebe:849073111760764969><a:floette:849073343344410674><a:florges:849073487511158794>\n-Furfrou Heart available <a:furfrou_heart:849073472428179509>\n-2x Lures and catch Candy\n-<https://bit.ly/3uzgBkb>"
-  },
-  {
     "event_name": "Johto Leadup Event",
     "start_day": "18",
     "start_month": "February",
@@ -122,10 +90,10 @@
     "start_time": "10:00",
     "end_time": "20:00",
     "type": "local",
-    "reroll": "",
+    "reroll": "yes",
     "shiny": "",
     "range_text": "Feb 18th-25th",
-    "description": "TBA"
+    "description": "Hisuian Electrode released"
   },
   {
     "event_name": "March Community Day",
