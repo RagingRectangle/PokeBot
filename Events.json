@@ -26,7 +26,7 @@
     "start_time": "10:00",
     "end_time": "10:00",
     "type": "local",
-    "reroll": "yes",
+    "reroll": "no",
     "shiny": "",
     "range_text": "Dec 1st-Mar 1st",
     "description": "<https://bit.ly/3rmRCiv>"
@@ -65,20 +65,20 @@
     "description": "Espurr <a:espurr:849073068684345354><a:espurrS:936324963554709605>"
   },
   {
-    "event_name": "",
-    "start_day": "",
-    "start_month": "",
-    "start_year": "",
-    "end_day": "",
-    "end_month": "",
-    "end_year": "",
-    "start_time": "",
-    "end_time": "",
-    "type": "",
-    "reroll": "",
+    "event_name": "Welcome to Alola",
+    "start_day": "1",
+    "start_month": "March",
+    "start_year": "2022",
+    "end_day": "9",
+    "end_month": "March",
+    "end_year": "2022",
+    "start_time": "10:00",
+    "end_time": "20:00",
+    "type": "local",
+    "reroll": "yes",
     "shiny": "",
-    "range_text": "",
-    "description": ""
+    "range_text": "Mar 1st-9th",
+    "description": "New wild: Rowlet<a:Rowlet:640007888781180940>, Litten<a:litten:849081354213392396>, Popplio<a:popplio:849091969707016202>, Pikipek<a:pikipek:849091758474133514>, Yungoos<a:yungoos:849094963149275187><a:yungoosS:948041183219826699>"
   },
   {
     "event_name": "March Community Day",
