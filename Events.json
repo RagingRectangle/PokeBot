@@ -12,8 +12,8 @@
       "type": "global",
       "reroll": "",
       "shiny": "",
-      "range_text": "2/19-2/22: Deoxys Attack <a:deoxys_attack:849072692699201576><a:deoxys_attackS:936332042495492179>",
-      "description": "2/22-2/25: Deoxys Defense <a:deoxys_defense:849072694015950859><a:deoxys_defenseS:936332042705199185>\n-2/25-3/1: Deoxys Speed <a:deoxys_speed:849072682673635388><a:deoxys_speedS:936332041891496039>"
+      "range_text": "3/1: Deoxys Speed <a:deoxys_speed:849072682673635388><a:deoxys_speedS:936332041891496039>",
+      "description": "3/1-3/15: Tapu Koko <a:tapu_koko:849094188141117481>"
   },
   {
     "event_name": "Season of Heritage",
@@ -30,6 +30,23 @@
     "shiny": "",
     "range_text": "Dec 1st-Mar 1st",
     "description": "<https://bit.ly/3rmRCiv>"
+  },
+  
+  {
+    "event_name": "Season of Alola",
+    "start_day": "1",
+    "start_month": "March",
+    "start_year": "2021",
+    "end_day": "1",
+    "end_month": "June",
+    "end_year": "2022",
+    "start_time": "10:00",
+    "end_time": "10:00",
+    "type": "local",
+    "reroll": "yes",
+    "shiny": "",
+    "range_text": "Mar 1st-Jun 1st",
+    "description": "<https://bit.ly/3vmekcy>"
   },
   {
     "event_name": "Feb. Research Breakthrough",
@@ -48,36 +65,20 @@
     "description": "Espurr <a:espurr:849073068684345354><a:espurrS:936324963554709605>"
   },
   {
-    "event_name": "Voltorb <a:voltorb:849094712039178261><a:voltorbS:936340181164912751> Spotlight Hour",
-    "start_day": "22",
-    "start_month": "February",
-    "start_year": "2022",
-    "end_day": "22",
-    "end_month": "February",
-    "end_year": "2022",
-    "start_time": "18:00",
-    "end_time": "19:00",
-    "type": "local",
+    "event_name": "",
+    "start_day": "",
+    "start_month": "",
+    "start_year": "",
+    "end_day": "",
+    "end_month": "",
+    "end_year": "",
+    "start_time": "",
+    "end_time": "",
+    "type": "",
     "reroll": "",
     "shiny": "",
-    "range_text": "Feb 22nd 6-7pm",
-    "description": "2x catch Candy"
-  },
-  {
-    "event_name": "Johto Leadup Event",
-    "start_day": "18",
-    "start_month": "February",
-    "start_year": "2022",
-    "end_day": "25",
-    "end_month": "February",
-    "end_year": "2022",
-    "start_time": "10:00",
-    "end_time": "20:00",
-    "type": "local",
-    "reroll": "yes",
-    "shiny": "",
-    "range_text": "Feb 18th-25th",
-    "description": "Hisuian Electrode released"
+    "range_text": "",
+    "description": ""
   },
   {
     "event_name": "March Community Day",
@@ -93,7 +94,7 @@
     "reroll": "",
     "shiny": "",
     "range_text": "Mar 13th 11-5pm",
-    "description": "TBA"
+    "description": "Sandshrew <a:sandshrew:849092486088359938><a:sandshrewS:810928672029933631> (Night Slash)\n-Sandshrew A <a:sandshrew_alola:849092491646992384><a:sandshrew_alola_shiny:633877034673766421> (Shadow Claw)\n-<https://bit.ly/3M9HBNA>"
   },
   {
     "event_name": "April Community Day",
