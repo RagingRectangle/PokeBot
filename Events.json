@@ -32,38 +32,6 @@
     "description": "<https://bit.ly/3vmekcy>"
   },
   {
-    "event_name": "March Community Day",
-    "start_day": "13",
-    "start_month": "March",
-    "start_year": "2022",
-    "end_day": "13",
-    "end_month": "March",
-    "end_year": "2022",
-    "start_time": "11:00",
-    "end_time": "17:00",
-    "type": "local",
-    "reroll": "",
-    "shiny": "",
-    "range_text": "Mar 13th 11-5pm",
-    "description": "Sandshrew <a:sandshrew:849092486088359938><a:sandshrewS:810928672029933631> (Night Slash)\n-Sandshrew A <a:sandshrew_alola:849092491646992384><a:sandshrew_alola_shiny:633877034673766421> (Shadow Claw)\n-<https://bit.ly/3M9HBNA>"
-  },
-  {
-    "event_name": "Festival of Colors",
-    "start_day": "15",
-    "start_month": "March",
-    "start_year": "2022",
-    "end_day": "20",
-    "end_month": "March",
-    "end_year": "2022",
-    "start_time": "10:00",
-    "end_time": "20:00",
-    "type": "local",
-    "reroll": "yes",
-    "shiny": "",
-    "range_text": "Mar 15th-20th",
-    "description": "TBA"
-  },
-  {
     "event_name": "Lush Jungle",
     "start_day": "22",
     "start_month": "March",
