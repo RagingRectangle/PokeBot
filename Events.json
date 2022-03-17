@@ -12,8 +12,8 @@
       "type": "global",
       "reroll": "",
       "shiny": "",
-      "range_text": "3/1-3/15: Tapu Koko <a:tapu_koko:849094188141117481>",
-      "description": "3/15-3/22: Tornadus Therian <a:tornadus_therian:849094238100521010><a:tornadusTS:948096086248132679>\n-3/22-4/5: ???"
+      "range_text": "3/15-3/22: Tornadus Therian <a:tornadus_therian:849094238100521010><a:tornadusTS:948096086248132679>",
+      "description": "3/22-3/29: Tapu Lele <a:tapu_lele:849094207867977738>"
   },
   {
     "event_name": "Season of Alola",
@@ -45,23 +45,23 @@
     "reroll": "yes",
     "shiny": "",
     "range_text": "Mar 22nd-29th",
-    "description": "TBA"
+    "description": "Fomantis released <a:fomantis:849073379520544839><a:lurantis:849089332357890089>"
   },
-  {
-    "event_name": "Growlithe <a:growlithe:849073930383261736><a:growlithe_shiny:612109024774717440> Spotlight Hour",
-    "start_day": "15",
+    {
+    "event_name": "Lush Jungle Spotlight",
+    "start_day": "26",
     "start_month": "March",
     "start_year": "2022",
-    "end_day": "15",
+    "end_day": "27",
     "end_month": "March",
     "end_year": "2022",
-    "start_time": "18:00",
-    "end_time": "19:00",
+    "start_time": "10:00",
+    "end_time": "20:00",
     "type": "local",
-    "reroll": "no",
+    "reroll": "",
     "shiny": "",
-    "range_text": "Mar 15th 6-7pm",
-    "description": "2x catch Stardust"
+    "range_text": "Mar 26th-27th",
+    "description": "Cottonee spawning in parks\n-Shiny released <a:cottoneeS:954137163786776607><a:whimsicottS:954137186171768832>"
   },
   {
     "event_name": "Sudowoodo <a:sudowoodo:849093967508930571><a:sudowoodo_shiny:606904479539003402> Spotlight Hour",
