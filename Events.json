@@ -144,20 +144,20 @@
     "description": "TBA"
   },
   {
-    "event_name": "",
-    "start_day": "",
-    "start_month": "",
-    "start_year": "",
-    "end_day": "",
-    "end_month": "",
-    "end_year": "",
-    "start_time": "",
-    "end_time": "",
-    "type": "",
+    "event_name": "April Community Day",
+    "start_day": "23",
+    "start_month": "April",
+    "start_year": "2022",
+    "end_day": "23",
+    "end_month": "April",
+    "end_year": "2022",
+    "start_time": "14:00",
+    "end_time": "17:00",
+    "type": "local",
     "reroll": "",
     "shiny": "",
-    "range_text": "",
-    "description": ""
+    "range_text": "April 23rd **2-5pm**",
+    "description": "Stufful <a:stufful:849093971203457087><a:stuffulS:956237869884780657>\n-Move: Drain Punch\n-Bonuses: 3x catch XP + 2x catch Candy"
   },
   {
     "event_name": "",
