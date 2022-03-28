@@ -224,20 +224,20 @@
     "description": "TBA"
   },
   {
-    "event_name": "",
-    "start_day": "",
-    "start_month": "",
-    "start_year": "",
-    "end_day": "",
-    "end_month": "",
-    "end_year": "",
-    "start_time": "",
-    "end_time": "",
-    "type": "",
-    "reroll": "",
+    "event_name": "Memories of Mudkip",
+    "start_day": "10",
+    "start_month": "April",
+    "start_year": "2022",
+    "end_day": "10",
+    "end_month": "April",
+    "end_year": "2022",
+    "start_time": "14:00",
+    "end_time": "17:00",
+    "type": "local",
+    "reroll": "no",
     "shiny": "",
-    "range_text": "",
-    "description": ""
+    "range_text": "April 10th 2-5pm",
+    "description": "Mudkip spawns <a:mudkip:849091312354328618><a:mudkip_shiny:584612970173169664>\n-Move: Hydro Cannon\n-Bonus: 3x catch XP"
   },
   {
     "event_name": "",
