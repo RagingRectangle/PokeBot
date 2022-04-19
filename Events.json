@@ -96,22 +96,6 @@
     "description": "2x catch XP"
   },
   {
-    "event_name": "Spring into Spring",
-    "start_day": "12",
-    "start_month": "April",
-    "start_year": "2022",
-    "end_day": "18",
-    "end_month": "April",
-    "end_year": "2022",
-    "start_time": "10:00",
-    "end_time": "22:00",
-    "type": "local",
-    "reroll": "yes",
-    "shiny": "",
-    "range_text": "April 12th-18th",
-    "description": "Costumed Togetic, Togekiss and Lopunny available\n-2x hatch Candy, 1/2 hatch distance, and 2x Egg duration"
-  },
-  {
     "event_name": "Sustainability Week",
     "start_day": "20",
     "start_month": "April",
@@ -125,7 +109,7 @@
     "reroll": "yes",
     "shiny": "",
     "range_text": "April 20th-25th",
-    "description": "Oranguru <a:oranguru:849091371428085770> released\n-Shiny Cherubi <a:cherubiS:965664867027660800><a:cherrimOS:965664867149287504><a:cherrimSS:965664866943787068> released\n-4/23: Timed Research 10am-8pm"
+    "description": "Oranguru <a:oranguru:849091371428085770> released\n-Shiny Cherubi <a:cherubiS:965664867027660800><a:cherrimOS:965664867149287504><a:cherrimSS:965664866943787068> released\n-4/23: Timed Research 10am-8pm\n-<https://bit.ly/3JWi7kj>"
   },
   {
     "event_name": "",
