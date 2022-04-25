@@ -39,13 +39,13 @@
     "end_day": "21",
     "end_month": "May",
     "end_year": "2022",
-    "start_time": "14:00",
-    "end_time": "17:00",
+    "start_time": "11:00",
+    "end_time": "14:00",
     "type": "local",
     "reroll": "",
     "shiny": "",
-    "range_text": "May 21st 2-5pm",
-    "description": "TBA"
+    "range_text": "May 21st 11-2pm",
+    "description": "Alolan Geodude <a:geodude_alola:633876987504754688><a:geodude_alola_shiny:633877034359062529>\n-Move: Rollout\n-Bonus: 3x catch Stardust + 2x catch Candy"
   },
   {
     "event_name": "Cherrim Sunshine <a:cherrim_sunny:849072370961612800> Spotlight Hour",
