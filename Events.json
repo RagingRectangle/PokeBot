@@ -12,8 +12,8 @@
       "type": "global",
       "reroll": "",
       "shiny": "",
-      "range_text": "4/12-4/26: Tapu Bulu <a:tapu_bulu:849094237189308427>",
-      "description": "4/26-5/3: Landorus Therian <a:landorusT:824524511436472361><a:landorusTS:824524560677601311>"
+      "range_text": "4/26-5/3: Landorus Therian <a:landorusT:824524511436472361><a:landorusTS:824524560677601311>",
+      "description": "5/3-?: TBA"
   },
   {
     "event_name": "Season of Alola",
@@ -48,52 +48,20 @@
     "description": "Alolan Geodude <a:geodude_alola:633876987504754688><a:geodude_alola_shiny:633877034359062529>\n-Move: Rollout\n-Bonus: 3x catch Stardust + 2x catch Candy"
   },
   {
-    "event_name": "Cherrim Sunshine <a:cherrim_sunny:849072370961612800> Spotlight Hour",
-    "start_day": "26",
-    "start_month": "April",
+    "event_name": "Pokemon GO Fest",
+    "start_day": "4",
+    "start_month": "June",
     "start_year": "2022",
-    "end_day": "26",
-    "end_month": "April",
-    "end_year": "2022",
-    "start_time": "18:00",
-    "end_time": "19:00",
-    "type": "local",
-    "reroll": "no",
-    "shiny": "",
-    "range_text": "April 26th 6-7pm",
-    "description": "2x catch XP"
-  },
-  {
-    "event_name": "Sustainability Week",
-    "start_day": "20",
-    "start_month": "April",
-    "start_year": "2022",
-    "end_day": "25",
-    "end_month": "April",
+    "end_day": "5",
+    "end_month": "June",
     "end_year": "2022",
     "start_time": "10:00",
-    "end_time": "22:00",
+    "end_time": "18:00",
     "type": "local",
-    "reroll": "yes",
-    "shiny": "",
-    "range_text": "April 20th-25th",
-    "description": "Oranguru <a:oranguru:849091371428085770> released\n-Shiny Cherubi <a:cherubiS:965664867027660800><a:cherrimOS:965664867149287504><a:cherrimSS:965664866943787068> released\n-4/23: Timed Research 10am-8pm\n-<https://bit.ly/3JWi7kj>"
-  },
-  {
-    "event_name": "",
-    "start_day": "",
-    "start_month": "",
-    "start_year": "",
-    "end_day": "",
-    "end_month": "",
-    "end_year": "",
-    "start_time": "",
-    "end_time": "",
-    "type": "",
     "reroll": "",
     "shiny": "",
-    "range_text": "",
-    "description": ""
+    "range_text": "June 4th/5th 10am-6pm",
+    "description": "New shinies: Shroomish <a:shroomishS:795101314610495498>, Numel <a:numelS:969290762539917362><a:cameruptS:969290762267271290>, Karrablast <a:karrablastS:969290762053382204><a:escavalierS:969290762321821756>, Axew <a:axewS:969290762137260032><a:fraxureS:969290762443448380><a:haxorusS:969290762615402598>, Shelmet <a:shelmetS:969290762250502164><a:accelgorS:969290762518933535>\n-<https://bit.ly/3rXTQnO>"
   },
   {
     "event_name": "",
