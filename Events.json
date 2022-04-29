@@ -80,20 +80,20 @@
     "description": "Special Research + Kangaskhan Mega released <a:kangaskhan_mega:849079519247597579>"
   },
   {
-    "event_name": "",
-    "start_day": "",
-    "start_month": "",
-    "start_year": "",
-    "end_day": "",
-    "end_month": "",
-    "end_year": "",
-    "start_time": "",
-    "end_time": "",
-    "type": "",
-    "reroll": "",
+    "event_name": "Pokemon Air Adventures",
+    "start_day": "3",
+    "start_month": "May",
+    "start_year": "2022",
+    "end_day": "8",
+    "end_month": "May",
+    "end_year": "2022",
+    "start_time": "10:00",
+    "end_time": "20:00",
+    "type": "local",
+    "reroll": "yes",
     "shiny": "",
-    "range_text": "",
-    "description": ""
+    "range_text": "May 3rd-8th",
+    "description": "Latios Mega <a:latios_mega:849081533025353748> and Latias Mega <a:latias_mega:849081521906515979> raids\n-<https://bit.ly/3OMpLBt>"
   },
   {
     "event_name": "",
