@@ -12,8 +12,8 @@
       "type": "global",
       "reroll": "",
       "shiny": "",
-      "range_text": "5/25-6/1: Tapu Koko <a:tapu_koko:849094188141117481>, Tapu Lele <a:tapu_lele:849094207867977738>, Tapu Bulu <a:tapu_bulu:849094237189308427>, Tapu Fini <a:tapu_fini:849094254562377749>",
-      "description": "6/1-6/7: Kyogre <a:kyogre:849081507201286186><a:kyogre_shiny:584611649751744522>\n-6/7-6/16: Groudon <a:groudon:849073997429080064><a:groudon_shiny:584611742345199616>\n-6/16-6/23: Mewtwo (Shadow Ball): <a:mewtwo:849091092740833290><a:mewtwoS:811143319391698974>\n-6/23-7/1: Mewtwo (Psystrike)"
+      "range_text": "6/1-6/7: Kyogre <a:kyogre:849081507201286186><a:kyogre_shiny:584611649751744522>",
+      "description": "6/7-6/16: Groudon <a:groudon:849073997429080064><a:groudon_shiny:584611742345199616>\n-6/16-6/23: Mewtwo (Shadow Ball): <a:mewtwo:849091092740833290><a:mewtwoS:811143319391698974>\n-6/23-7/1: Mewtwo (Psystrike)"
   },
   {
     "event_name": "Season of GO",
@@ -173,7 +173,7 @@
     "reroll": "yes",
     "shiny": "",
     "range_text": "June 7th-12th",
-    "description": "TBA"
+    "description": "Amaura <a:amaura:671573408408141844><a:aurorus:849071871546884136> released\n-Tyrunt <a:tyrunt:849094475824365611><a:tyrantrum:849094488118525962> released\n-Shiny Tirtouga <a:tirtouga_shiny:623423759491137536><a:carracosta_shiny:623423775299469312> released\n-Shiny Archen <a:archen_shiny:623423740751118366><a:archeops_shiny:623423740885336094> released\n-<https://bit.ly/3z9a6GX>"
   },
   {
     "event_name": "TCG Crossover Event",
