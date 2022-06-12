@@ -48,22 +48,6 @@
     "description": "Klink <a:klink:849079509822472212><a:klink_shiny:613596768742932531>"
   },
   {
-    "event_name": "Nosepass <a:nosepass:849091328008257598><a:nosepassS:816417822358896643> Spotlight Hour",
-    "start_day": "7",
-    "start_month": "June",
-    "start_year": "2022",
-    "end_day": "7",
-    "end_month": "June",
-    "end_year": "2022",
-    "start_time": "18:00",
-    "end_time": "19:00",
-    "type": "local",
-    "reroll": "",
-    "shiny": "",
-    "range_text": "June 7th 6-7pm",
-    "description": "2x catch Candy"
-  },
-  {
     "event_name": "Mantine <a:mantine:849089377774338048><a:mantineS:980539292281634928> Spotlight Hour",
     "start_day": "14",
     "start_month": "June",
@@ -160,20 +144,20 @@
     "description": "Wild Tyrunt <a:tyrunt:849094475824365611>: 11-noon + 1-2pm\n-Wild Amaura <a:amaura:849070532490166272>: noon-1 + 2-3pm\n-Research: Cranidos <a:cranidos:849072646594625566><a:cranidos_shiny:583794697236119574> and Shieldon <a:shieldon:849093154791358517><a:shieldon_shiny:583794741787885599>\n-<https://bit.ly/3apsu4a>"
   },
   {
-    "event_name": "",
-    "start_day": "",
-    "start_month": "",
-    "start_year": "",
-    "end_day": "",
-    "end_month": "",
-    "end_year": "",
-    "start_time": "",
-    "end_time": "",
-    "type": "",
+    "event_name": "Deino <a:deino:849072674810101800><a:deinoS:736702672790487050> Community Day",
+    "start_day": "25",
+    "start_month": "June",
+    "start_year": "2022",
+    "end_day": "25",
+    "end_month": "June",
+    "end_year": "2022",
+    "start_time": "11:00",
+    "end_time": "14:00",
+    "type": "local",
     "reroll": "",
     "shiny": "",
-    "range_text": "",
-    "description": ""
+    "range_text": "June 25th 11-2pm",
+    "description": "<https://bit.ly/3zOl8SD>"
   },
   {
     "event_name": "",
