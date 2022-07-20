@@ -48,7 +48,7 @@
     "description": "Lickitung <a:lickitung:849081359766650900><a:lickitung_shiny:674116990784241664>"
   },
   {
-    "event_name": "??? Event",
+    "event_name": "Hisuian Discoveries",
     "start_day": "27",
     "start_month": "July",
     "start_year": "2022",
@@ -58,10 +58,10 @@
     "start_time": "10:00",
     "end_time": "20:00",
     "type": "local",
-    "reroll": "",
+    "reroll": "yes",
     "shiny": "",
     "range_text": "July 27th-Aug 2nd",
-    "description": "TBA"
+    "description": "New Hisuian forms: Growlithe <:growlitheH:980388998201614377>, Quilfish <:qwilfishH:980388997845110836>, Sneasel <:sneaselH:980388998176473109>\n-<https://bit.ly/3crjsEL>"
   },
   {
     "event_name": "Staryu <a:staryu:849093965118046278><a:staryuS:736704695485202495> Spotlight Hour",
