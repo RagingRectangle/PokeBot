@@ -112,20 +112,20 @@
     "description": "Move: Attack Obstruct\n-Bonus: 3x catch Stardust + 2x catch Candy\n-<https://bit.ly/3cspLb1>"
   },
   {
-    "event_name": "",
-    "start_day": "",
-    "start_month": "",
-    "start_year": "",
-    "end_day": "",
-    "end_month": "",
-    "end_year": "",
-    "start_time": "",
-    "end_time": "",
-    "type": "",
+    "event_name": "Braviary Hisuian <:braviaryH:980388998176452618><:braviaryHS:1001169643676909659> Raid Day",
+    "start_day": "31",
+    "start_month": "July",
+    "start_year": "2022",
+    "end_day": "31",
+    "end_month": "July",
+    "end_year": "2022",
+    "start_time": "11:00",
+    "end_time": "14:00
+    "type": "local
     "reroll": "",
     "shiny": "",
-    "range_text": "",
-    "description": ""
+    "range_text": "July 31st 11-2pm
+    "description": "5 free passes"
   },
   {
     "event_name": "",
