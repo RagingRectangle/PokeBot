@@ -80,22 +80,6 @@
      "description": "Move: Attack Obstruct\n-Bonus: 3x catch Stardust + 2x catch Candy\n-<https://bit.ly/3cspLb1>"
    },
    {
-     "event_name": "Voltorb Hisuian <:voltorbH:958898024380256306> Spotlight Hour",
-     "start_day": "2",
-     "start_month": "August",
-     "start_year": "2022",
-     "end_day": "2",
-     "end_month": "August",
-     "end_year": "2022",
-     "start_time": "18:00",
-     "end_time": "19:00",
-     "type": "local",
-     "reroll": "no",
-     "shiny": "",
-     "range_text": "Aug 2nd 6-7pm",
-     "description": "2x catch Stardust"
-   },
-   {
      "event_name": "Nidoran♀ <a:nidoran_female:849091320520638534><a:nidoFemaleS:811136167071973387> Spotlight Hour",
      "start_day": "9",
      "start_month": "August",
@@ -160,20 +144,20 @@
      "description": "2x evolve XP"
    },
    {
-     "event_name": "",
-     "start_day": "",
-     "start_month": "",
-     "start_year": "",
-     "end_day": "",
-     "end_month": "",
-     "end_year": "",
-     "start_time": "",
-     "end_time": "",
-     "type": "",
-     "reroll": "",
+     "event_name": "Bug Out!",
+     "start_day": "10",
+     "start_month": "August",
+     "start_year": "2022",
+     "end_day": "16",
+     "end_month": "August",
+     "end_year": "2022",
+     "start_time": "10:00",
+     "end_time": "20:00",
+     "type": "local",
+     "reroll": "yes",
      "shiny": "",
-     "range_text": "",
-     "description": ""
+     "range_text": "Aug 10th-16th",
+     "description": "Grubbin <a:grubbin:849073928395292672>, Charjabug <a:charjabug:849072386300051471> and Vikavolt <a:vikavolt:849094773306163220> released"
    },
    {
      "event_name": "",
