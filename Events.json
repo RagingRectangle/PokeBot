@@ -48,22 +48,6 @@
      "description": "Stunfisk Galarian <a:stunfiskG:704772156437037096><a:stunfiskGS:1003550875920384040>"
    },
    {
-     "event_name": "Hisuian Discoveries",
-     "start_day": "27",
-     "start_month": "July",
-     "start_year": "2022",
-     "end_day": "2",
-     "end_month": "August",
-     "end_year": "2022",
-     "start_time": "10:00",
-     "end_time": "20:00",
-     "type": "local",
-     "reroll": "yes",
-     "shiny": "",
-     "range_text": "July 27th-Aug 2nd",
-     "description": "New Hisuian forms: Growlithe <:growlitheH:980388998201614377>, Quilfish <:qwilfishH:980388997845110836>, Sneasel <:sneaselH:980388998176473109>\n-<https://bit.ly/3crjsEL>"
-   },
-   {
      "event_name": "Zigzagoon Galar <a:zigzagoonG:704772318597218314><a:zigzagoonGS:841481427295535164> Community Day",
      "start_day": "13",
      "start_month": "August",
@@ -160,19 +144,19 @@
      "description": "Grubbin <a:grubbin:849073928395292672>, Charjabug <a:charjabug:849072386300051471> and Vikavolt <a:vikavolt:849094773306163220> released\n-Mega Scizor <a:scizor:849093176630575144><a:scizorMS:1004485603733286912> released\n-Shiny Venipede <a:venipedeS:1004487687908110349> <a:whirlipedeS:1004487687094415471> <a:scolipedeS:1004487685643186187> released\n-2x catch XP for nice/great/excellent throws\n-<https://bit.ly/3PX4LrZ>"
    },
    {
-     "event_name": "",
-     "start_day": "",
-     "start_month": "",
-     "start_year": "",
-     "end_day": "",
-     "end_month": "",
-     "end_year": "",
-     "start_time": "",
-     "end_time": "",
-     "type": "",
+     "event_name": "GO Fest 2022: Finale",
+     "start_day": "27",
+     "start_month": "August",
+     "start_year": "2022",
+     "end_day": "27",
+     "end_month": "August",
+     "end_year": "2022",
+     "start_time": "10:00",
+     "end_time": "18:00",
+     "type": "local",
      "reroll": "",
      "shiny": "",
-     "range_text": "",
+     "range_text": "Aug 27th 10-6pm",
      "description": ""
    },
    {
