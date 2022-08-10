@@ -64,22 +64,6 @@
      "description": "Move: Attack Obstruct\n-Bonus: 3x catch Stardust + 2x catch Candy\n-<https://bit.ly/3cspLb1>"
    },
    {
-     "event_name": "Nidoran♀ <a:nidoran_female:849091320520638534><a:nidoFemaleS:811136167071973387> Spotlight Hour",
-     "start_day": "9",
-     "start_month": "August",
-     "start_year": "2022",
-     "end_day": "9",
-     "end_month": "August",
-     "end_year": "2022",
-     "start_time": "18:00",
-     "end_time": "19:00",
-     "type": "local",
-     "reroll": "no",
-     "shiny": "",
-     "range_text": "Aug 9th 6-7pm",
-     "description": "2x catch XP"
-   },
-   {
      "event_name": "Joltik <a:joltik:849079448913707008> Spotlight Hour",
      "start_day": "16",
      "start_month": "August",
@@ -157,7 +141,7 @@
      "reroll": "",
      "shiny": "",
      "range_text": "Aug 27th 10-6pm",
-     "description": "Tickets: $10.99 (Free if paid for June GO Fest event)\n-Shiny Munna  snapshots\nShiny Unown N and X\n-<https://bit.ly/3A64i19>"
+     "description": "Tickets: $10.99 (Free if paid for June GO Fest event)\n-Shiny Munna <a:munnaS:1006801909908258886> <a:musharnaS:1006801931483750443> snapshots\nShiny Unown N and X\n-<https://bit.ly/3A64i19>"
    },
    {
      "event_name": "",
