@@ -4,8 +4,8 @@
        "start_day": "20",
        "start_month": "January",
        "start_year": "2021",
-       "end_day": "31",
-       "end_month": "August",
+       "end_day": "1",
+       "end_month": "September",
        "end_year": "2022",
        "start_time": "15:00",
        "end_time": "10:00",
@@ -13,7 +13,7 @@
        "reroll": "",
        "shiny": "",
        "range_text": "8/10-8/18: Genesect Chill <a:genesect_chill:849073737994469396>",
-       "description": "8/18-8/31: Zacian <a:zacian:872174158635753532> and Zamazenta <a:zamazenta:849095027195379712>"
+       "description": "8/18-9/1: Zacian <a:zacian:872174158635753532> and Zamazenta <a:zamazenta:849095027195379712>"
    },
    {
      "event_name": "Season of GO",
