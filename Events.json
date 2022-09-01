@@ -160,20 +160,20 @@
      "description": "2x transfer Candy"
    },
    {
-     "event_name": "",
-     "start_day": "",
-     "start_month": "",
-     "start_year": "",
-     "end_day": "",
-     "end_month": "",
-     "end_year": "",
-     "start_time": "",
-     "end_time": "",
-     "type": "",
+     "event_name": "Inkay Limited Research",
+     "start_day": "3",
+     "start_month": "September",
+     "start_year": "2022",
+     "end_day": "3",
+     "end_month": "September",
+     "end_year": "2022",
+     "start_time": "11:00",
+     "end_time": "14:00",
+     "type": "local",
      "reroll": "",
      "shiny": "",
-     "range_text": "",
-     "description": ""
+     "range_text": "Sept 3rd 11-2pm",
+     "description": "Shiny released <a:inkayS:1014913833053208686><a:malamarS:1014914001106382938>\n-<https://bit.ly/3R6YGtu>"
    },
    {
      "event_name": "",
