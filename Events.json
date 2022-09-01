@@ -4,16 +4,16 @@
        "start_day": "20",
        "start_month": "January",
        "start_year": "2021",
-       "end_day": "1",
-       "end_month": "September",
+       "end_day": "8",
+       "end_month": "October",
        "end_year": "2022",
        "start_time": "15:00",
        "end_time": "10:00",
        "type": "global",
        "reroll": "",
        "shiny": "",
-       "range_text": "8/10-8/18: Genesect Chill <a:genesect_chill:849073737994469396>",
-       "description": "8/18-9/1: Zacian <a:zacian:872174158635753532> and Zamazenta <a:zamazenta:849095027195379712>"
+       "range_text": "9/1-9/13: Deoxys✨ forms",
+       "description": "9/13-9/27: TBA\n-9/27-10/8: Yveltal <a:yveltal:849095014369591348><a:yveltalS:1014909017497272361>"
    },
    {
      "event_name": "Season of GO",
