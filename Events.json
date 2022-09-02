@@ -208,20 +208,20 @@
      "description": "All forms of Deoxys✨"
    },
    {
-     "event_name": "",
-     "start_day": "",
-     "start_month": "",
-     "start_year": "",
-     "end_day": "",
-     "end_month": "",
-     "end_year": "",
-     "start_time": "",
-     "end_time": "",
-     "type": "",
+     "event_name": "Clefairy Commotion",
+     "start_day": "10",
+     "start_month": "September",
+     "start_year": "2022",
+     "end_day": "10",
+     "end_month": "September",
+     "end_year": "2022",
+     "start_time": "18:00",
+     "end_time": "21:00",
+     "type": "local",
      "reroll": "",
      "shiny": "",
-     "range_text": "",
-     "description": ""
+     "range_text": "Sept 10th 6-9pm",
+     "description": "Clefairy <a:clefairy:849072374883680307><a:clefairyS:716053744554475590> spawns"
    },
    {
      "event_name": "",
