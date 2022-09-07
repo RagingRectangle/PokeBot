@@ -96,22 +96,6 @@
      "description": " ?<a:dratiniS:670509447885357087>?"
    },
    {
-     "event_name": "Munna <a:munna:849091322857259018><a:munnaS:1006801909908258886> Spotlight Hour",
-     "start_day": "6",
-     "start_month": "September",
-     "start_year": "2022",
-     "end_day": "6",
-     "end_month": "September",
-     "end_year": "2022",
-     "start_time": "18:00",
-     "end_time": "19:00",
-     "type": "local",
-     "reroll": "",
-     "shiny": "",
-     "range_text": "Sept 6th 6-7pm",
-     "description": "2x catch Stardust"
-   },
-   {
      "event_name": "Ralts <a:ralts:849091978838540299><a:ralts_shiny:603635378909610005> Spotlight Hour",
      "start_day": "13",
      "start_month": "September",
