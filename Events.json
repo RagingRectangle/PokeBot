@@ -13,7 +13,7 @@
        "reroll": "",
        "shiny": "",
        "range_text": "9/1-9/13: Deoxys✨ forms",
-       "description": "9/13-9/27: TBA\n-9/27-10/8: Yveltal <a:yveltal:849095014369591348><a:yveltalS:1014909017497272361>"
+       "description": "9/13-9/27: Kartana <a:kartana:849079493871665172>\n-9/27-10/8: Yveltal <a:yveltal:849095014369591348><a:yveltalS:1014909017497272361>"
    },
    {
      "event_name": "Season of Light",
@@ -96,22 +96,6 @@
      "description": " ?<a:dratiniS:670509447885357087>?"
    },
    {
-     "event_name": "Ralts <a:ralts:849091978838540299><a:ralts_shiny:603635378909610005> Spotlight Hour",
-     "start_day": "13",
-     "start_month": "September",
-     "start_year": "2022",
-     "end_day": "13",
-     "end_month": "September",
-     "end_year": "2022",
-     "start_time": "18:00",
-     "end_time": "19:00",
-     "type": "local",
-     "reroll": "",
-     "shiny": "",
-     "range_text": "Sept 13th 6-7pm",
-     "description": "2x catch XP"
-   },
-   {
      "event_name": "Aron <a:aron:849071817544040458><a:aronS:1014911958752960562> Spotlight Hour",
      "start_day": "20",
      "start_month": "September",
@@ -160,11 +144,11 @@
      "description": "Shiny released <a:inkayS:1014913833053208686><a:malamarS:1014914001106382938>\n-<https://bit.ly/3R6YGtu>"
    },
    {
-     "event_name": "Psychic Spectacular",
-     "start_day": "6",
+     "event_name": "Test Your Mettle",
+     "start_day": "16",
      "start_month": "September",
      "start_year": "2022",
-     "end_day": "12",
+     "end_day": "21",
      "end_month": "September",
      "end_year": "2022",
      "start_time": "10:00",
@@ -172,56 +156,8 @@
      "type": "local",
      "reroll": "yes",
      "shiny": "",
-     "range_text": "Sept 6th-12th",
-     "description": "Alakazam Mega released <a:alakazam_mega:849070594480799784><a:alakazamMS:1015279178653913168>\n-Shiny Elgyem released <a:elgyemS:895101880512970752><a:beheeyemS:1015279724538363954>\n-<https://bit.ly/3wQsO4o>"
-   },
-   {
-     "event_name": "Deoxys Raid Day",
-     "start_day": "11",
-     "start_month": "September",
-     "start_year": "2022",
-     "end_day": "11",
-     "end_month": "September",
-     "end_year": "2022",
-     "start_time": "14:00",
-     "end_time": "17:00",
-     "type": "local",
-     "reroll": "",
-     "shiny": "",
-     "range_text": "Sept 11th 2-5pm",
-     "description": "All forms of Deoxys✨"
-   },
-   {
-     "event_name": "Clefairy Commotion",
-     "start_day": "10",
-     "start_month": "September",
-     "start_year": "2022",
-     "end_day": "10",
-     "end_month": "September",
-     "end_year": "2022",
-     "start_time": "18:00",
-     "end_time": "21:00",
-     "type": "local",
-     "reroll": "",
-     "shiny": "",
-     "range_text": "Sept 10th 6-9pm",
-     "description": "Clefairy <a:clefairy:849072374883680307><a:clefairyS:716053744554475590> spawns"
-   },
-   {
-     "event_name": "",
-     "start_day": "",
-     "start_month": "",
-     "start_year": "",
-     "end_day": "",
-     "end_month": "",
-     "end_year": "",
-     "start_time": "",
-     "end_time": "",
-     "type": "",
-     "reroll": "",
-     "shiny": "",
-     "range_text": "",
-     "description": ""
+     "range_text": "Sept 16th-21st",
+     "description": "Togedemaru <a:togedemaru:849094168919539733> released\n-<https://bit.ly/3S37cd6>"
    },
    {
      "event_name": "",
