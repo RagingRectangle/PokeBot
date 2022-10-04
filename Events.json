@@ -80,22 +80,6 @@
      "description": " ?<a:dratiniS:670509447885357087>?"
    },
    {
-     "event_name": "Fashion Week",
-     "start_day": "27",
-     "start_month": "September",
-     "start_year": "2022",
-     "end_day": "3",
-     "end_month": "October",
-     "end_year": "2022",
-     "start_time": "10:00",
-     "end_time": "22:00",
-     "type": "local",
-     "reroll": "yes",
-     "shiny": "",
-     "range_text": "Sept 27th-Oct 3rd *(The day he asked me what day it was)*",
-     "description": "Furfrou shinies released\n-Mareanie released <a:mareanie:849089345461420033><a:toxapex:849094244974067762>\n-Dumb costumed crap that's not <:CowboyCaterpie:745382035610402817>\n-<https://bit.ly/3LzEkaq>"
-   },
-   {
      "event_name": "Purrloin <a:purrloin:849091986959106078> Spotlight Hour",
      "start_day": "4",
      "start_month": "October",
