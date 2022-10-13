@@ -12,8 +12,8 @@
        "type": "global",
        "reroll": "",
        "shiny": "",
-       "range_text": "9/27-10/8: Yveltal <a:yveltal:849095014369591348><a:yveltalS:1014909017497272361>",
-       "description": "10/8-10/20: Xerneas <a:xerneasN:901963963531681893><a:xerneasS:836289294641266699>\n-10/20-10/27: Giratina Altered <a:giratinaA:683903132060745735><a:giratinaA_shiny:683903196032401420>\n-10/27-11/8: Giratina Origin <a:giratina_origin:849073803690508298><a:giratinaOS:1025962756618334238>"
+       "range_text": "10/8-10/20: Xerneas <a:xerneasN:901963963531681893><a:xerneasS:836289294641266699>",
+       "description": "10/20-10/27: Giratina Altered <a:giratinaA:683903132060745735><a:giratinaA_shiny:683903196032401420>\n-10/27-11/8: Giratina Origin <a:giratina_origin:849073803690508298><a:giratinaOS:1025962756618334238>"
    },
    {
      "event_name": "Season of Light",
@@ -45,7 +45,7 @@
      "reroll": "no",
      "shiny": "",
      "range_text": "Oct 15th 2-5pm",
-     "description": "Litwick <a:litwickS:1012218942959403099><a:lampentS:1012218989390348409><a:chandelureS:1012219034432970884>\n-3x catch XP, 2x catch Candy, too lazy for the rest\n<https://bit.ly/3BXuaNI>"
+     "description": "Litwick <a:litwickS:1012218942959403099><a:lampentS:1012218989390348409><a:chandelureS:1012219034432970884>\n-3x catch XP, 2x catch Candy, too lazy for the rest\n-<https://bit.ly/3BXuaNI>"
    },
    {
      "event_name": "Nov Community Day",
@@ -64,52 +64,20 @@
      "description": " ?<a:teddiursaS:1012219511153381427>?"
    },
    {
-     "event_name": "Nov Community Day Classic",
+     "event_name": "Dratini <a:dratini:836802135340875796><a:dratiniS:670509447885357087> Community Day Classic",
      "start_day": "5",
      "start_month": "November",
      "start_year": "2022",
      "end_day": "5",
      "end_month": "November",
      "end_year": "2022",
-     "start_time": "11:00",
-     "end_time": "14:00",
+     "start_time": "14:00",
+     "end_time": "17:00",
      "type": "local",
      "reroll": "no",
      "shiny": "",
-     "range_text": "Nov 5th 11-2pm",
-     "description": " ?<a:dratiniS:670509447885357087>?"
-   },
-   {
-     "event_name": "Purrloin <a:purrloin:849091986959106078> Spotlight Hour",
-     "start_day": "4",
-     "start_month": "October",
-     "start_year": "2022",
-     "end_day": "4",
-     "end_month": "October",
-     "end_year": "2022",
-     "start_time": "18:00",
-     "end_time": "19:00",
-     "type": "local",
-     "reroll": "",
-     "shiny": "",
-     "range_text": "Oct 4th 6-7pm",
-     "description": "2x evolve XP"
-   },
-   {
-     "event_name": "Haunter <a:haunter:849073969947475998> Spotlight Hour",
-     "start_day": "11",
-     "start_month": "October",
-     "start_year": "2022",
-     "end_day": "11",
-     "end_month": "October",
-     "end_year": "2022",
-     "start_time": "18:00",
-     "end_time": "19:00",
-     "type": "local",
-     "reroll": "",
-     "shiny": "",
-     "range_text": "Oct 11th 6-7pm",
-     "description": "2x catch Stardust"
+     "range_text": "Nov 5th 2pm-5pm",
+     "description": "Move: Draco Meteor\n-[More info](https://pokemongolive.com/post/community-day-classic-dratini-november-2022/)"
    },
    {
      "event_name": "Misdreavus <a:misdreavus:849091062781706310><a:misdreavusS:1025963548045738144> Spotlight Hour",
@@ -173,23 +141,23 @@
      "reroll": "yes",
      "shiny": "",
      "range_text": "Oct 14th-17th",
-     "description": "TBA"
+     "description": "Morelull <a:morelull:849091053315162123><a:shiinotic:849093161182560337> released\n-2x catch XP/Candy\n-[More info](https://pokemongolive.com/post/festival-of-lights-2022/)"
    },
    {
-     "event_name": "Halloween Event",
+     "event_name": "Halloween Part 1",
      "start_day": "20",
      "start_month": "October",
      "start_year": "2022",
-     "end_day": "1",
-     "end_month": "November",
+     "end_day": "27",
+     "end_month": "October",
      "end_year": "2022",
      "start_time": "10:00",
      "end_time": "20:00",
      "type": "local",
      "reroll": "yes",
      "shiny": "",
-     "range_text": "Oct 20th-Nov 1st",
-     "description": "TBA"
+     "range_text": "Oct 20th-27th",
+     "description": "Banette Mega <a:banette_mega:849071867079950366>✨\n-[More info](https://pokemongolive.com/post/halloween-2022-event-details-part-1/)"
    },
    {
      "event_name": "",
