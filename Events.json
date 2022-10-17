@@ -32,23 +32,7 @@
      "description": "<https://bit.ly/3RvREOD>"
    },
    {
-     "event_name": "Oct Community Day",
-     "start_day": "15",
-     "start_month": "October",
-     "start_year": "2022",
-     "end_day": "15",
-     "end_month": "October",
-     "end_year": "2022",
-     "start_time": "14:00",
-     "end_time": "17:00",
-     "type": "local",
-     "reroll": "no",
-     "shiny": "",
-     "range_text": "Oct 15th 2-5pm",
-     "description": "Litwick <a:litwickS:1012218942959403099><a:lampentS:1012218989390348409><a:chandelureS:1012219034432970884>\n-3x catch XP, 2x catch Candy, too lazy for the rest\n-<https://bit.ly/3BXuaNI>"
-   },
-   {
-     "event_name": "Nov Community Day",
+     "event_name": "Teddiursa <a:teddiursaS:1012219511153381427> Community Day",
      "start_day": "12",
      "start_month": "November",
      "start_year": "2022",
@@ -61,7 +45,7 @@
      "reroll": "no",
      "shiny": "",
      "range_text": "Nov 12th 11-2pm",
-     "description": " ?<a:teddiursaS:1012219511153381427>?"
+     "description": "Move: High Horsepower\n-[More info](https://pokemongolive.com/post/community-day-november-2022-teddiursa/)"
    },
    {
      "event_name": "Dratini <a:dratini:836802135340875796><a:dratiniS:670509447885357087> Community Day Classic",
