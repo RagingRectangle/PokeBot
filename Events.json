@@ -12,8 +12,8 @@
        "type": "global",
        "reroll": "",
        "shiny": "",
-       "range_text": "10/8-10/20: Xerneas <a:xerneasN:901963963531681893><a:xerneasS:836289294641266699>",
-       "description": "10/20-10/27: Giratina Altered <a:giratinaA:683903132060745735><a:giratinaA_shiny:683903196032401420>\n-10/27-11/8: Giratina Origin <a:giratina_origin:849073803690508298><a:giratinaOS:1025962756618334238>"
+       "range_text": "10/20-10/27: Giratina Altered <a:giratinaA:683903132060745735><a:giratinaA_shiny:683903196032401420>",
+       "description": "10/27-11/8: Giratina Origin <a:giratina_origin:849073803690508298><a:giratinaOS:1025962756618334238>"
    },
    {
      "event_name": "Season of Light",
@@ -64,22 +64,6 @@
      "description": "Move: Draco Meteor\n-[More info](https://pokemongolive.com/post/community-day-classic-dratini-november-2022/)"
    },
    {
-     "event_name": "Misdreavus <a:misdreavus:849091062781706310><a:misdreavusS:1025963548045738144> Spotlight Hour",
-     "start_day": "18",
-     "start_month": "October",
-     "start_year": "2022",
-     "end_day": "18",
-     "end_month": "October",
-     "end_year": "2022",
-     "start_time": "18:00",
-     "end_time": "19:00",
-     "type": "local",
-     "reroll": "",
-     "shiny": "",
-     "range_text": "Oct 18th 6-7pm",
-     "description": "2x catch XP"
-   },
-   {
      "event_name": "Shuppet <a:shuppet:849093146067599360><a:shuppetS:763952899620470786> Spotlight Hour",
      "start_day": "25",
      "start_month": "October",
@@ -96,38 +80,6 @@
      "description": "2x evolve XP"
    },
    {
-     "event_name": "Evolving Stars",
-     "start_day": "5",
-     "start_month": "October",
-     "start_year": "2022",
-     "end_day": "11",
-     "end_month": "October",
-     "end_year": "2022",
-     "start_time": "10:00",
-     "end_time": "20:00",
-     "type": "local",
-     "reroll": "yes",
-     "shiny": "",
-     "range_text": "Oct 5th-11th",
-     "description": "Evolve Cosmog <a:cosmog:849072601045139517> into Cosmoem <a:cosmoem:849072657135435807>\n-<https://bit.ly/3SR89Wv>"
-   },
-   {
-     "event_name": "Festival of Lights",
-     "start_day": "14",
-     "start_month": "October",
-     "start_year": "2022",
-     "end_day": "17",
-     "end_month": "October",
-     "end_year": "2022",
-     "start_time": "10:00",
-     "end_time": "20:00",
-     "type": "local",
-     "reroll": "yes",
-     "shiny": "",
-     "range_text": "Oct 14th-17th",
-     "description": "Morelull <a:morelull:849091053315162123><a:shiinotic:849093161182560337> released\n-2x catch XP/Candy\n-[More info](https://pokemongolive.com/post/festival-of-lights-2022/)"
-   },
-   {
      "event_name": "Halloween Part 1",
      "start_day": "20",
      "start_month": "October",
@@ -136,7 +88,7 @@
      "end_month": "October",
      "end_year": "2022",
      "start_time": "10:00",
-     "end_time": "20:00",
+     "end_time": "10:00",
      "type": "local",
      "reroll": "yes",
      "shiny": "",
@@ -144,20 +96,20 @@
      "description": "Banette Mega <a:banette_mega:849071867079950366>✨\n-[More info](https://pokemongolive.com/post/halloween-2022-event-details-part-1/)"
    },
    {
-     "event_name": "",
-     "start_day": "",
-     "start_month": "",
-     "start_year": "",
-     "end_day": "",
-     "end_month": "",
-     "end_year": "",
-     "start_time": "",
-     "end_time": "",
-     "type": "",
-     "reroll": "",
+     "event_name": "Halloween Part 2",
+     "start_day": "27",
+     "start_month": "October",
+     "start_year": "2022",
+     "end_day": "1",
+     "end_month": "November",
+     "end_year": "2022",
+     "start_time": "10:00",
+     "end_time": "10:00",
+     "type": "local",
+     "reroll": "yes",
      "shiny": "",
-     "range_text": "",
-     "description": ""
+     "range_text": "10/27 - 11/1",
+     "description": "Costumed stuff\n-2x catch/hatch/transfer Candy\n-[More info](https://pokemongolive.com/post/halloween-2022-event-details-part-2/)"
    },
    {
      "event_name": "",
