@@ -12,8 +12,8 @@
        "type": "global",
        "reroll": "",
        "shiny": "",
-       "range_text": "10/27-11/8: Giratina Origin <a:giratina_origin:849073803690508298><a:giratinaOS:1025962756618334238>",
-       "description": "11/8-11/23: Guzzlord <a:guzzlord:849074013653041184>\n-11/23-12/1: Nihilego <a:nihilego:849091380537982976>"
+       "range_text": "11/8-11/23: Guzzlord <a:guzzlord:849074013653041184>",
+       "description": "11/23-12/1: Nihilego <a:nihilego:849091380537982976>"
    },
    {
      "event_name": "Season of Light",
@@ -48,38 +48,6 @@
      "description": "Move: High Horsepower\n-[More info](https://pokemongolive.com/post/community-day-november-2022-teddiursa/)"
    },
    {
-     "event_name": "Croagunk <a:croagunk:849072648834252820><a:croagunkS:694750527958941718> Spotlight Hour",
-     "start_day": "8",
-     "start_month": "November",
-     "start_year": "2022",
-     "end_day": "8",
-     "end_month": "November",
-     "end_year": "2022",
-     "start_time": "18:00",
-     "end_time": "19:00",
-     "type": "local",
-     "reroll": "",
-     "shiny": "",
-     "range_text": "Nov 8th 6-7pm",
-     "description": "2x catch XP"
-   },
-   {
-     "event_name": "Porygon <a:porygon:849091971439657000><a:porygonS:747260267792171009> Spotlight Hour",
-     "start_day": "15",
-     "start_month": "November",
-     "start_year": "2022",
-     "end_day": "15",
-     "end_month": "November",
-     "end_year": "2022",
-     "start_time": "18:00",
-     "end_time": "19:00",
-     "type": "local",
-     "reroll": "",
-     "shiny": "",
-     "range_text": "Nov 15th 6-7pm",
-     "description": "2x catch Candy"
-   },
-   {
      "event_name": "Petilil <a:petilil:849091782717079592> Spotlight Hour",
      "start_day": "22",
      "start_month": "November",
@@ -112,54 +80,6 @@
      "description": "2x evolve XP"
    },
    {
-     "event_name": "Greedy Gluttons",
-     "start_day": "9",
-     "start_month": "November",
-     "start_year": "2022",
-     "end_day": "17",
-     "end_month": "November",
-     "end_year": "2022",
-     "start_time": "10:00",
-     "end_time": "20:00",
-     "type": "local",
-     "reroll": "yes",
-     "shiny": "",
-     "range_text": "Nov 9th-17th",
-     "description": "[More info](https://leekduck.com/events/greedy-gluttons-event/)"
-   },
-   {
-     "event_name": "Team GO Rocket Takeover",
-     "start_day": "14",
-     "start_month": "November",
-     "start_year": "2022",
-     "end_day": "17",
-     "end_month": "November",
-     "end_year": "2022",
-     "start_time": "0:01",
-     "end_time": "20:00",
-     "type": "local",
-     "reroll": "",
-     "shiny": "",
-     "range_text": "Nov 14th-17th",
-     "description": "[More info](https://leekduck.com/events/team-go-rocket-takeover-november-2022/)"
-   },
-   {
-     "event_name": "Elite Raids",
-     "start_day": "13",
-     "start_month": "November",
-     "start_year": "2022",
-     "end_day": "13",
-     "end_month": "November",
-     "end_year": "2022",
-     "start_time": "11:00",
-     "end_time": "17:00",
-     "type": "local",
-     "reroll": "",
-     "shiny": "",
-     "range_text": "Nov 13th 11am-5pm",
-     "description": "TBA"
-   },
-   {
      "event_name": "Astral Eclipse",
      "start_day": "23",
      "start_month": "November",
@@ -173,10 +93,10 @@
      "reroll": "yes",
      "shiny": "",
      "range_text": "Nov 23rd-28th",
-     "description": "TBA"
+     "description": "Solgaleo <a:solgaleo:849094015043108875> released\n-Lunala <a:lunala:849081553384636436> released\n-[More info](https://pokemongolive.com/en/post/astraleclipse/)"
    },
    {
-     "event_name": "TBA Event",
+     "event_name": "Ultra Beast Arrival",
      "start_day": "27",
      "start_month": "November",
      "start_year": "2022",
@@ -189,7 +109,7 @@
      "reroll": "",
      "shiny": "",
      "range_text": "Nov 27th 11am-5pm",
-     "description": "TBA"
+     "description": "Nihilego <a:nihilego:849091380537982976>, Buzzwole <a:buzzwole:849072183685808129>, Guzzlord <a:guzzlord:849074013653041184>, Kartana <a:kartana:849079493871665172>\n-[More info](https://pokemongolive.com/en/post/ultrabeastarrival/)"
    },
    {
      "event_name": "",
