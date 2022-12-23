@@ -12,8 +12,8 @@
        "type": "global",
        "reroll": "",
        "shiny": "",
-       "range_text": "12/1-12/8: Virizion <a:virizion:654219329889370112><a:virizionS:654219375305424916>",
-       "description": "12/8-12/15: Terrakion <a:terrakion:644321086032314401><a:terrakion_shiny:644321057746190363>\n-12/15-12/23: Cobalion <a:cobalion:639556390637273089><a:cobalion_shiny:639556419363930112>\n-12/23-1/1: Kyurem <a:kyurem:713203354142244884><a:kyuremS:713203433041035305>"
+       "range_text": "12/15-12/23: Cobalion <a:cobalion:639556390637273089><a:cobalion_shiny:639556419363930112>",
+       "description": "12/23-1/1: Kyurem <a:kyurem:713203354142244884><a:kyuremS:713203433041035305>"
    },
    {
      "event_name": "Season 9: Mythical Wishes",
