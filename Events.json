@@ -224,11 +224,11 @@
      "description": "[Event Info](https://leekduck.com/events/crackling-voltage-event/)"
    },
    {
-     "event_name": " Spotlight Hour",
-     "start_day": "",
+     "event_name": "Sandshrew Alola <a:sandshrew_alola:849092491646992384><a:sandshrew_alola_shiny:633877034673766421> Spotlight Hour",
+     "start_day": "3",
      "start_month": "January",
      "start_year": "2023",
-     "end_day": "",
+     "end_day": "3",
      "end_month": "January",
      "end_year": "2023",
      "start_time": "18:00",
@@ -236,15 +236,15 @@
      "type": "local",
      "reroll": "",
      "shiny": "",
-     "range_text": "Jan ",
-     "description": ""
+     "range_text": "Jan 3rd 6-7pm",
+     "description": "2x evolve XP"
    },
    {
-     "event_name": " Spotlight Hour",
-     "start_day": "",
+     "event_name": "Swirlix <a:swirlix:849093977152290817><a:swirlixS:1056295824935628800> Spotlight Hour",
+     "start_day": "10",
      "start_month": "January",
      "start_year": "2023",
-     "end_day": "",
+     "end_day": "10",
      "end_month": "January",
      "end_year": "2023",
      "start_time": "18:00",
@@ -252,15 +252,15 @@
      "type": "local",
      "reroll": "",
      "shiny": "",
-     "range_text": "Jan ",
-     "description": ""
+     "range_text": "Jan 10th 6-7pm",
+     "description": "2x catch Stardust"
    },
    {
-     "event_name": " Spotlight Hour",
-     "start_day": "",
+     "event_name": "Seedot <a:seedot:849093131659903007><a:seedotS:710023109251432478> Spotlight Hour",
+     "start_day": "17",
      "start_month": "January",
      "start_year": "2023",
-     "end_day": "",
+     "end_day": "17",
      "end_month": "January",
      "end_year": "2023",
      "start_time": "18:00",
@@ -268,15 +268,15 @@
      "type": "local",
      "reroll": "",
      "shiny": "",
-     "range_text": "Jan ",
-     "description": ""
+     "range_text": "Jan 17th 6-7pm",
+     "description": "2x catch XP"
    },
    {
-     "event_name": " Spotlight Hour",
-     "start_day": "",
+     "event_name": "Tynamo <a:tynamo:849094437778358352> Spotlight Hour",
+     "start_day": "24",
      "start_month": "January",
      "start_year": "2023",
-     "end_day": "",
+     "end_day": "24",
      "end_month": "January",
      "end_year": "2023",
      "start_time": "18:00",
@@ -284,15 +284,15 @@
      "type": "local",
      "reroll": "",
      "shiny": "",
-     "range_text": "Jan ",
-     "description": ""
+     "range_text": "Jan 24th 6-7pm",
+     "description": "2x catch Candy"
    },
    {
-     "event_name": " Spotlight Hour",
-     "start_day": "",
+     "event_name": "Blitzle <a:blitzle:849072140817137674><a:blitzleS:1056296505679552603> Spotlight Hour",
+     "start_day": "31",
      "start_month": "January",
      "start_year": "2023",
-     "end_day": "",
+     "end_day": "31",
      "end_month": "January",
      "end_year": "2023",
      "start_time": "18:00",
@@ -300,8 +300,8 @@
      "type": "local",
      "reroll": "",
      "shiny": "",
-     "range_text": "Jan ",
-     "description": ""
+     "range_text": "Jan 31st 6-7pm",
+     "description": "2x transfer Candy"
    },
    {
      "event_name": "",
