@@ -32,22 +32,6 @@
      "description": "[Season Info](https://leekduck.com/events/season-9-mythical-wishes/)"
    },
    {
-     "event_name": "Jan Community Day",
-     "start_day": "7",
-     "start_month": "January",
-     "start_year": "2023",
-     "end_day": "7",
-     "end_month": "January",
-     "end_year": "2023",
-     "start_time": "14:00",
-     "end_time": "17:00",
-     "type": "local",
-     "reroll": "",
-     "shiny": "",
-     "range_text": "Jan 7th 2-5pm",
-     "description": "[CD Info](https://leekduck.com/events/january-communityday2023/)"
-   },
-   {
      "event_name": "Larvitar <a:larvitar:849081359728640040><a:larvitarS:1060340896777912401> Jan CD Classic",
      "start_day": "21",
      "start_month": "January",
@@ -64,7 +48,7 @@
      "description": "[CDC Info](https://leekduck.com/events/january-communitydayclassic2023/)"
    },
    {
-     "event_name": "Feb Community Day",
+     "event_name": "Feb Community Day <a:noibat:849091332860805151><a:noibatS:1062435188321288347>",
      "start_day": "5",
      "start_month": "February",
      "start_year": "2023",
