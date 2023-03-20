@@ -12,8 +12,8 @@
        "type": "global",
        "reroll": "",
        "shiny": "",
-       "range_text": "3/1-3/8: Torandus Incarnate <a:tornadus_incarnate:849094257343463434><a:tornadus_shiny:673079541798797322>",
-       "description": "3/8-3/21: Ho-Oh <a:hooh:849073994639867915><a:hooh_shiny:584217215872794634>\n-3/21-3/28: Thundurus Incarnate <a:thundurus_incarnate:849094251823890492><a:thundurusS:823411300150804500>\n-Lugia <a:lugia:849081534953947177><a:lugia_shiny:584214049076805662>"
+       "range_text": "3/8-3/21: Ho-Oh <a:hooh:849073994639867915><a:hooh_shiny:584217215872794634>",
+       "description": "3/21-3/28: Thundurus Incarnate <a:thundurus_incarnate:849094251823890492><a:thundurusS:823411300150804500>\n-Lugia <a:lugia:849081534953947177><a:lugia_shiny:584214049076805662>"
    },
    {
      "event_name": "Season 10: Rising Heroes",
@@ -32,23 +32,7 @@
      "description": "[Season Info](https://leekduck.com/events/season-10-rising-heroes/)"
    },
    {
-     "event_name": "March Community Day <a:slowpoke:849093430780231711><a:slowpokeS:777963594499227678>",
-     "start_day": "18",
-     "start_month": "March",
-     "start_year": "2023",
-     "end_day": "18",
-     "end_month": "March",
-     "end_year": "2023",
-     "start_time": "14:00",
-     "end_time": "17:00",
-     "type": "local",
-     "reroll": "",
-     "shiny": "",
-     "range_text": "March 18th 2-5pm",
-     "description": "[CD Info](https://leekduck.com/events/march-communityday2023/)"
-   },
-   {
-     "event_name": "April Community Day",
+     "event_name": "April Community Day <a:togetic:849094169653936139><a:togeticS:1087232522544496680>",
      "start_day": "18",
      "start_month": "April",
      "start_year": "2023",
@@ -61,7 +45,7 @@
      "reroll": "",
      "shiny": "",
      "range_text": "April 15th 2-5pm",
-     "description": "[CD Info](https://leekduck.com/events/april-communityday2023/)"
+     "description": "[Togetic CD Info](https://leekduck.com/events/april-communityday2023/)"
    },
    {
      "event_name": "April CD Classic",
