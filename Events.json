@@ -240,20 +240,20 @@
      "description": "Bonus: 2x evolve XP"
    },
    {
-     "event_name": "",
-     "start_day": "",
-     "start_month": "",
-     "start_year": "",
-     "end_day": "",
-     "end_month": "",
-     "end_year": "",
-     "start_time": "",
-     "end_time": "",
-     "type": "",
+     "event_name": "Uxie✨, Mesprit✨, and Azelf✨ Raid Hour",
+     "start_day": "14",
+     "start_month": "June",
+     "start_year": "2023",
+     "end_day": "14",
+     "end_month": "June",
+     "end_year": "2023",
+     "start_time": "18:00",
+     "end_time": "19:00",
+     "type": "local",
      "reroll": "",
      "shiny": "",
-     "range_text": "",
-     "description": ""
+     "range_text": "June 14th 6-7pm",
+     "description": "[Event Info](https://leekduck.com/events/raidhour20230614/)"
    },
    {
      "event_name": "",
