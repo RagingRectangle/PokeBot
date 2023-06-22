@@ -12,8 +12,8 @@
        "type": "global",
        "reroll": "",
        "shiny": "",
-       "range_text": "6/1-6/15: Uxie✨, Mesprit✨, Azelf✨",
-       "description": "6/15-6/29: Nihilego✨\n-6/29-7/6: Heatran✨\n-7/6-7/13: Articuno✨, Zapdos✨, Moltres✨\n-7/13-7/25: Regieleki✨, 7/25-8/4: Regidrago✨\n-8/4-8/16: Cresselia\n-8/16-8/23: ???"
+       "range_text": "6/15-6/29: Nihilego✨\n-6/29-7/6: Heatran✨",
+       "description": "7/6-7/13: Articuno✨, Zapdos✨, Moltres✨\n-7/13-7/25: Regieleki✨, 7/25-8/4: Regidrago✨\n-8/4-8/16: Cresselia\n-8/16-8/23: ???"
    },
    {
        "event_name": "Mega Raids",
@@ -28,8 +28,8 @@
        "type": "global",
        "reroll": "",
        "shiny": "",
-       "range_text": "6/1-6/15: Swampert Mega✨",
-       "description": "6/15-6/29 Sceptile Mega✨\n-6/29-7/6: ???\n-7/6-7/13: Blastoise Mega✨\n-7/13-7/25: Blaziken Mega✨\n-7/25-8/4: Tyranitar Mega✨\n-8/4-8/16: Gyarados Mega✨\n-8/16-8/23: Salamence Mega✨"
+       "range_text": "6/15-6/29 Sceptile Mega✨",
+       "description": "6/29-7/6: ???\n-7/6-7/13: Blastoise Mega✨\n-7/13-7/25: Blaziken Mega✨\n-7/25-8/4: Tyranitar Mega✨\n-8/4-8/16: Gyarados Mega✨\n-8/16-8/23: Salamence Mega✨"
    },
    {
      "event_name": "Season 11: Hidden Gems",
