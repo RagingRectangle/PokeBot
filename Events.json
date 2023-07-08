@@ -12,8 +12,8 @@
        "type": "global",
        "reroll": "",
        "shiny": "",
-       "range_text": "6/29-7/6: Heatran✨",
-       "description": "7/6-7/13: Articuno✨, Zapdos✨, Moltres✨\n-7/13-7/25: Regieleki✨, 7/25-8/4: Regidrago✨\n-8/4-8/16: Cresselia\n-8/16-8/23: ???"
+       "range_text": "7/6-7/13: Articuno✨, Zapdos✨, Moltres✨",
+       "description": "7/13-7/25: Regieleki✨, 7/25-8/4: Regidrago✨\n-8/4-8/16: Cresselia\n-8/16-8/23: ???"
    },
    {
        "event_name": "Mega Raids",
@@ -28,8 +28,8 @@
        "type": "global",
        "reroll": "",
        "shiny": "",
-       "range_text": "6/29-7/6: Sableye Mega✨",
-       "description": "7/6-7/13: Blastoise Mega✨\n-7/13-7/25: Blaziken Mega✨\n-7/25-8/4: Tyranitar Mega✨\n-8/4-8/16: Gyarados Mega✨\n-8/16-8/23: Salamence Mega✨"
+       "range_text": "7/6-7/13: Blastoise Mega✨",
+       "description": "7/13-7/25: Blaziken Mega✨\n-7/25-8/4: Tyranitar Mega✨\n-8/4-8/16: Gyarados Mega✨\n-8/16-8/23: Salamence Mega✨"
    },
    {
      "event_name": "Season 11: Hidden Gems",
@@ -110,22 +110,6 @@
      "shiny": "",
      "range_text": "August 26th-27th",
      "description": "[Event Info](https://leekduck.com/events/pokemon-go-fest-2023-global/)"
-   },
-   {
-     "event_name": "Rufflet✨ Spotlight Hour",
-     "start_day": "4",
-     "start_month": "July",
-     "start_year": "2023",
-     "end_day": "4",
-     "end_month": "July",
-     "end_year": "2023",
-     "start_time": "18:00",
-     "end_time": "19:00",
-     "type": "local",
-     "reroll": "",
-     "shiny": "",
-     "range_text": "July 4th 6-7pm",
-     "description": "Bonus: 2x catch Stardust"
    },
    {
      "event_name": "Wailmer✨ Spotlight Hour",
