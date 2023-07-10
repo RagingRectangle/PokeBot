@@ -48,7 +48,7 @@
      "description": "[Season Info](https://leekduck.com/events/season-11-hidden-gems/)"
    },
    {
-     "event_name": "July CD TBA",
+     "event_name": "July Poliwag✨ CD",
      "start_day": "30",
      "start_month": "July",
      "start_year": "2023",
@@ -62,22 +62,6 @@
      "shiny": "",
      "range_text": "July 30th 2-5pm",
      "description": "[CD Info](https://leekduck.com/events/july-communityday2023/)"
-   },
-   {
-     "event_name": "July Squirtle✨ CD Classic",
-     "start_day": "9",
-     "start_month": "July",
-     "start_year": "2023",
-     "end_day": "9",
-     "end_month": "July",
-     "end_year": "2023",
-     "start_time": "14:00",
-     "end_time": "17:00",
-     "type": "local",
-     "reroll": "",
-     "shiny": "",
-     "range_text": "July 9th 2-5pm",
-     "description": "[CD Classic Info](https://pokemongolive.com/post/community-day-classic-squirtle-july-2023)"
    },
    {
      "event_name": "August CD TBA",
