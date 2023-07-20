@@ -12,8 +12,8 @@
        "type": "global",
        "reroll": "",
        "shiny": "",
-       "range_text": "7/6-7/13: Articuno✨, Zapdos✨, Moltres✨",
-       "description": "7/13-7/25: Regieleki✨, 7/25-8/4: Regidrago✨\n-8/4-8/16: Cresselia\n-8/16-8/23: ???"
+       "range_text": "7/13-7/25: Regieleki✨, 7/25-8/4: Regidrago✨",
+       "description": "8/4-8/16: Cresselia\n-8/16-8/23: ???"
    },
    {
        "event_name": "Mega Raids",
@@ -28,8 +28,8 @@
        "type": "global",
        "reroll": "",
        "shiny": "",
-       "range_text": "7/6-7/13: Blastoise Mega✨",
-       "description": "7/13-7/25: Blaziken Mega✨\n-7/25-8/4: Tyranitar Mega✨\n-8/4-8/16: Gyarados Mega✨\n-8/16-8/23: Salamence Mega✨"
+       "range_text": "7/13-7/25: Blaziken Mega✨",
+       "description": "7/25-8/4: Tyranitar Mega✨\n-8/4-8/16: Gyarados Mega✨\n-8/16-8/23: Salamence Mega✨"
    },
    {
      "event_name": "Season 11: Hidden Gems",
@@ -96,38 +96,6 @@
      "description": "[Event Info](https://leekduck.com/events/pokemon-go-fest-2023-global/)"
    },
    {
-     "event_name": "Wailmer✨ Spotlight Hour",
-     "start_day": "11",
-     "start_month": "July",
-     "start_year": "2023",
-     "end_day": "11",
-     "end_month": "July",
-     "end_year": "2023",
-     "start_time": "18:00",
-     "end_time": "19:00",
-     "type": "local",
-     "reroll": "",
-     "shiny": "",
-     "range_text": "July 11th 6-7pm",
-     "description": "Bonus: 2x catch XP"
-   },
-   {
-     "event_name": "Rhyhorn✨ Spotlight Hour",
-     "start_day": "18",
-     "start_month": "July",
-     "start_year": "2023",
-     "end_day": "18",
-     "end_month": "July",
-     "end_year": "2023",
-     "start_time": "18:00",
-     "end_time": "19:00",
-     "type": "local",
-     "reroll": "",
-     "shiny": "",
-     "range_text": "July 18th 6-7pm",
-     "description": "Bonus: 2x catch Candy"
-   },
-   {
      "event_name": "Yungoos✨ Spotlight Hour",
      "start_day": "25",
      "start_month": "July",
@@ -142,38 +110,6 @@
      "shiny": "",
      "range_text": "July 25th 6-7pm",
      "description": "Bonus: 2x transfer Candy"
-   },
-   {
-     "event_name": "7th Anniversary Party",
-     "start_day": "6",
-     "start_month": "July",
-     "start_year": "2023",
-     "end_day": "12",
-     "end_month": "July",
-     "end_year": "2023",
-     "start_time": "10:00",
-     "end_time": "20:00",
-     "type": "local",
-     "reroll": "yes",
-     "shiny": "",
-     "range_text": "July 6th-12th",
-     "description": "[Event Info](https://leekduck.com/events/7th-anniversary-party/)"
-   },
-   {
-     "event_name": "Catching some Z's",
-     "start_day": "15",
-     "start_month": "July",
-     "start_year": "2023",
-     "end_day": "16",
-     "end_month": "July",
-     "end_year": "2023",
-     "start_time": "10:00",
-     "end_time": "20:00",
-     "type": "local",
-     "reroll": "yes",
-     "shiny": "",
-     "range_text": "July 15th-16th",
-     "description": "[Event Info](https://leekduck.com/events/catching-some-zs/)"
    },
    {
      "event_name": "Riolu Hatch Day",
@@ -208,20 +144,20 @@
      "description": "[Event Info](https://leekduck.com/events/adventure-week-2023/)"
    },
    {
-     "event_name": "",
-     "start_day": "",
-     "start_month": "",
-     "start_year": "",
-     "end_day": "",
-     "end_month": "",
-     "end_year": "",
-     "start_time": "",
-     "end_time": "",
-     "type": "",
-     "reroll": "",
+     "event_name": "Blaze New Trails",
+     "start_day": "21",
+     "start_month": "July",
+     "start_year": "2023",
+     "end_day": "24",
+     "end_month": "July",
+     "end_year": "2023",
+     "start_time": "10:00",
+     "end_time": "20:00",
+     "type": "local",
+     "reroll": "yes",
      "shiny": "",
-     "range_text": "",
-     "description": ""
+     "range_text": "July 21st-24th",
+     "description": "[Event Info](https://pokemongolive.com/post/routes-new-feature-blaze-new-trails?hl=en)"
    },
    {
      "event_name": "",
