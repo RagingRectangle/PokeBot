@@ -12,7 +12,7 @@
        "type": "global",
        "reroll": "",
        "shiny": "",
-       "range_text": "7/13-7/25: Regieleki✨, 7/25-8/4: Regidrago✨",
+       "range_text": "7/25-8/4: Regidrago✨",
        "description": "8/4-8/16: Cresselia\n-8/16-8/23: ???"
    },
    {
@@ -28,8 +28,8 @@
        "type": "global",
        "reroll": "",
        "shiny": "",
-       "range_text": "7/13-7/25: Blaziken Mega✨",
-       "description": "7/25-8/4: Tyranitar Mega✨\n-8/4-8/16: Gyarados Mega✨\n-8/16-8/23: Salamence Mega✨"
+       "range_text": "7/25-8/4: Tyranitar Mega✨",
+       "description": "8/4-8/16: Gyarados Mega✨\n-8/16-8/23: Salamence Mega✨"
    },
    {
      "event_name": "Season 11: Hidden Gems",
@@ -112,22 +112,6 @@
      "description": "Bonus: 2x transfer Candy"
    },
    {
-     "event_name": "Riolu Hatch Day",
-     "start_day": "22",
-     "start_month": "July",
-     "start_year": "2023",
-     "end_day": "22",
-     "end_month": "July",
-     "end_year": "2023",
-     "start_time": "14:00",
-     "end_time": "17:00",
-     "type": "local",
-     "reroll": "no",
-     "shiny": "",
-     "range_text": "July 22nd 2-5pm",
-     "description": "[Event Info](https://leekduck.com/events/riolu-hatch-day/)"
-   },
-   {
      "event_name": "Adventure Week 2023",
      "start_day": "27",
      "start_month": "July",
@@ -143,37 +127,22 @@
      "range_text": "July 27th-Aug 2nd",
      "description": "[Event Info](https://leekduck.com/events/adventure-week-2023/)"
    },
+
    {
-     "event_name": "Blaze New Trails",
-     "start_day": "21",
-     "start_month": "July",
+     "event_name": "Glittering Garden",
+     "start_day": "5",
+     "start_month": "August",
      "start_year": "2023",
-     "end_day": "24",
-     "end_month": "July",
+     "end_day": "8",
+     "end_month": "August",
      "end_year": "2023",
      "start_time": "10:00",
      "end_time": "20:00",
      "type": "local",
      "reroll": "yes",
      "shiny": "",
-     "range_text": "July 21st-24th",
-     "description": "[Event Info](https://pokemongolive.com/post/routes-new-feature-blaze-new-trails?hl=en)"
-   },
-   {
-     "event_name": "",
-     "start_day": "",
-     "start_month": "",
-     "start_year": "",
-     "end_day": "",
-     "end_month": "",
-     "end_year": "",
-     "start_time": "",
-     "end_time": "",
-     "type": "",
-     "reroll": "",
-     "shiny": "",
-     "range_text": "",
-     "description": ""
+     "range_text": "Aug 5th-8th",
+     "description": "[Event Info](https://pokemongolive.com/post/go-fest-2023-glittering-garden)"
    },
    {
      "event_name": "",
