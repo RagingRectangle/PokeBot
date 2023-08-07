@@ -48,23 +48,7 @@
      "description": "[Season Info](https://leekduck.com/events/season-11-hidden-gems/)"
    },
    {
-     "event_name": "July Poliwag✨ CD",
-     "start_day": "30",
-     "start_month": "July",
-     "start_year": "2023",
-     "end_day": "30",
-     "end_month": "July",
-     "end_year": "2023",
-     "start_time": "14:00",
-     "end_time": "17:00",
-     "type": "local",
-     "reroll": "",
-     "shiny": "",
-     "range_text": "July 30th 2-5pm",
-     "description": "[CD Info](https://leekduck.com/events/july-communityday2023/)"
-   },
-   {
-     "event_name": "August CD TBA",
+     "event_name": "Froakie✨ August CD",
      "start_day": "13",
      "start_month": "August",
      "start_year": "2023",
