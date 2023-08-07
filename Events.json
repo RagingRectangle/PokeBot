@@ -96,23 +96,6 @@
      "description": "Bonus: 2x transfer Candy"
    },
    {
-     "event_name": "Adventure Week 2023",
-     "start_day": "27",
-     "start_month": "July",
-     "start_year": "2023",
-     "end_day": "2",
-     "end_month": "August",
-     "end_year": "2023",
-     "start_time": "10:00",
-     "end_time": "20:00",
-     "type": "local",
-     "reroll": "yes",
-     "shiny": "",
-     "range_text": "July 27th-Aug 2nd",
-     "description": "[Event Info](https://leekduck.com/events/adventure-week-2023/)"
-   },
-
-   {
      "event_name": "Glittering Garden",
      "start_day": "5",
      "start_month": "August",
@@ -129,20 +112,20 @@
      "description": "[Event Info](https://pokemongolive.com/post/go-fest-2023-glittering-garden)"
    },
    {
-     "event_name": "",
-     "start_day": "",
-     "start_month": "",
-     "start_year": "",
-     "end_day": "",
-     "end_month": "",
-     "end_year": "",
-     "start_time": "",
-     "end_time": "",
-     "type": "",
+     "event_name": "Noxious Swamp",
+     "start_day": "19",
+     "start_month": "August",
+     "start_year": "2023",
+     "end_day": "22",
+     "end_month": "August",
+     "end_year": "2023",
+     "start_time": "10:00",
+     "end_time": "20:00",
+     "type": "local",
      "reroll": "",
      "shiny": "",
-     "range_text": "",
-     "description": ""
+     "range_text": "Aug 19th-22nd",
+     "description": "[Event Info](https://leekduck.com/events/noxious-swamp/)"
    },
    {
      "event_name": "",
