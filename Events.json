@@ -1,5 +1,21 @@
 [
    {
+       "event_name": "Test",
+       "start_day": "17",
+       "start_month": "Sep",
+       "start_year": "2023",
+       "end_day": "17",
+       "end_month": "Sep",
+       "end_year": "2023",
+       "start_time": "22:00",
+       "end_time": "23:00",
+       "type": "global",
+       "reroll": "",
+       "shiny": "",
+       "range_text": "Test2",
+       "description": "Test3"
+   },
+   {
        "event_name": "T5 Raids",
        "start_day": "1",
        "start_month": "February",
