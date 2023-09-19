@@ -12,7 +12,9 @@
        "range_text": "Test1",
        "description": "Test2",
       "startText": "Wednesday, September 20, at 10:00 AM Local Time",
-      "endText": "Sunday, September 24, at 8:00 PM Local Time"
+      "startYear": "2023",
+      "endText": "Sunday, September 24, at 8:00 PM Local Time",
+      "endYear": "2023"
    },
    {
        "event_name": "Mega Raids",
