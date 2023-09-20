@@ -1,21 +1,23 @@
 [
    {
       "name": "T5 Raids",
-      "startText": "",
+      "startText": ", ",
       "startYear": "2023",
-      "endText": "",
+      "endText": ", ",
       "endYear": "2069",
       "eventLink": "https://leekduck.com/events/",
-      "info": "9/16-9/23: Genesect Burn✨\n- 9/23-10/6:Raikou✨, Entei✨, and Suicune✨"
+      "info": "9/16-9/23: Genesect Burn✨\n- 9/23-10/6:Raikou✨, Entei✨, and Suicune✨",
+      "skip": "true"
    },
    {
       "name": "Mega Raids",
-      "startText": "",
+      "startText": ", ",
       "startYear": "2023",
-      "endText": "",
+      "endText": ", ",
       "endYear": "2069",
       "eventLink": "https://leekduck.com/events/",
-      "info": "9/16-10/6: Gardevoir Mega✨"
+      "info": "9/16-10/6: Gardevoir Mega✨",
+      "skip": "true"
    },
    {
       "name": "Season 11: Adventures Abound",
