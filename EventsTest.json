@@ -1,9 +1,9 @@
 [
    {
       "name": "T5 Raids",
-      "startText": ", ",
+      "startText": "x, y 2, at z:00 AM",
       "startYear": "2023",
-      "endText": ", ",
+      "endText": "x, y 2, at z:00 AM",
       "endYear": "2069",
       "eventLink": "https://leekduck.com/events/",
       "info": "9/16-9/23: Genesect Burn✨\n- 9/23-10/6:Raikou✨, Entei✨, and Suicune✨",
@@ -11,9 +11,9 @@
    },
    {
       "name": "Mega Raids",
-      "startText": ", ",
+      "startText": "x, y 2, at z:00 AM",
       "startYear": "2023",
-      "endText": ", ",
+      "endText": "x, y 2, at z:00 AM",
       "endYear": "2069",
       "eventLink": "https://leekduck.com/events/",
       "info": "9/16-10/6: Gardevoir Mega✨",
