@@ -20,6 +20,15 @@
       "skip": "true"
    },
    {
+      "name": "Raikou, Entei, and Suicune in 5-star Raid Battles",
+      "startText": "Saturday, September 23, at 10:00 AM Local Time",
+      "startYear": "2023",
+      "endText": "Friday, October 6, at 10:00 AM Local Time",
+      "endYear": "2023",
+      "eventLink": "https://leekduck.com/events/raikou-entei-suicune-in-5-star-raid-battles-september-2023-swap/",
+      "info": ""
+   },
+   {
       "name": "Season 11: Adventures Abound",
       "startText": "Friday, September 1, at 10:00 AM Local Time",
       "startYear": "2023",
@@ -56,12 +65,57 @@
       "info": ""
    },
    {
-      "name": "",
-      "startText": "",
+      "name": "Spoink PokéStop Showcases",
+      "startText": "Wednesday, September 20, at 10:00 AM Local Time",
       "startYear": "2023",
-      "endText": "",
+      "endText": "Friday, September 22, at 8:00 PM Local Time",
       "endYear": "2023",
-      "eventLink": "",
+      "eventLink": "https://leekduck.com/events/pokemon-showcase-spoink-2023-09-20/",
+      "info": ""
+   },
+   {
+      "name": "Grubbin and Vikavolt PokéStop Showcases",
+      "startText": "Saturday, September 23, at 2:00 PM Local Time",
+      "startYear": "2023",
+      "endText": "Saturday, September 23, at 5:00 PM Local Time",
+      "endYear": "2023",
+      "eventLink": "https://leekduck.com/events/pokemon-showcase-grubbin-vikavolt-2023-09-23/",
+      "info": ""
+   },
+   {
+      "name": "Growlithe and Hisuian Growlithe PokéStop Showcases",
+      "startText": "Wednesday, September 27, at 10:00 AM Local Time",
+      "startYear": "2023",
+      "endText": "Friday, September 29, at 8:00 PM Local Time",
+      "endYear": "2023",
+      "eventLink": "https://leekduck.com/events/pokemon-showcase-growlithe-hisuian-growlithe-2023-09-27/",
+      "info": ""
+   },
+   {
+      "name": "Mega Gardevoir in Mega Raids",
+      "startText": "Saturday, September 16, at 10:00 AM Local Time",
+      "startYear": "2023",
+      "endText": "Friday, October 6, at 10:00 AM Local Time",
+      "endYear": "2023",
+      "eventLink": "https://leekduck.com/events/mega-gardevoir-in-mega-raids-september-2023/",
+      "info": ""
+   },
+   {
+      "name": "Shadow Zapdos in Shadow Raids",
+      "startText": "Saturday, September 2, at 10:00 AM Local Time",
+      "startYear": "2023",
+      "endText": "Sunday, November 26, at 8:00 PM Local Time",
+      "endYear": "2023",
+      "eventLink": "https://leekduck.com/events/shadow-zapdos-in-shadow-raids-adventures-abound",
+      "info": ""
+   },
+   {
+      "name": "Azurill Hatch Day",
+      "startText": "Saturday, September 30, at 2:00 PM Local Time",
+      "startYear": "2023",
+      "endText": "Saturday, September 30, at 5:00 PM Local Time",
+      "endYear": "2023",
+      "eventLink": "https://leekduck.com/events/azurill-hatch-day/",
       "info": ""
    },
    {
